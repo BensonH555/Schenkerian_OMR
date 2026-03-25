@@ -1,0 +1,18 @@
+data/
+weights/
+runs/
+outputs/
+Schenkerian_Data/
+midi_output/
+
+__pycache__/
+*.pyc
+*.pt
+*.npy
+*.out
+
+# Keep shell scripts but not log outputs
+quick_results/
+quick_results_with_edges/
+results_500px_edges/
+mini_run_logs/

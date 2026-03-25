@@ -1,0 +1,25 @@
+# Same as muscima_nogrammar.yaml but with NO distance filtering
+TRAIN_ON_BOUNDING_BOXES: TRUE
+NORMALIZE_BOUNDING_BOXES: TRUE
+
+# Set to a very large value to effectively disable distance filtering
+THRESHOLD_NEGATIVE_DISTANCE: 500
+
+# Restriction to avoid imbalanced dataset of having 10 negatives for 1 positive example
+MAX_NEGATIVE_EXAMPLES_PER_OBJECT: -1
+
+# At validation time, we should test against the runtime
+# situation, where we will classify every pair within
+# THRESHOLD_NEGATIVE_DISTANCE
+VALIDATION_MAX_NEGATIVE_EXAMPLES_PER_OBJECT: -1
+
+# The size of the image patches that are output
+PATCH_HEIGHT: 256
+PATCH_WIDTH: 512
+
+# The rescaling factor that is applied before the patch is extracted
+IMAGE_ZOOM: 1.0
+
+# Randomly moves the patch this many pixels away from the midpoint
+# between the two sampled objects.
+MAX_PATCH_DISPLACEMENT: 0
