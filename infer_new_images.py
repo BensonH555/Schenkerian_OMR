@@ -29,6 +29,16 @@ from configs.assembler.default import get_cfg_defaults
 from ultralytics.utils.plotting import Colors
 
 import yaml
+from ultralytics import RTDETR
+
+# ---- Helper for models without soft class probabilities ----
+class _SoftProb:
+    """Mimics the soft probability interface for models that only output hard class + confidence."""
+    def __init__(self, cls_id, conf, num_classes=177):
+        self.top1 = cls_id
+        self._data = np.zeros(num_classes, dtype=np.float32)
+        self._data[cls_id] = conf
+        self.data = self._data
 
 # ---- Tiling parameters (same as detector_infer.py) ----
 PATCH_SIZE = 1216
@@ -103,9 +113,22 @@ def run_detection(model, images_dir, batch_size=8):
             if to_remove:
                 del plist[to_remove]
 
-        for box, prob in zip(result.boxes, result.probs):
+        # RT-DETR does not produce soft class probs; fall back to one-hot from boxes
+        has_probs = result.probs is not None
+        if has_probs:
+            prob_iter = result.probs
+        else:
+            prob_iter = result.boxes  # placeholder, we build probs below
+
+        for idx_box, box in enumerate(result.boxes):
             bbox = box.xyxy.squeeze().cpu().numpy()
-            probdata = prob.cpu().numpy()
+            if has_probs:
+                probdata = result.probs[idx_box].cpu().numpy()
+            else:
+                # Build a one-hot-like prob vector from cls and conf
+                cls_id = int(box.cls.item())
+                conf = float(box.conf.item())
+                probdata = _SoftProb(cls_id, conf)
             left, top, right, bottom = bbox
             if (right <= 2 * MARGIN and x_id > 0) or (bottom <= 2 * MARGIN and y_id > 0):
                 continue
@@ -269,10 +292,8 @@ if __name__ == "__main__":
 
     # Setup directories
     os.makedirs(args.output_dir, exist_ok=True)
-    preproc_dir = os.path.join(args.output_dir, 'preprocessed')
     ann_dir = os.path.join(args.output_dir, 'annotations')
     vis_dir = os.path.join(args.output_dir, 'visualization')
-    os.makedirs(preproc_dir, exist_ok=True)
     os.makedirs(ann_dir, exist_ok=True)
     os.makedirs(vis_dir, exist_ok=True)
 
@@ -281,6 +302,8 @@ if __name__ == "__main__":
 
     # ---- Step 1: Preprocess ----
     if not args.skip_preprocess:
+        preproc_dir = os.path.join(args.output_dir, 'preprocessed')
+        os.makedirs(preproc_dir, exist_ok=True)
         print("\n=== Step 1: Preprocessing images ===")
         img_files = [f for f in os.listdir(args.input_dir)
                     if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
@@ -293,10 +316,13 @@ if __name__ == "__main__":
     else:
         detect_dir = args.input_dir
 
-    # ---- Step 2: YOLOv8 Detection ----
-    print("\n=== Step 2: Running YOLOv8 detection ===")
+    # ---- Step 2: Detection ----
+    print("\n=== Step 2: Running detection ===")
     print(f"Loading detector from {args.detector_model}...")
-    detector = YOLOSoft(args.detector_model)
+    if 'rtdetr' in os.path.basename(args.detector_model).lower():
+        detector = RTDETR(args.detector_model)
+    else:
+        detector = YOLOSoft(args.detector_model)
     imgname2preds = run_detection(detector, detect_dir, args.batch_size)
     del detector  # free GPU memory
     torch.cuda.empty_cache()
@@ -397,6 +423,7 @@ if __name__ == "__main__":
         visualize_results(orig_path, imgname2nodes[img_name], vis_path, class_dict)
 
     print(f"\n=== Done! ===")
-    print(f"Preprocessed images: {preproc_dir}")
+    if not args.skip_preprocess:
+        print(f"Preprocessed images: {preproc_dir}")
     print(f"MuNG XML annotations: {ann_dir}")
     print(f"Visualizations: {vis_dir}")

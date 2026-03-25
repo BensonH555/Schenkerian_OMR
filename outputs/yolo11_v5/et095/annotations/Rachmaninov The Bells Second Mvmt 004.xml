@@ -1,0 +1,6674 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dataset="Schenkerian_OMR" document="Rachmaninov The Bells Second Mvmt 004" xsi:noNamespaceSchemaLocation="CVC-MUSCIMA_Schema.xsd">
+<Node>
+	<Id>0</Id>
+	<ClassName>gClef</ClassName>
+	<Top>751</Top>
+	<Left>44</Left>
+	<Width>58</Width>
+	<Height>177</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>1</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>776</Top>
+	<Left>115</Left>
+	<Width>35</Width>
+	<Height>50</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>2</Id>
+	<ClassName>fClef</ClassName>
+	<Top>981</Top>
+	<Left>57</Left>
+	<Width>53</Width>
+	<Height>66</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>3</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>809</Top>
+	<Left>147</Left>
+	<Width>33</Width>
+	<Height>43</Height>
+	<Mask />
+	<Outlinks>20</Outlinks>
+</Node>
+<Node>
+	<Id>4</Id>
+	<ClassName>tie</ClassName>
+	<Top>637</Top>
+	<Left>270</Left>
+	<Width>294</Width>
+	<Height>56</Height>
+	<Mask />
+	<Inlinks>39 59 105 109</Inlinks>
+	<Outlinks>105</Outlinks>
+</Node>
+<Node>
+	<Id>5</Id>
+	<ClassName>slur</ClassName>
+	<Top>900</Top>
+	<Left>480</Left>
+	<Width>98</Width>
+	<Height>29</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>6</Id>
+	<ClassName>slur</ClassName>
+	<Top>928</Top>
+	<Left>272</Left>
+	<Width>618</Width>
+	<Height>107</Height>
+	<Mask />
+	<Inlinks>21 48 50 126</Inlinks>
+	<Outlinks>9 21 48 50 108 126</Outlinks>
+</Node>
+<Node>
+	<Id>7</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>982</Top>
+	<Left>119</Left>
+	<Width>33</Width>
+	<Height>44</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>8</Id>
+	<ClassName>stem</ClassName>
+	<Top>843</Top>
+	<Left>896</Left>
+	<Width>15</Width>
+	<Height>185</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>9</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>841</Top>
+	<Left>569</Left>
+	<Width>25</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>6 85 98</Inlinks>
+	<Outlinks>85 98</Outlinks>
+</Node>
+<Node>
+	<Id>10</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>842</Top>
+	<Left>629</Left>
+	<Width>25</Width>
+	<Height>54</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>11</Id>
+	<ClassName>tie</ClassName>
+	<Top>521</Top>
+	<Left>795</Left>
+	<Width>97</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>12</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1010</Top>
+	<Left>160</Left>
+	<Width>29</Width>
+	<Height>48</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>13</Id>
+	<ClassName>stem</ClassName>
+	<Top>526</Top>
+	<Left>1071</Left>
+	<Width>15</Width>
+	<Height>169</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>14</Id>
+	<ClassName>slur</ClassName>
+	<Top>803</Top>
+	<Left>255</Left>
+	<Width>79</Width>
+	<Height>31</Height>
+	<Mask />
+	<Inlinks>103</Inlinks>
+</Node>
+<Node>
+	<Id>15</Id>
+	<ClassName>beam</ClassName>
+	<Top>551</Top>
+	<Left>918</Left>
+	<Width>143</Width>
+	<Height>63</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>16</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>826</Top>
+	<Left>246</Left>
+	<Width>21</Width>
+	<Height>21</Height>
+	<Mask />
+	<Outlinks>38</Outlinks>
+</Node>
+<Node>
+	<Id>17</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>902</Top>
+	<Left>243</Left>
+	<Width>49</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>18</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>734</Top>
+	<Left>330</Left>
+	<Width>23</Width>
+	<Height>37</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>19</Id>
+	<ClassName>stem</ClassName>
+	<Top>890</Top>
+	<Left>697</Left>
+	<Width>13</Width>
+	<Height>65</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>20</Id>
+	<ClassName>keySignature</ClassName>
+	<Top>777</Top>
+	<Left>115</Left>
+	<Width>66</Width>
+	<Height>73</Height>
+	<Mask />
+	<Inlinks>3</Inlinks>
+</Node>
+<Node>
+	<Id>21</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>877</Top>
+	<Left>698</Left>
+	<Width>22</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>6 98</Inlinks>
+	<Outlinks>6 98</Outlinks>
+</Node>
+<Node>
+	<Id>22</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>713</Top>
+	<Left>862</Left>
+	<Width>58</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>23</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>756</Top>
+	<Left>1033</Left>
+	<Width>26</Width>
+	<Height>57</Height>
+	<Mask />
+	<Outlinks>266</Outlinks>
+</Node>
+<Node>
+	<Id>24</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>761</Top>
+	<Left>749</Left>
+	<Width>47</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>25</Id>
+	<ClassName>stem</ClassName>
+	<Top>616</Top>
+	<Left>564</Left>
+	<Width>15</Width>
+	<Height>99</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>26</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>757</Top>
+	<Left>453</Left>
+	<Width>44</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>27</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>771</Top>
+	<Left>181</Left>
+	<Width>24</Width>
+	<Height>31</Height>
+	<Mask />
+	<Inlinks>38 69</Inlinks>
+</Node>
+<Node>
+	<Id>28</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>827</Top>
+	<Left>956</Left>
+	<Width>23</Width>
+	<Height>32</Height>
+	<Mask />
+	<Inlinks>40 101 102</Inlinks>
+	<Outlinks>101 110 118 129</Outlinks>
+</Node>
+<Node>
+	<Id>29</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>763</Top>
+	<Left>291</Left>
+	<Width>42</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>30</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>864</Top>
+	<Left>385</Left>
+	<Width>27</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>31</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>840</Top>
+	<Left>985</Left>
+	<Width>17</Width>
+	<Height>17</Height>
+	<Mask />
+	<Inlinks>40 102</Inlinks>
+	<Outlinks>101 110 118 129</Outlinks>
+</Node>
+<Node>
+	<Id>32</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>775</Top>
+	<Left>434</Left>
+	<Width>23</Width>
+	<Height>45</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>33</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>692</Top>
+	<Left>1062</Left>
+	<Width>21</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>101 118</Inlinks>
+</Node>
+<Node>
+	<Id>34</Id>
+	<ClassName>tie</ClassName>
+	<Top>652</Top>
+	<Left>579</Left>
+	<Width>185</Width>
+	<Height>43</Height>
+	<Mask />
+	<Inlinks>47 56 59 99</Inlinks>
+	<Outlinks>59</Outlinks>
+</Node>
+<Node>
+	<Id>35</Id>
+	<ClassName>slur</ClassName>
+	<Top>684</Top>
+	<Left>257</Left>
+	<Width>213</Width>
+	<Height>39</Height>
+	<Mask />
+	<Inlinks>39 75 103 105 109 122</Inlinks>
+</Node>
+<Node>
+	<Id>36</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>735</Top>
+	<Left>613</Left>
+	<Width>48</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>37</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>201</Top>
+	<Left>502</Left>
+	<Width>27</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>38</Id>
+	<ClassName>slur</ClassName>
+	<Top>708</Top>
+	<Left>256</Left>
+	<Width>203</Width>
+	<Height>71</Height>
+	<Mask />
+	<Inlinks>16 39 75 97 103 105 109 122</Inlinks>
+	<Outlinks>27 39 63 97 109 122</Outlinks>
+</Node>
+<Node>
+	<Id>39</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>748</Top>
+	<Left>295</Left>
+	<Width>30</Width>
+	<Height>36</Height>
+	<Mask />
+	<Inlinks>38 69</Inlinks>
+	<Outlinks>4 35 38 69</Outlinks>
+</Node>
+<Node>
+	<Id>40</Id>
+	<ClassName>tie</ClassName>
+	<Top>914</Top>
+	<Left>917</Left>
+	<Width>171</Width>
+	<Height>50</Height>
+	<Mask />
+	<Outlinks>28 31 54 64 76 155 156 175 252</Outlinks>
+</Node>
+<Node>
+	<Id>41</Id>
+	<ClassName>beam</ClassName>
+	<Top>637</Top>
+	<Left>270</Left>
+	<Width>294</Width>
+	<Height>55</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>42</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>706</Top>
+	<Left>884</Left>
+	<Width>26</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>101 118</Inlinks>
+	<Outlinks>118</Outlinks>
+</Node>
+<Node>
+	<Id>43</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>849</Top>
+	<Left>851</Left>
+	<Width>28</Width>
+	<Height>47</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>44</Id>
+	<ClassName>beam</ClassName>
+	<Top>652</Top>
+	<Left>579</Left>
+	<Width>186</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>45</Id>
+	<ClassName>barline</ClassName>
+	<Top>792</Top>
+	<Left>822</Left>
+	<Width>18</Width>
+	<Height>266</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>46</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>679</Top>
+	<Left>1019</Left>
+	<Width>25</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>47</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>768</Top>
+	<Left>566</Left>
+	<Width>21</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>85 98</Inlinks>
+	<Outlinks>34 85 94 98</Outlinks>
+</Node>
+<Node>
+	<Id>48</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>868</Top>
+	<Left>512</Left>
+	<Width>25</Width>
+	<Height>32</Height>
+	<Mask />
+	<Inlinks>6 85 98</Inlinks>
+	<Outlinks>6 85 98 127</Outlinks>
+</Node>
+<Node>
+	<Id>49</Id>
+	<ClassName>barline</ClassName>
+	<Top>794</Top>
+	<Left>18</Left>
+	<Width>21</Width>
+	<Height>272</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>50</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>882</Top>
+	<Left>576</Left>
+	<Width>18</Width>
+	<Height>18</Height>
+	<Mask />
+	<Inlinks>6 98</Inlinks>
+	<Outlinks>6 85 98</Outlinks>
+</Node>
+<Node>
+	<Id>51</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>761</Top>
+	<Left>336</Left>
+	<Width>48</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>52</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>895</Top>
+	<Left>259</Left>
+	<Width>21</Width>
+	<Height>27</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>53</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>843</Top>
+	<Left>418</Left>
+	<Width>17</Width>
+	<Height>38</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>54</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>802</Top>
+	<Left>898</Left>
+	<Width>18</Width>
+	<Height>26</Height>
+	<Mask />
+	<Inlinks>40 101 102 118</Inlinks>
+	<Outlinks>101 118 129</Outlinks>
+</Node>
+<Node>
+	<Id>55</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>865</Top>
+	<Left>663</Left>
+	<Width>23</Width>
+	<Height>49</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>56</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>743</Top>
+	<Left>758</Left>
+	<Width>20</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>118</Inlinks>
+	<Outlinks>34 94 118</Outlinks>
+</Node>
+<Node>
+	<Id>57</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>887</Top>
+	<Left>190</Left>
+	<Width>27</Width>
+	<Height>48</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>58</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>886</Top>
+	<Left>190</Left>
+	<Width>27</Width>
+	<Height>48</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>59</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>711</Top>
+	<Left>557</Left>
+	<Width>21</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>34 85 98</Inlinks>
+	<Outlinks>4 34</Outlinks>
+</Node>
+<Node>
+	<Id>60</Id>
+	<ClassName>beam</ClassName>
+	<Top>792</Top>
+	<Left>925</Left>
+	<Width>91</Width>
+	<Height>24</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>61</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>731</Top>
+	<Left>193</Left>
+	<Width>25</Width>
+	<Height>41</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>62</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>862</Top>
+	<Left>252</Left>
+	<Width>21</Width>
+	<Height>25</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>63</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>779</Top>
+	<Left>210</Left>
+	<Width>23</Width>
+	<Height>35</Height>
+	<Mask />
+	<Inlinks>38</Inlinks>
+	<Outlinks>69</Outlinks>
+</Node>
+<Node>
+	<Id>64</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>854</Top>
+	<Left>898</Left>
+	<Width>21</Width>
+	<Height>38</Height>
+	<Mask />
+	<Inlinks>40 102</Inlinks>
+	<Outlinks>101 110 118 129</Outlinks>
+</Node>
+<Node>
+	<Id>65</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>760</Top>
+	<Left>620</Left>
+	<Width>40</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>66</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>750</Top>
+	<Left>833</Left>
+	<Width>22</Width>
+	<Height>28</Height>
+	<Mask />
+	<Inlinks>101 118</Inlinks>
+	<Outlinks>94 118</Outlinks>
+</Node>
+<Node>
+	<Id>67</Id>
+	<ClassName>stem</ClassName>
+	<Top>884</Top>
+	<Left>468</Left>
+	<Width>19</Width>
+	<Height>78</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>68</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>735</Top>
+	<Left>665</Left>
+	<Width>77</Width>
+	<Height>16</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>69</Id>
+	<ClassName>tie</ClassName>
+	<Top>684</Top>
+	<Left>255</Left>
+	<Width>215</Width>
+	<Height>41</Height>
+	<Mask />
+	<Inlinks>39 63 75 97 105 109 122</Inlinks>
+	<Outlinks>27 39 97 105 109</Outlinks>
+</Node>
+<Node>
+	<Id>70</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>739</Top>
+	<Left>861</Left>
+	<Width>60</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>71</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>825</Top>
+	<Left>1040</Left>
+	<Width>24</Width>
+	<Height>49</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>72</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>865</Top>
+	<Left>663</Left>
+	<Width>23</Width>
+	<Height>49</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>73</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>695</Top>
+	<Left>831</Left>
+	<Width>24</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>74</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>757</Top>
+	<Left>923</Left>
+	<Width>90</Width>
+	<Height>21</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>75</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>781</Top>
+	<Left>297</Left>
+	<Width>20</Width>
+	<Height>25</Height>
+	<Mask />
+	<Outlinks>35 38 69</Outlinks>
+</Node>
+<Node>
+	<Id>76</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>748</Top>
+	<Left>986</Left>
+	<Width>15</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>40 101 118</Inlinks>
+	<Outlinks>118</Outlinks>
+</Node>
+<Node>
+	<Id>77</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>724</Top>
+	<Left>259</Left>
+	<Width>29</Width>
+	<Height>55</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>78</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>818</Top>
+	<Left>210</Left>
+	<Width>22</Width>
+	<Height>32</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>79</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>734</Top>
+	<Left>590</Left>
+	<Width>51</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>80</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>748</Top>
+	<Left>891</Left>
+	<Width>20</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>101 118</Inlinks>
+	<Outlinks>118</Outlinks>
+</Node>
+<Node>
+	<Id>81</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>760</Top>
+	<Left>544</Left>
+	<Width>56</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>82</Id>
+	<ClassName>stem</ClassName>
+	<Top>454</Top>
+	<Left>898</Left>
+	<Width>17</Width>
+	<Height>262</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>83</Id>
+	<ClassName>slur</ClassName>
+	<Top>827</Top>
+	<Left>601</Left>
+	<Width>87</Width>
+	<Height>27</Height>
+	<Mask />
+	<Outlinks>103</Outlinks>
+</Node>
+<Node>
+	<Id>84</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>835</Top>
+	<Left>835</Left>
+	<Width>31</Width>
+	<Height>60</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>85</Id>
+	<ClassName>slur</ClassName>
+	<Top>804</Top>
+	<Left>281</Left>
+	<Width>455</Width>
+	<Height>72</Height>
+	<Mask />
+	<Inlinks>9 47 48 50 103 108 126</Inlinks>
+	<Outlinks>9 47 48 59 99 103 105 109 126</Outlinks>
+</Node>
+<Node>
+	<Id>86</Id>
+	<ClassName>tie</ClassName>
+	<Top>535</Top>
+	<Left>261</Left>
+	<Width>499</Width>
+	<Height>28</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>87</Id>
+	<ClassName>numeral3</ClassName>
+	<Top>861</Top>
+	<Left>215</Left>
+	<Width>23</Width>
+	<Height>32</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>88</Id>
+	<ClassName>measureSeparator</ClassName>
+	<Top>870</Top>
+	<Left>824</Left>
+	<Width>17</Width>
+	<Height>188</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>89</Id>
+	<ClassName>stem</ClassName>
+	<Top>713</Top>
+	<Left>663</Left>
+	<Width>11</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>90</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>761</Top>
+	<Left>752</Left>
+	<Width>37</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>91</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>766</Top>
+	<Left>214</Left>
+	<Width>54</Width>
+	<Height>20</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>92</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>792</Top>
+	<Left>841</Left>
+	<Width>37</Width>
+	<Height>44</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>93</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>844</Top>
+	<Left>419</Left>
+	<Width>28</Width>
+	<Height>46</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>94</Id>
+	<ClassName>slur</ClassName>
+	<Top>652</Top>
+	<Left>580</Left>
+	<Width>187</Width>
+	<Height>43</Height>
+	<Mask />
+	<Inlinks>47 56 66 99</Inlinks>
+</Node>
+<Node>
+	<Id>95</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>712</Top>
+	<Left>598</Left>
+	<Width>21</Width>
+	<Height>35</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>96</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>835</Top>
+	<Left>835</Left>
+	<Width>30</Width>
+	<Height>44</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>97</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>743</Top>
+	<Left>235</Left>
+	<Width>20</Width>
+	<Height>26</Height>
+	<Mask />
+	<Inlinks>38 69</Inlinks>
+	<Outlinks>38 69</Outlinks>
+</Node>
+<Node>
+	<Id>98</Id>
+	<ClassName>slur</ClassName>
+	<Top>799</Top>
+	<Left>278</Left>
+	<Width>607</Width>
+	<Height>82</Height>
+	<Mask />
+	<Inlinks>9 21 47 48 50 103 108 126</Inlinks>
+	<Outlinks>9 21 47 48 50 59 99 103 105 108 126</Outlinks>
+</Node>
+<Node>
+	<Id>99</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>729</Top>
+	<Left>629</Left>
+	<Width>16</Width>
+	<Height>26</Height>
+	<Mask />
+	<Inlinks>85 98</Inlinks>
+	<Outlinks>34 94</Outlinks>
+</Node>
+<Node>
+	<Id>100</Id>
+	<ClassName>measureSeparator</ClassName>
+	<Top>796</Top>
+	<Left>18</Left>
+	<Width>21</Width>
+	<Height>268</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>101</Id>
+	<ClassName>tie</ClassName>
+	<Top>792</Top>
+	<Left>925</Left>
+	<Width>91</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>28 31 54 64 156 175 252</Inlinks>
+	<Outlinks>28 33 42 54 66 76 80 155</Outlinks>
+</Node>
+<Node>
+	<Id>102</Id>
+	<ClassName>tie</ClassName>
+	<Top>939</Top>
+	<Left>920</Left>
+	<Width>167</Width>
+	<Height>64</Height>
+	<Mask />
+	<Outlinks>28 31 54 64 156 175 252</Outlinks>
+</Node>
+<Node>
+	<Id>103</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>737</Top>
+	<Left>462</Left>
+	<Width>18</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>83 85 98</Inlinks>
+	<Outlinks>14 35 38 85 98</Outlinks>
+</Node>
+<Node>
+	<Id>104</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>838</Top>
+	<Left>836</Left>
+	<Width>41</Width>
+	<Height>59</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>105</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>737</Top>
+	<Left>462</Left>
+	<Width>19</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>4 69 85 98</Inlinks>
+	<Outlinks>4 35 38 69</Outlinks>
+</Node>
+<Node>
+	<Id>106</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>736</Top>
+	<Left>674</Left>
+	<Width>63</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>107</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>744</Top>
+	<Left>51</Left>
+	<Width>20</Width>
+	<Height>33</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>108</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>856</Top>
+	<Left>697</Left>
+	<Width>18</Width>
+	<Height>19</Height>
+	<Mask />
+	<Inlinks>6 98</Inlinks>
+	<Outlinks>85 98</Outlinks>
+</Node>
+<Node>
+	<Id>109</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>754</Top>
+	<Left>353</Left>
+	<Width>24</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>38 69 85</Inlinks>
+	<Outlinks>4 35 38 69</Outlinks>
+</Node>
+<Node>
+	<Id>110</Id>
+	<ClassName>slur</ClassName>
+	<Top>755</Top>
+	<Left>869</Left>
+	<Width>169</Width>
+	<Height>47</Height>
+	<Mask />
+	<Inlinks>28 31 64 155 156 175 252</Inlinks>
+</Node>
+<Node>
+	<Id>111</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>792</Top>
+	<Left>834</Left>
+	<Width>49</Width>
+	<Height>51</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>112</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>881</Top>
+	<Left>468</Left>
+	<Width>20</Width>
+	<Height>81</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>113</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>735</Top>
+	<Left>586</Left>
+	<Width>75</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>114</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>786</Top>
+	<Left>373</Left>
+	<Width>24</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>115</Id>
+	<ClassName>articulationTenuto</ClassName>
+	<Top>730</Top>
+	<Left>1052</Left>
+	<Width>35</Width>
+	<Height>17</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>116</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>736</Top>
+	<Left>544</Left>
+	<Width>49</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>117</Id>
+	<ClassName>barline</ClassName>
+	<Top>861</Top>
+	<Left>823</Left>
+	<Width>18</Width>
+	<Height>197</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>118</Id>
+	<ClassName>slur</ClassName>
+	<Top>716</Top>
+	<Left>791</Left>
+	<Width>268</Width>
+	<Height>89</Height>
+	<Mask />
+	<Inlinks>28 31 42 54 56 64 66 76 80 155 156 175</Inlinks>
+	<Outlinks>33 42 54 56 66 76 80 155</Outlinks>
+</Node>
+<Node>
+	<Id>119</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>759</Top>
+	<Left>686</Left>
+	<Width>48</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>120</Id>
+	<ClassName>dynamicsText</ClassName>
+	<Top>199</Top>
+	<Left>235</Left>
+	<Width>60</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>121</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>756</Top>
+	<Left>386</Left>
+	<Width>22</Width>
+	<Height>37</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>122</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>775</Top>
+	<Left>273</Left>
+	<Width>21</Width>
+	<Height>36</Height>
+	<Mask />
+	<Inlinks>38</Inlinks>
+	<Outlinks>35 38 69</Outlinks>
+</Node>
+<Node>
+	<Id>123</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>786</Top>
+	<Left>317</Left>
+	<Width>20</Width>
+	<Height>37</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>124</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>756</Top>
+	<Left>386</Left>
+	<Width>22</Width>
+	<Height>38</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>125</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>846</Top>
+	<Left>426</Left>
+	<Width>21</Width>
+	<Height>45</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>126</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>880</Top>
+	<Left>469</Left>
+	<Width>20</Width>
+	<Height>19</Height>
+	<Mask />
+	<Inlinks>6 85 98</Inlinks>
+	<Outlinks>6 85 98</Outlinks>
+</Node>
+<Node>
+	<Id>127</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>701</Top>
+	<Left>511</Left>
+	<Width>22</Width>
+	<Height>40</Height>
+	<Mask />
+	<Inlinks>48</Inlinks>
+</Node>
+<Node>
+	<Id>128</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>763</Top>
+	<Left>449</Left>
+	<Width>22</Width>
+	<Height>16</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>129</Id>
+	<ClassName>slur</ClassName>
+	<Top>750</Top>
+	<Left>866</Left>
+	<Width>197</Width>
+	<Height>45</Height>
+	<Mask />
+	<Inlinks>28 31 54 64 155 156 175 239 252</Inlinks>
+</Node>
+<Node>
+	<Id>130</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>757</Top>
+	<Left>1034</Left>
+	<Width>25</Width>
+	<Height>58</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>131</Id>
+	<ClassName>stem</ClassName>
+	<Top>424</Top>
+	<Left>239</Left>
+	<Width>19</Width>
+	<Height>304</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>132</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>792</Top>
+	<Left>1018</Left>
+	<Width>23</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>133</Id>
+	<ClassName>stem</ClassName>
+	<Top>643</Top>
+	<Left>258</Left>
+	<Width>19</Width>
+	<Height>91</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>134</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>757</Top>
+	<Left>336</Left>
+	<Width>49</Width>
+	<Height>20</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>135</Id>
+	<ClassName>flag8thDown</ClassName>
+	<Top>1094</Top>
+	<Left>263</Left>
+	<Width>36</Width>
+	<Height>65</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>136</Id>
+	<ClassName>stem</ClassName>
+	<Top>914</Top>
+	<Left>256</Left>
+	<Width>17</Width>
+	<Height>247</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>137</Id>
+	<ClassName>articulationStaccato</ClassName>
+	<Top>2438</Top>
+	<Left>490</Left>
+	<Width>13</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>138</Id>
+	<ClassName>articulationStaccato</ClassName>
+	<Top>2330</Top>
+	<Left>560</Left>
+	<Width>6</Width>
+	<Height>5</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>139</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>203</Top>
+	<Left>1123</Left>
+	<Width>26</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>140</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>199</Top>
+	<Left>1450</Left>
+	<Width>27</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>141</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>833</Top>
+	<Left>1481</Left>
+	<Width>26</Width>
+	<Height>65</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>142</Id>
+	<ClassName>dynamicsText</ClassName>
+	<Top>199</Top>
+	<Left>1450</Left>
+	<Width>70</Width>
+	<Height>44</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>143</Id>
+	<ClassName>slur</ClassName>
+	<Top>608</Top>
+	<Left>1085</Left>
+	<Width>86</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>144</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>775</Top>
+	<Left>1809</Left>
+	<Width>28</Width>
+	<Height>52</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>145</Id>
+	<ClassName>slur</ClassName>
+	<Top>898</Top>
+	<Left>1525</Left>
+	<Width>523</Width>
+	<Height>58</Height>
+	<Mask />
+	<Outlinks>150 153 217 245 263</Outlinks>
+</Node>
+<Node>
+	<Id>146</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>747</Top>
+	<Left>1476</Left>
+	<Width>43</Width>
+	<Height>16</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>147</Id>
+	<ClassName>slur</ClassName>
+	<Top>917</Top>
+	<Left>915</Left>
+	<Width>592</Width>
+	<Height>48</Height>
+	<Mask />
+	<Inlinks>266</Inlinks>
+	<Outlinks>149 156 161 170 175 211 239 252 266</Outlinks>
+</Node>
+<Node>
+	<Id>148</Id>
+	<ClassName>slur</ClassName>
+	<Top>816</Top>
+	<Left>1857</Left>
+	<Width>146</Width>
+	<Height>36</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>149</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>839</Top>
+	<Left>1173</Left>
+	<Width>19</Width>
+	<Height>18</Height>
+	<Mask />
+	<Inlinks>147</Inlinks>
+</Node>
+<Node>
+	<Id>150</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>844</Top>
+	<Left>1707</Left>
+	<Width>20</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>145</Inlinks>
+	<Outlinks>284</Outlinks>
+</Node>
+<Node>
+	<Id>151</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>823</Top>
+	<Left>1434</Left>
+	<Width>20</Width>
+	<Height>23</Height>
+	<Mask />
+	<Outlinks>237</Outlinks>
+</Node>
+<Node>
+	<Id>152</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>717</Top>
+	<Left>1284</Left>
+	<Width>40</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>153</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>785</Top>
+	<Left>1843</Left>
+	<Width>22</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>145 226</Inlinks>
+	<Outlinks>284</Outlinks>
+</Node>
+<Node>
+	<Id>154</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>705</Top>
+	<Left>1422</Left>
+	<Width>21</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>223</Inlinks>
+	<Outlinks>249</Outlinks>
+</Node>
+<Node>
+	<Id>155</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>769</Top>
+	<Left>1068</Left>
+	<Width>22</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>40 101 118</Inlinks>
+	<Outlinks>110 118 129</Outlinks>
+</Node>
+<Node>
+	<Id>156</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>836</Top>
+	<Left>1076</Left>
+	<Width>21</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>40 102 147</Inlinks>
+	<Outlinks>101 110 118 129</Outlinks>
+</Node>
+<Node>
+	<Id>157</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>746</Top>
+	<Left>1410</Left>
+	<Width>44</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>158</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>765</Top>
+	<Left>1284</Left>
+	<Width>41</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>159</Id>
+	<ClassName>stem</ClassName>
+	<Top>862</Top>
+	<Left>1507</Left>
+	<Width>19</Width>
+	<Height>175</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>160</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>744</Top>
+	<Left>1284</Left>
+	<Width>37</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>161</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>802</Top>
+	<Left>1171</Left>
+	<Width>20</Width>
+	<Height>28</Height>
+	<Mask />
+	<Inlinks>147</Inlinks>
+	<Outlinks>255</Outlinks>
+</Node>
+<Node>
+	<Id>162</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>684</Top>
+	<Left>1666</Left>
+	<Width>23</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>163</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>724</Top>
+	<Left>1148</Left>
+	<Width>58</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>164</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>742</Top>
+	<Left>1153</Left>
+	<Width>48</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>165</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>700</Top>
+	<Left>1152</Left>
+	<Width>51</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>166</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>766</Top>
+	<Left>1477</Left>
+	<Width>50</Width>
+	<Height>16</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>167</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>744</Top>
+	<Left>1352</Left>
+	<Width>37</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>168</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>762</Top>
+	<Left>1353</Left>
+	<Width>42</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>169</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>711</Top>
+	<Left>1049</Left>
+	<Width>50</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>170</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>858</Top>
+	<Left>1176</Left>
+	<Width>19</Width>
+	<Height>17</Height>
+	<Mask />
+	<Inlinks>147</Inlinks>
+</Node>
+<Node>
+	<Id>171</Id>
+	<ClassName>stem</ClassName>
+	<Top>504</Top>
+	<Left>1853</Left>
+	<Width>16</Width>
+	<Height>197</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>172</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>847</Top>
+	<Left>1508</Left>
+	<Width>20</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>179</Inlinks>
+</Node>
+<Node>
+	<Id>173</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>723</Top>
+	<Left>1408</Left>
+	<Width>51</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>174</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>765</Top>
+	<Left>1412</Left>
+	<Width>48</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>175</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>807</Top>
+	<Left>1079</Left>
+	<Width>19</Width>
+	<Height>30</Height>
+	<Mask />
+	<Inlinks>40 102 147</Inlinks>
+	<Outlinks>101 110 118 129</Outlinks>
+</Node>
+<Node>
+	<Id>176</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>678</Top>
+	<Left>1203</Left>
+	<Width>26</Width>
+	<Height>63</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>177</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>694</Top>
+	<Left>1280</Left>
+	<Width>48</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>178</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>732</Top>
+	<Left>1053</Left>
+	<Width>46</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>179</Id>
+	<ClassName>stem</ClassName>
+	<Top>844</Top>
+	<Left>1433</Left>
+	<Width>14</Width>
+	<Height>83</Height>
+	<Mask />
+	<Outlinks>172</Outlinks>
+</Node>
+<Node>
+	<Id>180</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>766</Top>
+	<Left>1226</Left>
+	<Width>39</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>181</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>742</Top>
+	<Left>1225</Left>
+	<Width>43</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>182</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>716</Top>
+	<Left>1493</Left>
+	<Width>23</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>223</Inlinks>
+</Node>
+<Node>
+	<Id>183</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>718</Top>
+	<Left>1339</Left>
+	<Width>56</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>184</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>765</Top>
+	<Left>1686</Left>
+	<Width>55</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>185</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>760</Top>
+	<Left>1618</Left>
+	<Width>50</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>186</Id>
+	<ClassName>beam</ClassName>
+	<Top>589</Top>
+	<Left>1191</Left>
+	<Width>241</Width>
+	<Height>60</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>187</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>737</Top>
+	<Left>1615</Left>
+	<Width>68</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>188</Id>
+	<ClassName>stem</ClassName>
+	<Top>583</Top>
+	<Left>1799</Left>
+	<Width>14</Width>
+	<Height>130</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>189</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>761</Top>
+	<Left>1774</Left>
+	<Width>59</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>190</Id>
+	<ClassName>stem</ClassName>
+	<Top>529</Top>
+	<Left>1435</Left>
+	<Width>13</Width>
+	<Height>180</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>191</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>692</Top>
+	<Left>1237</Left>
+	<Width>20</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>258</Inlinks>
+	<Outlinks>249</Outlinks>
+</Node>
+<Node>
+	<Id>192</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>816</Top>
+	<Left>1507</Left>
+	<Width>20</Width>
+	<Height>21</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>193</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>699</Top>
+	<Left>1227</Left>
+	<Width>38</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>194</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>724</Top>
+	<Left>1468</Left>
+	<Width>56</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>195</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>754</Top>
+	<Left>1057</Left>
+	<Width>41</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>196</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>717</Top>
+	<Left>1219</Left>
+	<Width>49</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>197</Id>
+	<ClassName>dynamicsText</ClassName>
+	<Top>203</Top>
+	<Left>1123</Left>
+	<Width>46</Width>
+	<Height>46</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>198</Id>
+	<ClassName>stem</ClassName>
+	<Top>868</Top>
+	<Left>1174</Left>
+	<Width>14</Width>
+	<Height>61</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>199</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>721</Top>
+	<Left>1477</Left>
+	<Width>48</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>200</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>767</Top>
+	<Left>1552</Left>
+	<Width>48</Width>
+	<Height>17</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>201</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>775</Top>
+	<Left>1709</Left>
+	<Width>18</Width>
+	<Height>28</Height>
+	<Mask />
+	<Inlinks>284</Inlinks>
+	<Outlinks>223</Outlinks>
+</Node>
+<Node>
+	<Id>202</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>688</Top>
+	<Left>1297</Left>
+	<Width>19</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>258</Inlinks>
+	<Outlinks>249</Outlinks>
+</Node>
+<Node>
+	<Id>203</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>688</Top>
+	<Left>1755</Left>
+	<Width>27</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>204</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>773</Top>
+	<Left>1396</Left>
+	<Width>30</Width>
+	<Height>41</Height>
+	<Mask />
+	<Inlinks>214</Inlinks>
+</Node>
+<Node>
+	<Id>205</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>815</Top>
+	<Left>1992</Left>
+	<Width>31</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>206</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>706</Top>
+	<Left>1689</Left>
+	<Width>48</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>207</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>699</Top>
+	<Left>1360</Left>
+	<Width>19</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>262</Inlinks>
+	<Outlinks>249</Outlinks>
+</Node>
+<Node>
+	<Id>208</Id>
+	<ClassName>stem</ClassName>
+	<Top>584</Top>
+	<Left>1176</Left>
+	<Width>15</Width>
+	<Height>103</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>209</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>701</Top>
+	<Left>1597</Left>
+	<Width>22</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>210</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>938</Top>
+	<Left>2021</Left>
+	<Width>27</Width>
+	<Height>50</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>211</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>798</Top>
+	<Left>1299</Left>
+	<Width>17</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>147</Inlinks>
+</Node>
+<Node>
+	<Id>212</Id>
+	<ClassName>beam</ClassName>
+	<Top>551</Top>
+	<Left>1523</Left>
+	<Width>200</Width>
+	<Height>27</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>213</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>706</Top>
+	<Left>1813</Left>
+	<Width>65</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>214</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>845</Top>
+	<Left>1434</Left>
+	<Width>21</Width>
+	<Height>23</Height>
+	<Mask />
+	<Outlinks>204</Outlinks>
+</Node>
+<Node>
+	<Id>215</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>735</Top>
+	<Left>1689</Left>
+	<Width>52</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>216</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>717</Top>
+	<Left>1628</Left>
+	<Width>20</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>284</Inlinks>
+	<Outlinks>223</Outlinks>
+</Node>
+<Node>
+	<Id>217</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>816</Top>
+	<Left>1704</Left>
+	<Width>20</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>145 256</Inlinks>
+	<Outlinks>284</Outlinks>
+</Node>
+<Node>
+	<Id>218</Id>
+	<ClassName>stem</ClassName>
+	<Top>544</Top>
+	<Left>1124</Left>
+	<Width>18</Width>
+	<Height>31</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>219</Id>
+	<ClassName>tie</ClassName>
+	<Top>539</Top>
+	<Left>1124</Left>
+	<Width>318</Width>
+	<Height>20</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>220</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>864</Top>
+	<Left>1991</Left>
+	<Width>26</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>221</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>766</Top>
+	<Left>1160</Left>
+	<Width>41</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>222</Id>
+	<ClassName>flag8thUp</ClassName>
+	<Top>618</Top>
+	<Left>1737</Left>
+	<Width>32</Width>
+	<Height>38</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>223</Id>
+	<ClassName>slur</ClassName>
+	<Top>660</Top>
+	<Left>1524</Left>
+	<Width>141</Width>
+	<Height>65</Height>
+	<Mask />
+	<Inlinks>201 216 230 232 264</Inlinks>
+	<Outlinks>154 182</Outlinks>
+</Node>
+<Node>
+	<Id>224</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>693</Top>
+	<Left>1530</Left>
+	<Width>26</Width>
+	<Height>57</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>225</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>672</Top>
+	<Left>1811</Left>
+	<Width>26</Width>
+	<Height>46</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>226</Id>
+	<ClassName>tie</ClassName>
+	<Top>818</Top>
+	<Left>1859</Left>
+	<Width>143</Width>
+	<Height>34</Height>
+	<Mask />
+	<Inlinks>277</Inlinks>
+	<Outlinks>153 236 245 250 270 277 285 318</Outlinks>
+</Node>
+<Node>
+	<Id>227</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>763</Top>
+	<Left>1773</Left>
+	<Width>51</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>228</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>747</Top>
+	<Left>1550</Left>
+	<Width>41</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>229</Id>
+	<ClassName>articulationStaccato</ClassName>
+	<Top>280</Top>
+	<Left>1512</Left>
+	<Width>7</Width>
+	<Height>6</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>230</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>730</Top>
+	<Left>1707</Left>
+	<Width>25</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>284</Inlinks>
+	<Outlinks>223</Outlinks>
+</Node>
+<Node>
+	<Id>231</Id>
+	<ClassName>slur</ClassName>
+	<Top>532</Top>
+	<Left>1745</Left>
+	<Width>102</Width>
+	<Height>56</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>232</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>698</Top>
+	<Left>1706</Left>
+	<Width>20</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>284 289</Inlinks>
+	<Outlinks>223</Outlinks>
+</Node>
+<Node>
+	<Id>233</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>727</Top>
+	<Left>1564</Left>
+	<Width>18</Width>
+	<Height>19</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>234</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>681</Top>
+	<Left>1167</Left>
+	<Width>20</Width>
+	<Height>23</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>235</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>703</Top>
+	<Left>1534</Left>
+	<Width>23</Width>
+	<Height>49</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>236</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>702</Top>
+	<Left>1789</Left>
+	<Width>23</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>226 274 284 289</Inlinks>
+</Node>
+<Node>
+	<Id>237</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>676</Top>
+	<Left>1391</Left>
+	<Width>25</Width>
+	<Height>46</Height>
+	<Mask />
+	<Inlinks>151 260</Inlinks>
+</Node>
+<Node>
+	<Id>238</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>802</Top>
+	<Left>1650</Left>
+	<Width>23</Width>
+	<Height>45</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>239</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>801</Top>
+	<Left>1140</Left>
+	<Width>21</Width>
+	<Height>30</Height>
+	<Mask />
+	<Inlinks>147</Inlinks>
+	<Outlinks>129 255</Outlinks>
+</Node>
+<Node>
+	<Id>240</Id>
+	<ClassName>stem</ClassName>
+	<Top>875</Top>
+	<Left>2035</Left>
+	<Width>10</Width>
+	<Height>26</Height>
+	<Mask />
+	<Outlinks>352 386</Outlinks>
+</Node>
+<Node>
+	<Id>241</Id>
+	<ClassName>ornament</ClassName>
+	<Top>1078</Top>
+	<Left>1402</Left>
+	<Width>39</Width>
+	<Height>10</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>242</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>759</Top>
+	<Left>1812</Left>
+	<Width>61</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>243</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>708</Top>
+	<Left>1769</Left>
+	<Width>108</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>244</Id>
+	<ClassName>flag8thUp</ClassName>
+	<Top>522</Top>
+	<Left>1436</Left>
+	<Width>43</Width>
+	<Height>59</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>245</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>799</Top>
+	<Left>1912</Left>
+	<Width>22</Width>
+	<Height>19</Height>
+	<Mask />
+	<Inlinks>145 226</Inlinks>
+	<Outlinks>284</Outlinks>
+</Node>
+<Node>
+	<Id>246</Id>
+	<ClassName>beam</ClassName>
+	<Top>539</Top>
+	<Left>1123</Left>
+	<Width>319</Width>
+	<Height>21</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>247</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>818</Top>
+	<Left>1373</Left>
+	<Width>23</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>248</Id>
+	<ClassName>flag8thDown</ClassName>
+	<Top>964</Top>
+	<Left>1515</Left>
+	<Width>42</Width>
+	<Height>65</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>249</Id>
+	<ClassName>slur</ClassName>
+	<Top>589</Top>
+	<Left>1190</Left>
+	<Width>241</Width>
+	<Height>61</Height>
+	<Mask />
+	<Inlinks>154 191 202 207</Inlinks>
+</Node>
+<Node>
+	<Id>250</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>758</Top>
+	<Left>1795</Left>
+	<Width>22</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>226 284</Inlinks>
+	<Outlinks>284</Outlinks>
+</Node>
+<Node>
+	<Id>251</Id>
+	<ClassName>stem</ClassName>
+	<Top>782</Top>
+	<Left>1272</Left>
+	<Width>18</Width>
+	<Height>36</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>252</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>827</Top>
+	<Left>1118</Left>
+	<Width>24</Width>
+	<Height>31</Height>
+	<Mask />
+	<Inlinks>40 102 147</Inlinks>
+	<Outlinks>101 110 129 255</Outlinks>
+</Node>
+<Node>
+	<Id>253</Id>
+	<ClassName>beam</ClassName>
+	<Top>530</Top>
+	<Left>1075</Left>
+	<Width>47</Width>
+	<Height>61</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>254</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>736</Top>
+	<Left>1638</Left>
+	<Width>49</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>255</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>658</Top>
+	<Left>1128</Left>
+	<Width>28</Width>
+	<Height>42</Height>
+	<Mask />
+	<Inlinks>161 239 252</Inlinks>
+</Node>
+<Node>
+	<Id>256</Id>
+	<ClassName>stem</ClassName>
+	<Top>805</Top>
+	<Left>1652</Left>
+	<Width>21</Width>
+	<Height>47</Height>
+	<Mask />
+	<Outlinks>217</Outlinks>
+</Node>
+<Node>
+	<Id>257</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>840</Top>
+	<Left>1401</Left>
+	<Width>23</Width>
+	<Height>38</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>258</Id>
+	<ClassName>stem</ClassName>
+	<Top>672</Top>
+	<Left>1271</Left>
+	<Width>17</Width>
+	<Height>46</Height>
+	<Mask />
+	<Outlinks>191 202</Outlinks>
+</Node>
+<Node>
+	<Id>259</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>676</Top>
+	<Left>1391</Left>
+	<Width>25</Width>
+	<Height>46</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>260</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>788</Top>
+	<Left>1432</Left>
+	<Width>17</Width>
+	<Height>18</Height>
+	<Mask />
+	<Outlinks>237</Outlinks>
+</Node>
+<Node>
+	<Id>261</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>844</Top>
+	<Left>2020</Left>
+	<Width>24</Width>
+	<Height>38</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>262</Id>
+	<ClassName>fermataAbove</ClassName>
+	<Top>625</Top>
+	<Left>1451</Left>
+	<Width>49</Width>
+	<Height>27</Height>
+	<Mask />
+	<Outlinks>207</Outlinks>
+</Node>
+<Node>
+	<Id>263</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>835</Top>
+	<Left>1674</Left>
+	<Width>21</Width>
+	<Height>37</Height>
+	<Mask />
+	<Inlinks>145</Inlinks>
+</Node>
+<Node>
+	<Id>264</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>725</Top>
+	<Left>1662</Left>
+	<Width>23</Width>
+	<Height>30</Height>
+	<Mask />
+	<Inlinks>284</Inlinks>
+	<Outlinks>223</Outlinks>
+</Node>
+<Node>
+	<Id>265</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>798</Top>
+	<Left>1464</Left>
+	<Width>25</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>266</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>844</Top>
+	<Left>1141</Left>
+	<Width>25</Width>
+	<Height>32</Height>
+	<Mask />
+	<Inlinks>23 147</Inlinks>
+	<Outlinks>147</Outlinks>
+</Node>
+<Node>
+	<Id>267</Id>
+	<ClassName>beam</ClassName>
+	<Top>731</Top>
+	<Left>1755</Left>
+	<Width>126</Width>
+	<Height>19</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>268</Id>
+	<ClassName>otherText</ClassName>
+	<Top>714</Top>
+	<Left>1999</Left>
+	<Width>49</Width>
+	<Height>59</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>269</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>793</Top>
+	<Left>2029</Left>
+	<Width>19</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>270</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>687</Top>
+	<Left>1835</Left>
+	<Width>24</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>226 274 280 284 289</Inlinks>
+</Node>
+<Node>
+	<Id>271</Id>
+	<ClassName>stem</ClassName>
+	<Top>466</Top>
+	<Left>1723</Left>
+	<Width>20</Width>
+	<Height>254</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>272</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>757</Top>
+	<Left>1673</Left>
+	<Width>28</Width>
+	<Height>41</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>273</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>711</Top>
+	<Left>1760</Left>
+	<Width>56</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>274</Id>
+	<ClassName>stem</ClassName>
+	<Top>686</Top>
+	<Left>1823</Left>
+	<Width>11</Width>
+	<Height>54</Height>
+	<Mask />
+	<Outlinks>236 270</Outlinks>
+</Node>
+<Node>
+	<Id>275</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>680</Top>
+	<Left>1328</Left>
+	<Width>22</Width>
+	<Height>47</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>276</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>672</Top>
+	<Left>1272</Left>
+	<Width>16</Width>
+	<Height>45</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>277</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>844</Top>
+	<Left>2021</Left>
+	<Width>24</Width>
+	<Height>38</Height>
+	<Mask />
+	<Inlinks>226</Inlinks>
+	<Outlinks>226</Outlinks>
+</Node>
+<Node>
+	<Id>278</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>658</Top>
+	<Left>1128</Left>
+	<Width>28</Width>
+	<Height>44</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>279</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>798</Top>
+	<Left>1463</Left>
+	<Width>25</Width>
+	<Height>41</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>280</Id>
+	<ClassName>stem</ClassName>
+	<Top>621</Top>
+	<Left>1735</Left>
+	<Width>14</Width>
+	<Height>115</Height>
+	<Mask />
+	<Outlinks>270</Outlinks>
+</Node>
+<Node>
+	<Id>281</Id>
+	<ClassName>beam</ClassName>
+	<Top>660</Top>
+	<Left>1533</Left>
+	<Width>131</Width>
+	<Height>62</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>282</Id>
+	<ClassName>restQuarter</ClassName>
+	<Top>964</Top>
+	<Left>1516</Left>
+	<Width>41</Width>
+	<Height>64</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>283</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>836</Top>
+	<Left>1673</Left>
+	<Width>22</Width>
+	<Height>35</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>284</Id>
+	<ClassName>slur</ClassName>
+	<Top>749</Top>
+	<Left>1663</Left>
+	<Width>335</Width>
+	<Height>36</Height>
+	<Mask />
+	<Inlinks>150 153 217 245 250 285</Inlinks>
+	<Outlinks>201 216 230 232 236 250 264 270 285</Outlinks>
+</Node>
+<Node>
+	<Id>285</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>751</Top>
+	<Left>1830</Left>
+	<Width>24</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>226 284</Inlinks>
+	<Outlinks>284</Outlinks>
+</Node>
+<Node>
+	<Id>286</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>700</Top>
+	<Left>1153</Left>
+	<Width>36</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>287</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>731</Top>
+	<Left>1755</Left>
+	<Width>113</Width>
+	<Height>18</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>288</Id>
+	<ClassName>ornamentTrill</ClassName>
+	<Top>737</Top>
+	<Left>1999</Left>
+	<Width>28</Width>
+	<Height>43</Height>
+	<Mask />
+	<Outlinks>318 336 372 390</Outlinks>
+</Node>
+<Node>
+	<Id>289</Id>
+	<ClassName>stem</ClassName>
+	<Top>672</Top>
+	<Left>1733</Left>
+	<Width>14</Width>
+	<Height>66</Height>
+	<Mask />
+	<Outlinks>232 236 270</Outlinks>
+</Node>
+<Node>
+	<Id>290</Id>
+	<ClassName>tie</ClassName>
+	<Top>552</Top>
+	<Left>1523</Left>
+	<Width>201</Width>
+	<Height>28</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>291</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>715</Top>
+	<Left>1338</Left>
+	<Width>47</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>292</Id>
+	<ClassName>numeral3</ClassName>
+	<Top>1325</Top>
+	<Left>1735</Left>
+	<Width>24</Width>
+	<Height>34</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>293</Id>
+	<ClassName>articulationStaccato</ClassName>
+	<Top>2557</Top>
+	<Left>1132</Left>
+	<Width>13</Width>
+	<Height>10</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>294</Id>
+	<ClassName>tie</ClassName>
+	<Top>891</Top>
+	<Left>2708</Left>
+	<Width>190</Width>
+	<Height>47</Height>
+	<Mask />
+	<Outlinks>305 326 335 344 351 377 384 396 411 421</Outlinks>
+</Node>
+<Node>
+	<Id>295</Id>
+	<ClassName>tie</ClassName>
+	<Top>894</Top>
+	<Left>2539</Left>
+	<Width>107</Width>
+	<Height>21</Height>
+	<Mask />
+	<Outlinks>305 319 320 322 324 329 332 337 355 360 362 396 399 406 409 421</Outlinks>
+</Node>
+<Node>
+	<Id>296</Id>
+	<ClassName>dynamicsText</ClassName>
+	<Top>196</Top>
+	<Left>2580</Left>
+	<Width>52</Width>
+	<Height>46</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>297</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>197</Top>
+	<Left>2253</Left>
+	<Width>26</Width>
+	<Height>44</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>298</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>192</Top>
+	<Left>2032</Left>
+	<Width>27</Width>
+	<Height>47</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>299</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>824</Top>
+	<Left>2134</Left>
+	<Width>28</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>300</Id>
+	<ClassName>dynamicsText</ClassName>
+	<Top>197</Top>
+	<Left>2253</Left>
+	<Width>65</Width>
+	<Height>46</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>301</Id>
+	<ClassName>dynamicsText</ClassName>
+	<Top>191</Top>
+	<Left>2032</Left>
+	<Width>61</Width>
+	<Height>51</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>302</Id>
+	<ClassName>tie</ClassName>
+	<Top>908</Top>
+	<Left>2343</Left>
+	<Width>162</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>357</Inlinks>
+	<Outlinks>319 320 322 331 340 347 353 355 357 362 376 399 406 425</Outlinks>
+</Node>
+<Node>
+	<Id>303</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>850</Top>
+	<Left>2647</Left>
+	<Width>35</Width>
+	<Height>69</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>304</Id>
+	<ClassName>slur</ClassName>
+	<Top>980</Top>
+	<Left>2315</Left>
+	<Width>575</Width>
+	<Height>86</Height>
+	<Mask />
+	<Outlinks>305 329</Outlinks>
+</Node>
+<Node>
+	<Id>305</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>863</Top>
+	<Left>2688</Left>
+	<Width>25</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>294 295 304</Inlinks>
+	<Outlinks>328 389 405 410</Outlinks>
+</Node>
+<Node>
+	<Id>306</Id>
+	<ClassName>stem</ClassName>
+	<Top>909</Top>
+	<Left>2176</Left>
+	<Width>17</Width>
+	<Height>155</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>307</Id>
+	<ClassName>stem</ClassName>
+	<Top>822</Top>
+	<Left>2897</Left>
+	<Width>16</Width>
+	<Height>216</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>308</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>731</Top>
+	<Left>2858</Left>
+	<Width>24</Width>
+	<Height>37</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>309</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>884</Top>
+	<Left>2263</Left>
+	<Width>23</Width>
+	<Height>56</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>310</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>858</Top>
+	<Left>2061</Left>
+	<Width>20</Width>
+	<Height>19</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>311</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>844</Top>
+	<Left>2326</Left>
+	<Width>27</Width>
+	<Height>52</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>312</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>960</Top>
+	<Left>2060</Left>
+	<Width>23</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>393 430</Inlinks>
+</Node>
+<Node>
+	<Id>313</Id>
+	<ClassName>stem</ClassName>
+	<Top>906</Top>
+	<Left>2297</Left>
+	<Width>14</Width>
+	<Height>151</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>314</Id>
+	<ClassName>stem</ClassName>
+	<Top>560</Top>
+	<Left>2504</Left>
+	<Width>13</Width>
+	<Height>167</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>315</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>763</Top>
+	<Left>2885</Left>
+	<Width>47</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>316</Id>
+	<ClassName>stem</ClassName>
+	<Top>565</Top>
+	<Left>2910</Left>
+	<Width>14</Width>
+	<Height>181</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>317</Id>
+	<ClassName>tie</ClassName>
+	<Top>682</Top>
+	<Left>2127</Left>
+	<Width>354</Width>
+	<Height>62</Height>
+	<Mask />
+	<Outlinks>331 340 347 390 425</Outlinks>
+</Node>
+<Node>
+	<Id>318</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>806</Top>
+	<Left>2061</Left>
+	<Width>23</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>226 288 414</Inlinks>
+</Node>
+<Node>
+	<Id>319</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>724</Top>
+	<Left>2497</Left>
+	<Width>22</Width>
+	<Height>26</Height>
+	<Mask />
+	<Inlinks>295 302 328 373 389 394 410</Inlinks>
+</Node>
+<Node>
+	<Id>320</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>824</Top>
+	<Left>2415</Left>
+	<Width>21</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>295 302 328 348 389 394</Inlinks>
+	<Outlinks>328 389</Outlinks>
+</Node>
+<Node>
+	<Id>321</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>196</Top>
+	<Left>2580</Left>
+	<Width>24</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>322</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>876</Top>
+	<Left>2419</Left>
+	<Width>17</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>295 302 348 394</Inlinks>
+	<Outlinks>328 389</Outlinks>
+</Node>
+<Node>
+	<Id>323</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>760</Top>
+	<Left>2332</Left>
+	<Width>46</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>324</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>749</Top>
+	<Left>2654</Left>
+	<Width>21</Width>
+	<Height>29</Height>
+	<Mask />
+	<Inlinks>295 328 373 389 405 410</Inlinks>
+	<Outlinks>373 405</Outlinks>
+</Node>
+<Node>
+	<Id>325</Id>
+	<ClassName>stem</ClassName>
+	<Top>554</Top>
+	<Left>2099</Left>
+	<Width>19</Width>
+	<Height>206</Height>
+	<Mask />
+	<Outlinks>339</Outlinks>
+</Node>
+<Node>
+	<Id>326</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>807</Top>
+	<Left>2897</Left>
+	<Width>25</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>294 369 437 460</Inlinks>
+	<Outlinks>405</Outlinks>
+</Node>
+<Node>
+	<Id>327</Id>
+	<ClassName>stem</ClassName>
+	<Top>878</Top>
+	<Left>2688</Left>
+	<Width>13</Width>
+	<Height>110</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>328</Id>
+	<ClassName>slur</ClassName>
+	<Top>786</Top>
+	<Left>2318</Left>
+	<Width>408</Width>
+	<Height>68</Height>
+	<Mask />
+	<Inlinks>305 320 322 329 332 355 360 362 376 396 399 406</Inlinks>
+	<Outlinks>319 320 324 337 340 347 355 360 362 376 396 399 406 409 421 425</Outlinks>
+</Node>
+<Node>
+	<Id>329</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>863</Top>
+	<Left>2593</Left>
+	<Width>20</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>295 304 348 394</Inlinks>
+	<Outlinks>328 389 410</Outlinks>
+</Node>
+<Node>
+	<Id>330</Id>
+	<ClassName>beam</ClassName>
+	<Top>578</Top>
+	<Left>2614</Left>
+	<Width>287</Width>
+	<Height>30</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>331</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>826</Top>
+	<Left>2295</Left>
+	<Width>19</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>302 317</Inlinks>
+</Node>
+<Node>
+	<Id>332</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>844</Top>
+	<Left>2591</Left>
+	<Width>18</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>295 348 394 410</Inlinks>
+	<Outlinks>328 389 410</Outlinks>
+</Node>
+<Node>
+	<Id>333</Id>
+	<ClassName>stem</ClassName>
+	<Top>790</Top>
+	<Left>2317</Left>
+	<Width>12</Width>
+	<Height>36</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>334</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>884</Top>
+	<Left>2132</Left>
+	<Width>21</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>335</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>801</Top>
+	<Left>2832</Left>
+	<Width>19</Width>
+	<Height>17</Height>
+	<Mask />
+	<Inlinks>294 437</Inlinks>
+	<Outlinks>405</Outlinks>
+</Node>
+<Node>
+	<Id>336</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>836</Top>
+	<Left>2175</Left>
+	<Width>20</Width>
+	<Height>19</Height>
+	<Mask />
+	<Inlinks>288</Inlinks>
+</Node>
+<Node>
+	<Id>337</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>730</Top>
+	<Left>2586</Left>
+	<Width>23</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>295 328 373 389 410</Inlinks>
+	<Outlinks>373</Outlinks>
+</Node>
+<Node>
+	<Id>338</Id>
+	<ClassName>stem</ClassName>
+	<Top>561</Top>
+	<Left>2601</Left>
+	<Width>14</Width>
+	<Height>174</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>339</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>664</Top>
+	<Left>2053</Left>
+	<Width>29</Width>
+	<Height>28</Height>
+	<Mask />
+	<Inlinks>325</Inlinks>
+</Node>
+<Node>
+	<Id>340</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>754</Top>
+	<Left>2425</Left>
+	<Width>22</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>302 317 328 389 394</Inlinks>
+</Node>
+<Node>
+	<Id>341</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>671</Top>
+	<Left>2032</Left>
+	<Width>61</Width>
+	<Height>17</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>342</Id>
+	<ClassName>beam</ClassName>
+	<Top>574</Top>
+	<Left>2118</Left>
+	<Width>380</Width>
+	<Height>27</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>343</Id>
+	<ClassName>stem</ClassName>
+	<Top>892</Top>
+	<Left>2076</Left>
+	<Width>14</Width>
+	<Height>62</Height>
+	<Mask />
+	<Outlinks>375</Outlinks>
+</Node>
+<Node>
+	<Id>344</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>742</Top>
+	<Left>2899</Left>
+	<Width>20</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>294 378 437</Inlinks>
+</Node>
+<Node>
+	<Id>345</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>793</Top>
+	<Left>2705</Left>
+	<Width>56</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>346</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>759</Top>
+	<Left>2401</Left>
+	<Width>61</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>347</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>757</Top>
+	<Left>2350</Left>
+	<Width>22</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>302 317 328 389</Inlinks>
+</Node>
+<Node>
+	<Id>348</Id>
+	<ClassName>slur</ClassName>
+	<Top>900</Top>
+	<Left>2326</Left>
+	<Width>349</Width>
+	<Height>57</Height>
+	<Mask />
+	<Outlinks>320 322 329 332 353 357 362 376 396 399 406</Outlinks>
+</Node>
+<Node>
+	<Id>349</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>793</Top>
+	<Left>2030</Left>
+	<Width>26</Width>
+	<Height>61</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>350</Id>
+	<ClassName>slur</ClassName>
+	<Top>787</Top>
+	<Left>2138</Left>
+	<Width>155</Width>
+	<Height>42</Height>
+	<Mask />
+	<Outlinks>372</Outlinks>
+</Node>
+<Node>
+	<Id>351</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>753</Top>
+	<Left>2717</Left>
+	<Width>19</Width>
+	<Height>30</Height>
+	<Mask />
+	<Inlinks>294 373 378 405</Inlinks>
+	<Outlinks>373 405</Outlinks>
+</Node>
+<Node>
+	<Id>352</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>866</Top>
+	<Left>2175</Left>
+	<Width>19</Width>
+	<Height>19</Height>
+	<Mask />
+	<Inlinks>240 361 430</Inlinks>
+</Node>
+<Node>
+	<Id>353</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>868</Top>
+	<Left>2299</Left>
+	<Width>21</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>302 348 394</Inlinks>
+</Node>
+<Node>
+	<Id>354</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>761</Top>
+	<Left>2712</Left>
+	<Width>34</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>355</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>774</Top>
+	<Left>2503</Left>
+	<Width>26</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>295 302 328 373 389 394 410</Inlinks>
+	<Outlinks>328 389</Outlinks>
+</Node>
+<Node>
+	<Id>356</Id>
+	<ClassName>measureSeparator</ClassName>
+	<Top>797</Top>
+	<Left>2981</Left>
+	<Width>18</Width>
+	<Height>264</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>357</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>894</Top>
+	<Left>2304</Left>
+	<Width>23</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>302 348 394</Inlinks>
+	<Outlinks>302</Outlinks>
+</Node>
+<Node>
+	<Id>358</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>737</Top>
+	<Left>2622</Left>
+	<Width>24</Width>
+	<Height>53</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>359</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>865</Top>
+	<Left>2467</Left>
+	<Width>28</Width>
+	<Height>46</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>360</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>768</Top>
+	<Left>2588</Left>
+	<Width>21</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>295 328 373 389 394 410</Inlinks>
+	<Outlinks>328 373 389</Outlinks>
+</Node>
+<Node>
+	<Id>361</Id>
+	<ClassName>stem</ClassName>
+	<Top>869</Top>
+	<Left>2061</Left>
+	<Width>13</Width>
+	<Height>54</Height>
+	<Mask />
+	<Outlinks>352 375 386</Outlinks>
+</Node>
+<Node>
+	<Id>362</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>846</Top>
+	<Left>2418</Left>
+	<Width>19</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>295 302 328 348 389 394</Inlinks>
+	<Outlinks>328 389</Outlinks>
+</Node>
+<Node>
+	<Id>363</Id>
+	<ClassName>stem</ClassName>
+	<Top>426</Top>
+	<Left>2070</Left>
+	<Width>15</Width>
+	<Height>247</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>364</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>699</Top>
+	<Left>2466</Left>
+	<Width>24</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>365</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>835</Top>
+	<Left>2073</Left>
+	<Width>23</Width>
+	<Height>18</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>366</Id>
+	<ClassName>barline</ClassName>
+	<Top>797</Top>
+	<Left>2980</Left>
+	<Width>18</Width>
+	<Height>265</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>367</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>755</Top>
+	<Left>2639</Left>
+	<Width>50</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>368</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>697</Top>
+	<Left>2035</Left>
+	<Width>60</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>369</Id>
+	<ClassName>stem</ClassName>
+	<Top>815</Top>
+	<Left>2834</Left>
+	<Width>15</Width>
+	<Height>51</Height>
+	<Mask />
+	<Outlinks>326</Outlinks>
+</Node>
+<Node>
+	<Id>370</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>876</Top>
+	<Left>2515</Left>
+	<Width>24</Width>
+	<Height>54</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>371</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>763</Top>
+	<Left>2039</Left>
+	<Width>85</Width>
+	<Height>16</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>372</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>756</Top>
+	<Left>2060</Left>
+	<Width>23</Width>
+	<Height>29</Height>
+	<Mask />
+	<Inlinks>288 350</Inlinks>
+</Node>
+<Node>
+	<Id>373</Id>
+	<ClassName>tie</ClassName>
+	<Top>683</Top>
+	<Left>2612</Left>
+	<Width>165</Width>
+	<Height>76</Height>
+	<Mask />
+	<Inlinks>324 337 351 360 377 384 396 421</Inlinks>
+	<Outlinks>319 324 337 351 355 360 384 396 409 421</Outlinks>
+</Node>
+<Node>
+	<Id>374</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>900</Top>
+	<Left>2290</Left>
+	<Width>50</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>375</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>889</Top>
+	<Left>2176</Left>
+	<Width>22</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>343 361 430</Inlinks>
+</Node>
+<Node>
+	<Id>376</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>871</Top>
+	<Left>2378</Left>
+	<Width>23</Width>
+	<Height>33</Height>
+	<Mask />
+	<Inlinks>302 328 348 394</Inlinks>
+	<Outlinks>328 389</Outlinks>
+</Node>
+<Node>
+	<Id>377</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>773</Top>
+	<Left>2777</Left>
+	<Width>19</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>294 405</Inlinks>
+	<Outlinks>373 405</Outlinks>
+</Node>
+<Node>
+	<Id>378</Id>
+	<ClassName>stem</ClassName>
+	<Top>718</Top>
+	<Left>2787</Left>
+	<Width>15</Width>
+	<Height>80</Height>
+	<Mask />
+	<Outlinks>344 351</Outlinks>
+</Node>
+<Node>
+	<Id>379</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>706</Top>
+	<Left>2551</Left>
+	<Width>25</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>380</Id>
+	<ClassName>beam</ClassName>
+	<Top>583</Top>
+	<Left>2521</Left>
+	<Width>72</Width>
+	<Height>25</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>381</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>894</Top>
+	<Left>2163</Left>
+	<Width>44</Width>
+	<Height>16</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>382</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>857</Top>
+	<Left>2226</Left>
+	<Width>23</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>383</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>741</Top>
+	<Left>2297</Left>
+	<Width>25</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>384</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>791</Top>
+	<Left>2724</Left>
+	<Width>24</Width>
+	<Height>30</Height>
+	<Mask />
+	<Inlinks>294 373 405</Inlinks>
+	<Outlinks>373 405</Outlinks>
+</Node>
+<Node>
+	<Id>385</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>813</Top>
+	<Left>2250</Left>
+	<Width>24</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>386</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>875</Top>
+	<Left>2078</Left>
+	<Width>22</Width>
+	<Height>26</Height>
+	<Mask />
+	<Inlinks>240 361 430</Inlinks>
+</Node>
+<Node>
+	<Id>387</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>797</Top>
+	<Left>2853</Left>
+	<Width>36</Width>
+	<Height>38</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>388</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>761</Top>
+	<Left>2036</Left>
+	<Width>98</Width>
+	<Height>20</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>389</Id>
+	<ClassName>slur</ClassName>
+	<Top>781</Top>
+	<Left>2309</Left>
+	<Width>422</Width>
+	<Height>55</Height>
+	<Mask />
+	<Inlinks>305 320 322 329 332 355 360 362 376 396 399 406</Inlinks>
+	<Outlinks>319 320 324 337 340 347 355 360 362 399 409 425</Outlinks>
+</Node>
+<Node>
+	<Id>390</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>742</Top>
+	<Left>2098</Left>
+	<Width>23</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>288 317</Inlinks>
+</Node>
+<Node>
+	<Id>391</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>798</Top>
+	<Left>2862</Left>
+	<Width>26</Width>
+	<Height>36</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>392</Id>
+	<ClassName>beam</ClassName>
+	<Top>718</Top>
+	<Left>2032</Left>
+	<Width>62</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>393</Id>
+	<ClassName>slur</ClassName>
+	<Top>1024</Top>
+	<Left>2087</Left>
+	<Width>199</Width>
+	<Height>64</Height>
+	<Mask />
+	<Outlinks>312</Outlinks>
+</Node>
+<Node>
+	<Id>394</Id>
+	<ClassName>tie</ClassName>
+	<Top>900</Top>
+	<Left>2322</Left>
+	<Width>356</Width>
+	<Height>57</Height>
+	<Mask />
+	<Outlinks>319 320 322 329 332 340 353 355 357 360 362 376 396 399 406 425</Outlinks>
+</Node>
+<Node>
+	<Id>395</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>857</Top>
+	<Left>2226</Left>
+	<Width>23</Width>
+	<Height>38</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>396</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>801</Top>
+	<Left>2647</Left>
+	<Width>22</Width>
+	<Height>30</Height>
+	<Mask />
+	<Inlinks>294 295 328 348 373 394 405 410</Inlinks>
+	<Outlinks>328 373 389 410</Outlinks>
+</Node>
+<Node>
+	<Id>397</Id>
+	<ClassName>restWhole</ClassName>
+	<Top>395</Top>
+	<Left>2531</Left>
+	<Width>40</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>398</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>739</Top>
+	<Left>2037</Left>
+	<Width>90</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>399</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>841</Top>
+	<Left>2390</Left>
+	<Width>22</Width>
+	<Height>36</Height>
+	<Mask />
+	<Inlinks>295 302 328 348 389 394</Inlinks>
+	<Outlinks>328 389</Outlinks>
+</Node>
+<Node>
+	<Id>400</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>808</Top>
+	<Left>2460</Left>
+	<Width>29</Width>
+	<Height>41</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>401</Id>
+	<ClassName>dynamicLetterF</ClassName>
+	<Top>197</Top>
+	<Left>2608</Left>
+	<Width>24</Width>
+	<Height>45</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>402</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>754</Top>
+	<Left>2750</Left>
+	<Width>24</Width>
+	<Height>49</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>403</Id>
+	<ClassName>tie</ClassName>
+	<Top>574</Top>
+	<Left>2117</Left>
+	<Width>378</Width>
+	<Height>28</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>404</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>748</Top>
+	<Left>2488</Left>
+	<Width>46</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>405</Id>
+	<ClassName>tie</ClassName>
+	<Top>757</Top>
+	<Left>2807</Left>
+	<Width>34</Width>
+	<Height>31</Height>
+	<Mask />
+	<Inlinks>305 324 326 335 351 377 384 411 421</Inlinks>
+	<Outlinks>324 351 377 384 396 411 421 540 548</Outlinks>
+</Node>
+<Node>
+	<Id>406</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>837</Top>
+	<Left>2536</Left>
+	<Width>24</Width>
+	<Height>36</Height>
+	<Mask />
+	<Inlinks>295 302 328 348 394 410</Inlinks>
+	<Outlinks>328 389</Outlinks>
+</Node>
+<Node>
+	<Id>407</Id>
+	<ClassName>dynamicsText</ClassName>
+	<Top>192</Top>
+	<Left>2436</Left>
+	<Width>61</Width>
+	<Height>48</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>408</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>890</Top>
+	<Left>2166</Left>
+	<Width>42</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>409</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>706</Top>
+	<Left>2551</Left>
+	<Width>25</Width>
+	<Height>40</Height>
+	<Mask />
+	<Inlinks>295 328 373 389 410</Inlinks>
+</Node>
+<Node>
+	<Id>410</Id>
+	<ClassName>slur</ClassName>
+	<Top>822</Top>
+	<Left>2446</Left>
+	<Width>370</Width>
+	<Height>29</Height>
+	<Mask />
+	<Inlinks>305 329 332 396</Inlinks>
+	<Outlinks>319 324 332 337 355 360 396 406 409 421</Outlinks>
+</Node>
+<Node>
+	<Id>411</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>808</Top>
+	<Left>2758</Left>
+	<Width>18</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>294 405</Inlinks>
+	<Outlinks>405</Outlinks>
+</Node>
+<Node>
+	<Id>412</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>755</Top>
+	<Left>2646</Left>
+	<Width>38</Width>
+	<Height>16</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>413</Id>
+	<ClassName>slur</ClassName>
+	<Top>757</Top>
+	<Left>2807</Left>
+	<Width>35</Width>
+	<Height>33</Height>
+	<Mask />
+	<Outlinks>540 548</Outlinks>
+</Node>
+<Node>
+	<Id>414</Id>
+	<ClassName>stem</ClassName>
+	<Top>789</Top>
+	<Left>2088</Left>
+	<Width>15</Width>
+	<Height>52</Height>
+	<Mask />
+	<Outlinks>318</Outlinks>
+</Node>
+<Node>
+	<Id>415</Id>
+	<ClassName>beam</ClassName>
+	<Top>737</Top>
+	<Left>2030</Left>
+	<Width>99</Width>
+	<Height>17</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>416</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>760</Top>
+	<Left>2710</Left>
+	<Width>34</Width>
+	<Height>19</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>417</Id>
+	<ClassName>flag8thUp</ClassName>
+	<Top>789</Top>
+	<Left>2089</Left>
+	<Width>30</Width>
+	<Height>50</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>418</Id>
+	<ClassName>stem</ClassName>
+	<Top>713</Top>
+	<Left>2035</Left>
+	<Width>17</Width>
+	<Height>27</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>419</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>736</Top>
+	<Left>2685</Left>
+	<Width>22</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>420</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>741</Top>
+	<Left>2385</Left>
+	<Width>18</Width>
+	<Height>51</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>421</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>802</Top>
+	<Left>2681</Left>
+	<Width>19</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>294 295 328 373 405 410</Inlinks>
+	<Outlinks>373 405</Outlinks>
+</Node>
+<Node>
+	<Id>422</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>808</Top>
+	<Left>2458</Left>
+	<Width>31</Width>
+	<Height>41</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>423</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>854</Top>
+	<Left>2559</Left>
+	<Width>24</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>424</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>789</Top>
+	<Left>2749</Left>
+	<Width>48</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>425</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>758</Top>
+	<Left>2390</Left>
+	<Width>18</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>302 317 328 389 394</Inlinks>
+</Node>
+<Node>
+	<Id>426</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>783</Top>
+	<Left>2805</Left>
+	<Width>24</Width>
+	<Height>35</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>427</Id>
+	<ClassName>tie</ClassName>
+	<Top>579</Top>
+	<Left>2615</Left>
+	<Width>286</Width>
+	<Height>29</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>428</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>884</Top>
+	<Left>2132</Left>
+	<Width>22</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>429</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>849</Top>
+	<Left>2112</Left>
+	<Width>19</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>430</Id>
+	<ClassName>tie</ClassName>
+	<Top>1024</Top>
+	<Left>2086</Left>
+	<Width>198</Width>
+	<Height>72</Height>
+	<Mask />
+	<Outlinks>312 352 375 386</Outlinks>
+</Node>
+<Node>
+	<Id>431</Id>
+	<ClassName>stem</ClassName>
+	<Top>971</Top>
+	<Left>2062</Left>
+	<Width>19</Width>
+	<Height>277</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>432</Id>
+	<ClassName>beam</ClassName>
+	<Top>1233</Top>
+	<Left>1928</Left>
+	<Width>153</Width>
+	<Height>19</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>433</Id>
+	<ClassName>articulationStaccato</ClassName>
+	<Top>2332</Top>
+	<Left>2856</Left>
+	<Width>8</Width>
+	<Height>9</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>434</Id>
+	<ClassName>slur</ClassName>
+	<Top>629</Top>
+	<Left>3245</Left>
+	<Width>197</Width>
+	<Height>125</Height>
+	<Mask />
+	<Inlinks>454 459 498 511 517 520 524 550</Inlinks>
+	<Outlinks>459 530 541 544</Outlinks>
+</Node>
+<Node>
+	<Id>435</Id>
+	<ClassName>slur</ClassName>
+	<Top>912</Top>
+	<Left>3234</Left>
+	<Width>262</Width>
+	<Height>60</Height>
+	<Mask />
+	<Inlinks>469 530 541 544</Inlinks>
+	<Outlinks>441 530 541 544</Outlinks>
+</Node>
+<Node>
+	<Id>436</Id>
+	<ClassName>slur</ClassName>
+	<Top>677</Top>
+	<Left>3567</Left>
+	<Width>190</Width>
+	<Height>87</Height>
+	<Mask />
+	<Inlinks>457 475 477 481 505 509 515 545 546 558 564</Inlinks>
+	<Outlinks>558</Outlinks>
+</Node>
+<Node>
+	<Id>437</Id>
+	<ClassName>tie</ClassName>
+	<Top>825</Top>
+	<Left>2916</Left>
+	<Width>133</Width>
+	<Height>28</Height>
+	<Mask />
+	<Outlinks>326 335 344 447 473 531 540 548</Outlinks>
+</Node>
+<Node>
+	<Id>438</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>839</Top>
+	<Left>3712</Left>
+	<Width>24</Width>
+	<Height>55</Height>
+	<Mask />
+	<Outlinks>539</Outlinks>
+</Node>
+<Node>
+	<Id>439</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>1008</Top>
+	<Left>3763</Left>
+	<Width>21</Width>
+	<Height>27</Height>
+	<Mask />
+	<Outlinks>489</Outlinks>
+</Node>
+<Node>
+	<Id>440</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>1008</Top>
+	<Left>3562</Left>
+	<Width>23</Width>
+	<Height>22</Height>
+	<Mask />
+	<Outlinks>486 489 547</Outlinks>
+</Node>
+<Node>
+	<Id>441</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>861</Top>
+	<Left>3214</Left>
+	<Width>23</Width>
+	<Height>28</Height>
+	<Mask />
+	<Inlinks>435</Inlinks>
+</Node>
+<Node>
+	<Id>442</Id>
+	<ClassName>stem</ClassName>
+	<Top>604</Top>
+	<Left>3864</Left>
+	<Width>14</Width>
+	<Height>147</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>443</Id>
+	<ClassName>stem</ClassName>
+	<Top>883</Top>
+	<Left>3064</Left>
+	<Width>17</Width>
+	<Height>205</Height>
+	<Mask />
+	<Outlinks>469</Outlinks>
+</Node>
+<Node>
+	<Id>444</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>864</Top>
+	<Left>3243</Left>
+	<Width>27</Width>
+	<Height>50</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>445</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>200</Top>
+	<Left>3150</Left>
+	<Width>25</Width>
+	<Height>41</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>446</Id>
+	<ClassName>dynamicsText</ClassName>
+	<Top>197</Top>
+	<Left>3150</Left>
+	<Width>53</Width>
+	<Height>48</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>447</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>732</Top>
+	<Left>3052</Left>
+	<Width>23</Width>
+	<Height>28</Height>
+	<Mask />
+	<Inlinks>437</Inlinks>
+</Node>
+<Node>
+	<Id>448</Id>
+	<ClassName>tie</ClassName>
+	<Top>717</Top>
+	<Left>3241</Left>
+	<Width>79</Width>
+	<Height>34</Height>
+	<Mask />
+	<Inlinks>454 459 498 511 524</Inlinks>
+	<Outlinks>459 530 541 544</Outlinks>
+</Node>
+<Node>
+	<Id>449</Id>
+	<ClassName>stem</ClassName>
+	<Top>560</Top>
+	<Left>3224</Left>
+	<Width>15</Width>
+	<Height>185</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>450</Id>
+	<ClassName>beam</ClassName>
+	<Top>576</Top>
+	<Left>3083</Left>
+	<Width>135</Width>
+	<Height>29</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>451</Id>
+	<ClassName>slur</ClassName>
+	<Top>735</Top>
+	<Left>3463</Left>
+	<Width>85</Width>
+	<Height>38</Height>
+	<Mask />
+	<Inlinks>530 541 544</Inlinks>
+	<Outlinks>530 541 544 558</Outlinks>
+</Node>
+<Node>
+	<Id>452</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>878</Top>
+	<Left>3062</Left>
+	<Width>40</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>453</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>745</Top>
+	<Left>3848</Left>
+	<Width>25</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>534</Inlinks>
+	<Outlinks>533 611</Outlinks>
+</Node>
+<Node>
+	<Id>454</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>785</Top>
+	<Left>3248</Left>
+	<Width>20</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>465 512</Inlinks>
+	<Outlinks>434 448</Outlinks>
+</Node>
+<Node>
+	<Id>455</Id>
+	<ClassName>stem</ClassName>
+	<Top>921</Top>
+	<Left>3498</Left>
+	<Width>16</Width>
+	<Height>63</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>456</Id>
+	<ClassName>stem</ClassName>
+	<Top>565</Top>
+	<Left>3064</Left>
+	<Width>13</Width>
+	<Height>175</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>457</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>808</Top>
+	<Left>3748</Left>
+	<Width>23</Width>
+	<Height>21</Height>
+	<Mask />
+	<Outlinks>436 611</Outlinks>
+</Node>
+<Node>
+	<Id>458</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>850</Top>
+	<Left>3017</Left>
+	<Width>26</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>459</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>738</Top>
+	<Left>3209</Left>
+	<Width>24</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>434 448 465 512</Inlinks>
+	<Outlinks>434 448</Outlinks>
+</Node>
+<Node>
+	<Id>460</Id>
+	<ClassName>tie</ClassName>
+	<Top>973</Top>
+	<Left>2912</Left>
+	<Width>141</Width>
+	<Height>43</Height>
+	<Mask />
+	<Outlinks>326 490</Outlinks>
+</Node>
+<Node>
+	<Id>461</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>971</Top>
+	<Left>3558</Left>
+	<Width>24</Width>
+	<Height>20</Height>
+	<Mask />
+	<Outlinks>486 489</Outlinks>
+</Node>
+<Node>
+	<Id>462</Id>
+	<ClassName>stem</ClassName>
+	<Top>699</Top>
+	<Left>3333</Left>
+	<Width>13</Width>
+	<Height>79</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>463</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>952</Top>
+	<Left>3748</Left>
+	<Width>54</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>464</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>755</Top>
+	<Left>3193</Left>
+	<Width>100</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>465</Id>
+	<ClassName>tie</ClassName>
+	<Top>781</Top>
+	<Left>3347</Left>
+	<Width>76</Width>
+	<Height>20</Height>
+	<Mask />
+	<Outlinks>454 459 498 524 530 541 544</Outlinks>
+</Node>
+<Node>
+	<Id>466</Id>
+	<ClassName>tie</ClassName>
+	<Top>577</Top>
+	<Left>2928</Left>
+	<Width>128</Width>
+	<Height>31</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>467</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>197</Top>
+	<Left>3178</Left>
+	<Width>24</Width>
+	<Height>49</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>468</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>850</Top>
+	<Left>3176</Left>
+	<Width>22</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>469</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>1000</Top>
+	<Left>3216</Left>
+	<Width>25</Width>
+	<Height>26</Height>
+	<Mask />
+	<Inlinks>443 566 567</Inlinks>
+	<Outlinks>435</Outlinks>
+</Node>
+<Node>
+	<Id>470</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>862</Top>
+	<Left>3285</Left>
+	<Width>26</Width>
+	<Height>41</Height>
+	<Mask />
+	<Inlinks>544</Inlinks>
+</Node>
+<Node>
+	<Id>471</Id>
+	<ClassName>stem</ClassName>
+	<Top>737</Top>
+	<Left>3552</Left>
+	<Width>12</Width>
+	<Height>77</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>472</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>185</Top>
+	<Left>2990</Left>
+	<Width>25</Width>
+	<Height>51</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>473</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>772</Top>
+	<Left>3052</Left>
+	<Width>19</Width>
+	<Height>19</Height>
+	<Mask />
+	<Inlinks>437</Inlinks>
+</Node>
+<Node>
+	<Id>474</Id>
+	<ClassName>barline</ClassName>
+	<Top>791</Top>
+	<Left>3143</Left>
+	<Width>16</Width>
+	<Height>273</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>475</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>787</Top>
+	<Left>3747</Left>
+	<Width>25</Width>
+	<Height>21</Height>
+	<Mask />
+	<Outlinks>436 611</Outlinks>
+</Node>
+<Node>
+	<Id>476</Id>
+	<ClassName>stem</ClassName>
+	<Top>731</Top>
+	<Left>3442</Left>
+	<Width>14</Width>
+	<Height>80</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>477</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>738</Top>
+	<Left>3749</Left>
+	<Width>24</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>534</Inlinks>
+	<Outlinks>436 534</Outlinks>
+</Node>
+<Node>
+	<Id>478</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>757</Top>
+	<Left>3738</Left>
+	<Width>64</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>479</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>758</Top>
+	<Left>3031</Left>
+	<Width>56</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>480</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>746</Top>
+	<Left>3149</Left>
+	<Width>21</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>481</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>827</Top>
+	<Left>3549</Left>
+	<Width>20</Width>
+	<Height>21</Height>
+	<Mask />
+	<Outlinks>436</Outlinks>
+</Node>
+<Node>
+	<Id>482</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>756</Top>
+	<Left>3836</Left>
+	<Width>46</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>483</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>889</Top>
+	<Left>3426</Left>
+	<Width>50</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>484</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>982</Top>
+	<Left>3178</Left>
+	<Width>20</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>485</Id>
+	<ClassName>beam</ClassName>
+	<Top>750</Top>
+	<Left>3351</Left>
+	<Width>86</Width>
+	<Height>43</Height>
+	<Mask />
+	<Inlinks>530 541 544</Inlinks>
+	<Outlinks>530 541 544</Outlinks>
+</Node>
+<Node>
+	<Id>486</Id>
+	<ClassName>slur</ClassName>
+	<Top>832</Top>
+	<Left>3653</Left>
+	<Width>110</Width>
+	<Height>103</Height>
+	<Mask />
+	<Inlinks>440 461 509 518 519 558</Inlinks>
+	<Outlinks>539 558</Outlinks>
+</Node>
+<Node>
+	<Id>487</Id>
+	<ClassName>stem</ClassName>
+	<Top>797</Top>
+	<Left>3057</Left>
+	<Width>14</Width>
+	<Height>59</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>488</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>814</Top>
+	<Left>3520</Left>
+	<Width>18</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>489</Id>
+	<ClassName>slur</ClassName>
+	<Top>903</Top>
+	<Left>3582</Left>
+	<Width>173</Width>
+	<Height>54</Height>
+	<Mask />
+	<Inlinks>439 440 461 518 558</Inlinks>
+	<Outlinks>539 558</Outlinks>
+</Node>
+<Node>
+	<Id>490</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>864</Top>
+	<Left>3067</Left>
+	<Width>25</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>460</Inlinks>
+</Node>
+<Node>
+	<Id>491</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>816</Top>
+	<Left>3863</Left>
+	<Width>19</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>495</Inlinks>
+	<Outlinks>496 574 611</Outlinks>
+</Node>
+<Node>
+	<Id>492</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>780</Top>
+	<Left>3595</Left>
+	<Width>24</Width>
+	<Height>42</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>493</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>720</Top>
+	<Left>3012</Left>
+	<Width>23</Width>
+	<Height>40</Height>
+	<Mask />
+	<Outlinks>548</Outlinks>
+</Node>
+<Node>
+	<Id>494</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>796</Top>
+	<Left>3860</Left>
+	<Width>19</Width>
+	<Height>21</Height>
+	<Mask />
+	<Outlinks>611</Outlinks>
+</Node>
+<Node>
+	<Id>495</Id>
+	<ClassName>stem</ClassName>
+	<Top>825</Top>
+	<Left>3742</Left>
+	<Width>13</Width>
+	<Height>42</Height>
+	<Mask />
+	<Outlinks>491 546</Outlinks>
+</Node>
+<Node>
+	<Id>496</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>736</Top>
+	<Left>3811</Left>
+	<Width>24</Width>
+	<Height>40</Height>
+	<Mask />
+	<Inlinks>491 564</Inlinks>
+</Node>
+<Node>
+	<Id>497</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>890</Top>
+	<Left>3354</Left>
+	<Width>48</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>498</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>793</Top>
+	<Left>3281</Left>
+	<Width>21</Width>
+	<Height>26</Height>
+	<Mask />
+	<Inlinks>465 512</Inlinks>
+	<Outlinks>434 448 512</Outlinks>
+</Node>
+<Node>
+	<Id>499</Id>
+	<ClassName>slur</ClassName>
+	<Top>932</Top>
+	<Left>3512</Left>
+	<Width>60</Width>
+	<Height>27</Height>
+	<Mask />
+	<Outlinks>530 539 541 544 558</Outlinks>
+</Node>
+<Node>
+	<Id>500</Id>
+	<ClassName>barline</ClassName>
+	<Top>794</Top>
+	<Left>3928</Left>
+	<Width>19</Width>
+	<Height>271</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>501</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>776</Top>
+	<Left>3716</Left>
+	<Width>23</Width>
+	<Height>40</Height>
+	<Mask />
+	<Outlinks>539</Outlinks>
+</Node>
+<Node>
+	<Id>502</Id>
+	<ClassName>slur</ClassName>
+	<Top>827</Top>
+	<Left>2918</Left>
+	<Width>129</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>540 548</Inlinks>
+	<Outlinks>540 548</Outlinks>
+</Node>
+<Node>
+	<Id>503</Id>
+	<ClassName>slur</ClassName>
+	<Top>823</Top>
+	<Left>3582</Left>
+	<Width>149</Width>
+	<Height>34</Height>
+	<Mask />
+	<Inlinks>519 558</Inlinks>
+	<Outlinks>558</Outlinks>
+</Node>
+<Node>
+	<Id>504</Id>
+	<ClassName>beam</ClassName>
+	<Top>1031</Top>
+	<Left>3596</Left>
+	<Width>123</Width>
+	<Height>18</Height>
+	<Mask />
+	<Inlinks>539</Inlinks>
+</Node>
+<Node>
+	<Id>505</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>796</Top>
+	<Left>3630</Left>
+	<Width>18</Width>
+	<Height>17</Height>
+	<Mask />
+	<Outlinks>436</Outlinks>
+</Node>
+<Node>
+	<Id>506</Id>
+	<ClassName>augmentationDot</ClassName>
+	<Top>944</Top>
+	<Left>3634</Left>
+	<Width>11</Width>
+	<Height>8</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>507</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>776</Top>
+	<Left>3208</Left>
+	<Width>24</Width>
+	<Height>39</Height>
+	<Mask />
+	<Outlinks>544</Outlinks>
+</Node>
+<Node>
+	<Id>508</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>870</Top>
+	<Left>3326</Left>
+	<Width>37</Width>
+	<Height>67</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>509</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>849</Top>
+	<Left>3555</Left>
+	<Width>19</Width>
+	<Height>18</Height>
+	<Mask />
+	<Outlinks>436 486</Outlinks>
+</Node>
+<Node>
+	<Id>510</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>760</Top>
+	<Left>3297</Left>
+	<Width>25</Width>
+	<Height>44</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>511</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>797</Top>
+	<Left>3326</Left>
+	<Width>18</Width>
+	<Height>21</Height>
+	<Mask />
+	<Outlinks>434 448 512</Outlinks>
+</Node>
+<Node>
+	<Id>512</Id>
+	<ClassName>tie</ClassName>
+	<Top>750</Top>
+	<Left>3350</Left>
+	<Width>86</Width>
+	<Height>43</Height>
+	<Mask />
+	<Inlinks>498 511 517</Inlinks>
+	<Outlinks>454 459 498 524 530</Outlinks>
+</Node>
+<Node>
+	<Id>513</Id>
+	<ClassName>stem</ClassName>
+	<Top>893</Top>
+	<Left>3779</Left>
+	<Width>14</Width>
+	<Height>58</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>514</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>795</Top>
+	<Left>3493</Left>
+	<Width>23</Width>
+	<Height>38</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>515</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>806</Top>
+	<Left>3544</Left>
+	<Width>19</Width>
+	<Height>23</Height>
+	<Mask />
+	<Outlinks>436</Outlinks>
+</Node>
+<Node>
+	<Id>516</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>784</Top>
+	<Left>3213</Left>
+	<Width>22</Width>
+	<Height>45</Height>
+	<Mask />
+	<Outlinks>544</Outlinks>
+</Node>
+<Node>
+	<Id>517</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>810</Top>
+	<Left>3389</Left>
+	<Width>20</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>547</Inlinks>
+	<Outlinks>434 512</Outlinks>
+</Node>
+<Node>
+	<Id>518</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>945</Top>
+	<Left>3763</Left>
+	<Width>26</Width>
+	<Height>26</Height>
+	<Mask />
+	<Outlinks>486 489 574</Outlinks>
+</Node>
+<Node>
+	<Id>519</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>858</Top>
+	<Left>3758</Left>
+	<Width>21</Width>
+	<Height>16</Height>
+	<Mask />
+	<Outlinks>486 503 574 611</Outlinks>
+</Node>
+<Node>
+	<Id>520</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>768</Top>
+	<Left>3321</Left>
+	<Width>20</Width>
+	<Height>24</Height>
+	<Mask />
+	<Outlinks>434</Outlinks>
+</Node>
+<Node>
+	<Id>521</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>788</Top>
+	<Left>3746</Left>
+	<Width>31</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>522</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>998</Top>
+	<Left>3529</Left>
+	<Width>24</Width>
+	<Height>42</Height>
+	<Mask />
+	<Inlinks>539</Inlinks>
+</Node>
+<Node>
+	<Id>523</Id>
+	<ClassName>tie</ClassName>
+	<Top>1031</Top>
+	<Left>3596</Left>
+	<Width>122</Width>
+	<Height>17</Height>
+	<Mask />
+	<Outlinks>539 554</Outlinks>
+</Node>
+<Node>
+	<Id>524</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>751</Top>
+	<Left>3245</Left>
+	<Width>20</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>465 512</Inlinks>
+	<Outlinks>434 448</Outlinks>
+</Node>
+<Node>
+	<Id>525</Id>
+	<ClassName>beam</ClassName>
+	<Top>575</Top>
+	<Left>3250</Left>
+	<Width>495</Width>
+	<Height>21</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>526</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>868</Top>
+	<Left>3403</Left>
+	<Width>22</Width>
+	<Height>45</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>527</Id>
+	<ClassName>stem</ClassName>
+	<Top>906</Top>
+	<Left>3371</Left>
+	<Width>13</Width>
+	<Height>36</Height>
+	<Mask />
+	<Outlinks>554</Outlinks>
+</Node>
+<Node>
+	<Id>528</Id>
+	<ClassName>measureSeparator</ClassName>
+	<Top>790</Top>
+	<Left>3143</Left>
+	<Width>15</Width>
+	<Height>271</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>529</Id>
+	<ClassName>beam</ClassName>
+	<Top>426</Top>
+	<Left>3603</Left>
+	<Width>163</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>530</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>784</Top>
+	<Left>3396</Left>
+	<Width>24</Width>
+	<Height>33</Height>
+	<Mask />
+	<Inlinks>434 435 448 451 465 485 499 512 547 553</Inlinks>
+	<Outlinks>435 451 485 543</Outlinks>
+</Node>
+<Node>
+	<Id>531</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>793</Top>
+	<Left>3047</Left>
+	<Width>32</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>437</Inlinks>
+</Node>
+<Node>
+	<Id>532</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>764</Top>
+	<Left>3303</Left>
+	<Width>21</Width>
+	<Height>44</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>533</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>737</Top>
+	<Left>3811</Left>
+	<Width>23</Width>
+	<Height>41</Height>
+	<Mask />
+	<Inlinks>453</Inlinks>
+</Node>
+<Node>
+	<Id>534</Id>
+	<ClassName>stem</ClassName>
+	<Top>690</Top>
+	<Left>3772</Left>
+	<Width>15</Width>
+	<Height>95</Height>
+	<Mask />
+	<Inlinks>477</Inlinks>
+	<Outlinks>453 477</Outlinks>
+</Node>
+<Node>
+	<Id>535</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>720</Top>
+	<Left>3706</Left>
+	<Width>26</Width>
+	<Height>40</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>536</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>838</Top>
+	<Left>3505</Left>
+	<Width>23</Width>
+	<Height>35</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>537</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>721</Top>
+	<Left>3167</Left>
+	<Width>24</Width>
+	<Height>41</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>538</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>890</Top>
+	<Left>3488</Left>
+	<Width>38</Width>
+	<Height>15</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>539</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>934</Top>
+	<Left>3716</Left>
+	<Width>19</Width>
+	<Height>32</Height>
+	<Mask />
+	<Inlinks>438 486 489 499 501 523 547 551 574</Inlinks>
+	<Outlinks>504 522 574</Outlinks>
+</Node>
+<Node>
+	<Id>540</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>784</Top>
+	<Left>3007</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Mask />
+	<Inlinks>405 413 437 502</Inlinks>
+	<Outlinks>502</Outlinks>
+</Node>
+<Node>
+	<Id>541</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>800</Top>
+	<Left>3387</Left>
+	<Width>27</Width>
+	<Height>18</Height>
+	<Mask />
+	<Inlinks>434 435 448 451 465 485 499 547</Inlinks>
+	<Outlinks>435 451 485 543</Outlinks>
+</Node>
+<Node>
+	<Id>542</Id>
+	<ClassName>flag8thUp</ClassName>
+	<Top>893</Top>
+	<Left>3780</Left>
+	<Width>26</Width>
+	<Height>29</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>543</Id>
+	<ClassName>noteheadHalf</ClassName>
+	<Top>884</Top>
+	<Left>3371</Left>
+	<Width>23</Width>
+	<Height>29</Height>
+	<Mask />
+	<Inlinks>530 541 544 547</Inlinks>
+</Node>
+<Node>
+	<Id>544</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>810</Top>
+	<Left>3389</Left>
+	<Width>18</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>434 435 448 451 465 485 499 507 516 547</Inlinks>
+	<Outlinks>435 451 470 485 543</Outlinks>
+</Node>
+<Node>
+	<Id>545</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>819</Top>
+	<Left>3632</Left>
+	<Width>20</Width>
+	<Height>15</Height>
+	<Mask />
+	<Outlinks>436</Outlinks>
+</Node>
+<Node>
+	<Id>546</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>812</Top>
+	<Left>3805</Left>
+	<Width>21</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>495</Inlinks>
+	<Outlinks>436 574 611</Outlinks>
+</Node>
+<Node>
+	<Id>547</Id>
+	<ClassName>tie</ClassName>
+	<Top>931</Top>
+	<Left>3512</Left>
+	<Width>61</Width>
+	<Height>28</Height>
+	<Mask />
+	<Inlinks>440</Inlinks>
+	<Outlinks>517 530 539 541 543 544 550 558</Outlinks>
+</Node>
+<Node>
+	<Id>548</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>786</Top>
+	<Left>3007</Left>
+	<Width>20</Width>
+	<Height>27</Height>
+	<Mask />
+	<Inlinks>405 413 437 493 502</Inlinks>
+	<Outlinks>502</Outlinks>
+</Node>
+<Node>
+	<Id>549</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>720</Top>
+	<Left>3707</Left>
+	<Width>25</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>550</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>815</Top>
+	<Left>3436</Left>
+	<Width>22</Width>
+	<Height>19</Height>
+	<Mask />
+	<Inlinks>547</Inlinks>
+	<Outlinks>434</Outlinks>
+</Node>
+<Node>
+	<Id>551</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>796</Top>
+	<Left>3690</Left>
+	<Width>25</Width>
+	<Height>38</Height>
+	<Mask />
+	<Outlinks>539</Outlinks>
+</Node>
+<Node>
+	<Id>552</Id>
+	<ClassName>augmentationDot</ClassName>
+	<Top>819</Top>
+	<Left>3047</Left>
+	<Width>7</Width>
+	<Height>9</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>553</Id>
+	<ClassName>beam</ClassName>
+	<Top>717</Top>
+	<Left>3240</Left>
+	<Width>80</Width>
+	<Height>35</Height>
+	<Mask />
+	<Outlinks>530</Outlinks>
+</Node>
+<Node>
+	<Id>554</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>903</Top>
+	<Left>3498</Left>
+	<Width>19</Width>
+	<Height>22</Height>
+	<Mask />
+	<Inlinks>523 527</Inlinks>
+</Node>
+<Node>
+	<Id>555</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>801</Top>
+	<Left>3578</Left>
+	<Width>20</Width>
+	<Height>39</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>556</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>793</Top>
+	<Left>3047</Left>
+	<Width>32</Width>
+	<Height>22</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>557</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>756</Top>
+	<Left>3227</Left>
+	<Width>65</Width>
+	<Height>13</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>558</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>819</Top>
+	<Left>3633</Left>
+	<Width>20</Width>
+	<Height>15</Height>
+	<Mask />
+	<Inlinks>436 451 486 489 499 503 547</Inlinks>
+	<Outlinks>436 486 489 503</Outlinks>
+</Node>
+<Node>
+	<Id>559</Id>
+	<ClassName>beam</ClassName>
+	<Top>576</Top>
+	<Left>3249</Left>
+	<Width>500</Width>
+	<Height>30</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>560</Id>
+	<ClassName>tie</ClassName>
+	<Top>833</Top>
+	<Left>3581</Left>
+	<Width>148</Width>
+	<Height>26</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>561</Id>
+	<ClassName>augmentationDot</ClassName>
+	<Top>618</Top>
+	<Left>3898</Left>
+	<Width>7</Width>
+	<Height>7</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>562</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>869</Top>
+	<Left>3332</Left>
+	<Width>32</Width>
+	<Height>71</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>563</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>935</Top>
+	<Left>3950</Left>
+	<Width>18</Width>
+	<Height>41</Height>
+	<Mask />
+	<Inlinks>663</Inlinks>
+</Node>
+<Node>
+	<Id>564</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>787</Top>
+	<Left>3824</Left>
+	<Width>21</Width>
+	<Height>34</Height>
+	<Mask />
+	<Outlinks>436 496 611</Outlinks>
+</Node>
+<Node>
+	<Id>565</Id>
+	<ClassName>stem</ClassName>
+	<Top>1027</Top>
+	<Left>3762</Left>
+	<Width>16</Width>
+	<Height>130</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>566</Id>
+	<ClassName>tie</ClassName>
+	<Top>1098</Top>
+	<Left>3231</Left>
+	<Width>320</Width>
+	<Height>60</Height>
+	<Mask />
+	<Outlinks>469</Outlinks>
+</Node>
+<Node>
+	<Id>567</Id>
+	<ClassName>stem</ClassName>
+	<Top>883</Top>
+	<Left>3211</Left>
+	<Width>14</Width>
+	<Height>264</Height>
+	<Mask />
+	<Outlinks>469</Outlinks>
+</Node>
+<Node>
+	<Id>568</Id>
+	<ClassName>beam</ClassName>
+	<Top>1102</Top>
+	<Left>3085</Left>
+	<Width>114</Width>
+	<Height>16</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>569</Id>
+	<ClassName>stem</ClassName>
+	<Top>1021</Top>
+	<Left>3560</Left>
+	<Width>17</Width>
+	<Height>147</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>570</Id>
+	<ClassName>stem</ClassName>
+	<Top>1088</Top>
+	<Left>3189</Left>
+	<Width>12</Width>
+	<Height>25</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>571</Id>
+	<ClassName>slur</ClassName>
+	<Top>651</Top>
+	<Left>4418</Left>
+	<Width>350</Width>
+	<Height>94</Height>
+	<Mask />
+	<Inlinks>581 584 610 633</Inlinks>
+</Node>
+<Node>
+	<Id>572</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>803</Top>
+	<Left>4771</Left>
+	<Width>26</Width>
+	<Height>26</Height>
+	<Mask />
+	<Outlinks>578 612 653</Outlinks>
+</Node>
+<Node>
+	<Id>573</Id>
+	<ClassName>slur</ClassName>
+	<Top>855</Top>
+	<Left>4008</Left>
+	<Width>159</Width>
+	<Height>54</Height>
+	<Mask />
+	<Inlinks>598 603 663 666 668</Inlinks>
+</Node>
+<Node>
+	<Id>574</Id>
+	<ClassName>slur</ClassName>
+	<Top>830</Top>
+	<Left>3769</Left>
+	<Width>220</Width>
+	<Height>49</Height>
+	<Mask />
+	<Inlinks>491 518 519 539 546 651 663</Inlinks>
+	<Outlinks>539</Outlinks>
+</Node>
+<Node>
+	<Id>575</Id>
+	<ClassName>slur</ClassName>
+	<Top>909</Top>
+	<Left>4442</Left>
+	<Width>121</Width>
+	<Height>39</Height>
+	<Mask />
+	<Inlinks>594 595 618 633 634</Inlinks>
+</Node>
+<Node>
+	<Id>576</Id>
+	<ClassName>stem</ClassName>
+	<Top>923</Top>
+	<Left>4187</Left>
+	<Width>12</Width>
+	<Height>35</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>577</Id>
+	<ClassName>slur</ClassName>
+	<Top>876</Top>
+	<Left>4180</Left>
+	<Width>69</Width>
+	<Height>24</Height>
+	<Mask />
+	<Inlinks>598 664 668</Inlinks>
+</Node>
+<Node>
+	<Id>578</Id>
+	<ClassName>slur</ClassName>
+	<Top>727</Top>
+	<Left>4548</Left>
+	<Width>119</Width>
+	<Height>52</Height>
+	<Mask />
+	<Inlinks>572 581 584 602 605 610 633</Inlinks>
+</Node>
+<Node>
+	<Id>579</Id>
+	<ClassName>flag8thUp</ClassName>
+	<Top>901</Top>
+	<Left>4009</Left>
+	<Width>27</Width>
+	<Height>28</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>580</Id>
+	<ClassName>slur</ClassName>
+	<Top>666</Top>
+	<Left>4202</Left>
+	<Width>188</Width>
+	<Height>83</Height>
+	<Mask />
+	<Inlinks>607 608 628 647 649 664 666</Inlinks>
+</Node>
+<Node>
+	<Id>581</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>807</Top>
+	<Left>4663</Left>
+	<Width>20</Width>
+	<Height>31</Height>
+	<Mask />
+	<Outlinks>571 578 612 627</Outlinks>
+</Node>
+<Node>
+	<Id>582</Id>
+	<ClassName>slur</ClassName>
+	<Top>816</Top>
+	<Left>4202</Left>
+	<Width>165</Width>
+	<Height>35</Height>
+	<Mask />
+	<Inlinks>602 605 607 628 647 649 664 666 668</Inlinks>
+</Node>
+<Node>
+	<Id>583</Id>
+	<ClassName>stem</ClassName>
+	<Top>735</Top>
+	<Left>4329</Left>
+	<Width>14</Width>
+	<Height>66</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>584</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>826</Top>
+	<Left>4599</Left>
+	<Width>21</Width>
+	<Height>18</Height>
+	<Mask />
+	<Outlinks>571 578 612 624 627</Outlinks>
+</Node>
+<Node>
+	<Id>585</Id>
+	<ClassName>stem</ClassName>
+	<Top>617</Top>
+	<Left>4783</Left>
+	<Width>13</Width>
+	<Height>191</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>586</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>1050</Top>
+	<Left>4006</Left>
+	<Width>23</Width>
+	<Height>26</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>587</Id>
+	<ClassName>flag8thUp</ClassName>
+	<Top>332</Top>
+	<Left>4188</Left>
+	<Width>74</Width>
+	<Height>86</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>588</Id>
+	<ClassName>stem</ClassName>
+	<Top>745</Top>
+	<Left>4532</Left>
+	<Width>15</Width>
+	<Height>92</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>589</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>1013</Top>
+	<Left>4773</Left>
+	<Width>23</Width>
+	<Height>22</Height>
+	<Mask />
+	<Outlinks>614</Outlinks>
+</Node>
+<Node>
+	<Id>590</Id>
+	<ClassName>slur</ClassName>
+	<Top>915</Top>
+	<Left>4028</Left>
+	<Width>156</Width>
+	<Height>31</Height>
+	<Mask />
+	<Inlinks>598 663 668</Inlinks>
+</Node>
+<Node>
+	<Id>591</Id>
+	<ClassName>slur</ClassName>
+	<Top>726</Top>
+	<Left>4202</Left>
+	<Width>120</Width>
+	<Height>47</Height>
+	<Mask />
+	<Inlinks>603 607 608 628 647 649 664 666 668</Inlinks>
+</Node>
+<Node>
+	<Id>592</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>809</Top>
+	<Left>4408</Left>
+	<Width>25</Width>
+	<Height>41</Height>
+	<Mask />
+	<Inlinks>633</Inlinks>
+</Node>
+<Node>
+	<Id>593</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>800</Top>
+	<Left>4631</Left>
+	<Width>28</Width>
+	<Height>50</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>594</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>1026</Top>
+	<Left>4448</Left>
+	<Width>24</Width>
+	<Height>28</Height>
+	<Mask />
+	<Outlinks>575 623 636 650 669 671 676</Outlinks>
+</Node>
+<Node>
+	<Id>595</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>967</Top>
+	<Left>4448</Left>
+	<Width>23</Width>
+	<Height>25</Height>
+	<Mask />
+	<Outlinks>575 623 657 669</Outlinks>
+</Node>
+<Node>
+	<Id>596</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>941</Top>
+	<Left>4143</Left>
+	<Width>22</Width>
+	<Height>40</Height>
+	<Mask />
+	<Inlinks>598</Inlinks>
+</Node>
+<Node>
+	<Id>597</Id>
+	<ClassName>stem</ClassName>
+	<Top>722</Top>
+	<Left>4672</Left>
+	<Width>11</Width>
+	<Height>91</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>598</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>954</Top>
+	<Left>4176</Left>
+	<Width>22</Width>
+	<Height>24</Height>
+	<Mask />
+	<Outlinks>573 577 590 596 652 657 668</Outlinks>
+</Node>
+<Node>
+	<Id>599</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>870</Top>
+	<Left>4560</Left>
+	<Width>32</Width>
+	<Height>73</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>600</Id>
+	<ClassName>slur</ClassName>
+	<Top>702</Top>
+	<Left>4022</Left>
+	<Width>156</Width>
+	<Height>51</Height>
+	<Mask />
+	<Inlinks>603 608 638 644 649 651 666</Inlinks>
+</Node>
+<Node>
+	<Id>601</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>872</Top>
+	<Left>4725</Left>
+	<Width>30</Width>
+	<Height>52</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>602</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>827</Top>
+	<Left>4434</Left>
+	<Width>22</Width>
+	<Height>20</Height>
+	<Mask />
+	<Outlinks>578 582 624 657 673</Outlinks>
+</Node>
+<Node>
+	<Id>603</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>838</Top>
+	<Left>4081</Left>
+	<Width>16</Width>
+	<Height>18</Height>
+	<Mask />
+	<Inlinks>655</Inlinks>
+	<Outlinks>573 591 600 668</Outlinks>
+</Node>
+<Node>
+	<Id>604</Id>
+	<ClassName>stem</ClassName>
+	<Top>736</Top>
+	<Left>4392</Left>
+	<Width>13</Width>
+	<Height>82</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>605</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>844</Top>
+	<Left>4437</Left>
+	<Width>23</Width>
+	<Height>24</Height>
+	<Mask />
+	<Outlinks>578 582 624 643 657</Outlinks>
+</Node>
+<Node>
+	<Id>606</Id>
+	<ClassName>stem</ClassName>
+	<Top>901</Top>
+	<Left>4008</Left>
+	<Width>12</Width>
+	<Height>46</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>607</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>793</Top>
+	<Left>4286</Left>
+	<Width>23</Width>
+	<Height>26</Height>
+	<Mask />
+	<Inlinks>667</Inlinks>
+	<Outlinks>580 582 591 624 673</Outlinks>
+</Node>
+<Node>
+	<Id>608</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>769</Top>
+	<Left>4173</Left>
+	<Width>23</Width>
+	<Height>23</Height>
+	<Mask />
+	<Outlinks>580 591 600 642 664 673</Outlinks>
+</Node>
+<Node>
+	<Id>609</Id>
+	<ClassName>slur</ClassName>
+	<Top>535</Top>
+	<Left>3773</Left>
+	<Width>401</Width>
+	<Height>84</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>610</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>835</Top>
+	<Left>4524</Left>
+	<Width>21</Width>
+	<Height>22</Height>
+	<Mask />
+	<Outlinks>571 578 624 657</Outlinks>
+</Node>
+<Node>
+	<Id>611</Id>
+	<ClassName>slur</ClassName>
+	<Top>773</Top>
+	<Left>3787</Left>
+	<Width>207</Width>
+	<Height>44</Height>
+	<Mask />
+	<Inlinks>453 457 475 491 494 519 546 564 638 644 651</Inlinks>
+</Node>
+<Node>
+	<Id>612</Id>
+	<ClassName>slur</ClassName>
+	<Top>708</Top>
+	<Left>4685</Left>
+	<Width>89</Width>
+	<Height>39</Height>
+	<Mask />
+	<Inlinks>572 581 584</Inlinks>
+</Node>
+<Node>
+	<Id>613</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>881</Top>
+	<Left>4771</Left>
+	<Width>24</Width>
+	<Height>28</Height>
+	<Mask />
+	<Outlinks>614 653</Outlinks>
+</Node>
+<Node>
+	<Id>614</Id>
+	<ClassName>slur</ClassName>
+	<Top>941</Top>
+	<Left>4619</Left>
+	<Width>158</Width>
+	<Height>37</Height>
+	<Mask />
+	<Inlinks>589 613 617 618 634</Inlinks>
+</Node>
+<Node>
+	<Id>615</Id>
+	<ClassName>stem</ClassName>
+	<Top>858</Top>
+	<Left>4172</Left>
+	<Width>14</Width>
+	<Height>62</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>616</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>935</Top>
+	<Left>3951</Left>
+	<Width>26</Width>
+	<Height>40</Height>
+	<Mask />
+	<Inlinks>663</Inlinks>
+</Node>
+<Node>
+	<Id>617</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>1039</Top>
+	<Left>4596</Left>
+	<Width>19</Width>
+	<Height>21</Height>
+	<Mask />
+	<Outlinks>614 623 631 662 676</Outlinks>
+</Node>
+<Node>
+	<Id>618</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>882</Top>
+	<Left>4598</Left>
+	<Width>22</Width>
+	<Height>29</Height>
+	<Mask />
+	<Outlinks>575 614 623 629 645</Outlinks>
+</Node>
+<Node>
+	<Id>619</Id>
+	<ClassName>stem</ClassName>
+	<Top>705</Top>
+	<Left>4006</Left>
+	<Width>12</Width>
+	<Height>83</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>620</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>834</Top>
+	<Left>4118</Left>
+	<Width>20</Width>
+	<Height>34</Height>
+	<Mask />
+	<Inlinks>668</Inlinks>
+	<Outlinks>668</Outlinks>
+</Node>
+<Node>
+	<Id>621</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>954</Top>
+	<Left>3981</Left>
+	<Width>59</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>622</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>965</Top>
+	<Left>4738</Left>
+	<Width>27</Width>
+	<Height>103</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>623</Id>
+	<ClassName>slur</ClassName>
+	<Top>949</Top>
+	<Left>4468</Left>
+	<Width>120</Width>
+	<Height>25</Height>
+	<Mask />
+	<Inlinks>594 595 617 618 634</Inlinks>
+</Node>
+<Node>
+	<Id>624</Id>
+	<ClassName>slur</ClassName>
+	<Top>739</Top>
+	<Left>4411</Left>
+	<Width>114</Width>
+	<Height>31</Height>
+	<Mask />
+	<Inlinks>584 602 605 607 610 628 647 664</Inlinks>
+</Node>
+<Node>
+	<Id>625</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>891</Top>
+	<Left>4582</Left>
+	<Width>52</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>626</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>815</Top>
+	<Left>4138</Left>
+	<Width>21</Width>
+	<Height>37</Height>
+	<Mask />
+	<Inlinks>668</Inlinks>
+	<Outlinks>668</Outlinks>
+</Node>
+<Node>
+	<Id>627</Id>
+	<ClassName>tie</ClassName>
+	<Top>709</Top>
+	<Left>4685</Left>
+	<Width>90</Width>
+	<Height>39</Height>
+	<Mask />
+	<Inlinks>581 584</Inlinks>
+</Node>
+<Node>
+	<Id>628</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>815</Top>
+	<Left>4383</Left>
+	<Width>20</Width>
+	<Height>24</Height>
+	<Mask />
+	<Outlinks>580 582 591 624 657 673</Outlinks>
+</Node>
+<Node>
+	<Id>629</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>838</Top>
+	<Left>4494</Left>
+	<Width>23</Width>
+	<Height>51</Height>
+	<Mask />
+	<Inlinks>618</Inlinks>
+</Node>
+<Node>
+	<Id>630</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>887</Top>
+	<Left>4753</Left>
+	<Width>49</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>631</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>1024</Top>
+	<Left>4555</Left>
+	<Width>24</Width>
+	<Height>40</Height>
+	<Mask />
+	<Inlinks>617</Inlinks>
+</Node>
+<Node>
+	<Id>632</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>1028</Top>
+	<Left>3976</Left>
+	<Width>23</Width>
+	<Height>51</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>633</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>857</Top>
+	<Left>4526</Left>
+	<Width>18</Width>
+	<Height>19</Height>
+	<Mask />
+	<Outlinks>571 575 578 592 657</Outlinks>
+</Node>
+<Node>
+	<Id>634</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>982</Top>
+	<Left>4592</Left>
+	<Width>21</Width>
+	<Height>17</Height>
+	<Mask />
+	<Outlinks>575 614 623</Outlinks>
+</Node>
+<Node>
+	<Id>635</Id>
+	<ClassName>slur</ClassName>
+	<Top>350</Top>
+	<Left>3712</Left>
+	<Width>458</Width>
+	<Height>152</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>636</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>1018</Top>
+	<Left>4414</Left>
+	<Width>23</Width>
+	<Height>36</Height>
+	<Mask />
+	<Inlinks>594</Inlinks>
+</Node>
+<Node>
+	<Id>637</Id>
+	<ClassName>tie</ClassName>
+	<Top>915</Top>
+	<Left>4029</Left>
+	<Width>158</Width>
+	<Height>31</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>638</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>806</Top>
+	<Left>3996</Left>
+	<Width>20</Width>
+	<Height>20</Height>
+	<Mask />
+	<Outlinks>600 611</Outlinks>
+</Node>
+<Node>
+	<Id>639</Id>
+	<ClassName>barline</ClassName>
+	<Top>797</Top>
+	<Left>4709</Left>
+	<Width>20</Width>
+	<Height>265</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>640</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>890</Top>
+	<Left>4572</Left>
+	<Width>60</Width>
+	<Height>14</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>641</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>860</Top>
+	<Left>4413</Left>
+	<Width>53</Width>
+	<Height>54</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>642</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>759</Top>
+	<Left>4129</Left>
+	<Width>23</Width>
+	<Height>40</Height>
+	<Mask />
+	<Inlinks>608 664 666 668</Inlinks>
+	<Outlinks>664 668</Outlinks>
+</Node>
+<Node>
+	<Id>643</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>804</Top>
+	<Left>4351</Left>
+	<Width>27</Width>
+	<Height>44</Height>
+	<Mask />
+	<Inlinks>605</Inlinks>
+</Node>
+<Node>
+	<Id>644</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>781</Top>
+	<Left>3992</Left>
+	<Width>24</Width>
+	<Height>24</Height>
+	<Mask />
+	<Outlinks>600 611</Outlinks>
+</Node>
+<Node>
+	<Id>645</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>815</Top>
+	<Left>4567</Left>
+	<Width>23</Width>
+	<Height>34</Height>
+	<Mask />
+	<Inlinks>618</Inlinks>
+</Node>
+<Node>
+	<Id>646</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>774</Top>
+	<Left>4209</Left>
+	<Width>30</Width>
+	<Height>48</Height>
+	<Mask />
+	<Inlinks>664 668</Inlinks>
+	<Outlinks>664 668</Outlinks>
+</Node>
+<Node>
+	<Id>647</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>798</Top>
+	<Left>4318</Left>
+	<Width>22</Width>
+	<Height>18</Height>
+	<Mask />
+	<Inlinks>667</Inlinks>
+	<Outlinks>580 582 591 624 673</Outlinks>
+</Node>
+<Node>
+	<Id>648</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>871</Top>
+	<Left>4478</Left>
+	<Width>27</Width>
+	<Height>35</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>649</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>787</Top>
+	<Left>4243</Left>
+	<Width>19</Width>
+	<Height>20</Height>
+	<Mask />
+	<Inlinks>667</Inlinks>
+	<Outlinks>580 582 591 600 664 673</Outlinks>
+</Node>
+<Node>
+	<Id>650</Id>
+	<ClassName>tie</ClassName>
+	<Top>1060</Top>
+	<Left>4454</Left>
+	<Width>137</Width>
+	<Height>28</Height>
+	<Mask />
+	<Inlinks>594</Inlinks>
+</Node>
+<Node>
+	<Id>651</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>827</Top>
+	<Left>4000</Left>
+	<Width>18</Width>
+	<Height>18</Height>
+	<Mask />
+	<Outlinks>574 600 611</Outlinks>
+</Node>
+<Node>
+	<Id>652</Id>
+	<ClassName>tie</ClassName>
+	<Top>861</Top>
+	<Left>4261</Left>
+	<Width>202</Width>
+	<Height>38</Height>
+	<Mask />
+	<Inlinks>598</Inlinks>
+</Node>
+<Node>
+	<Id>653</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>794</Top>
+	<Left>4741</Left>
+	<Width>21</Width>
+	<Height>40</Height>
+	<Mask />
+	<Inlinks>572 613</Inlinks>
+</Node>
+<Node>
+	<Id>654</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>774</Top>
+	<Left>4209</Left>
+	<Width>30</Width>
+	<Height>48</Height>
+	<Mask />
+	<Inlinks>664 668</Inlinks>
+	<Outlinks>664 668</Outlinks>
+</Node>
+<Node>
+	<Id>655</Id>
+	<ClassName>stem</ClassName>
+	<Top>837</Top>
+	<Left>3996</Left>
+	<Width>16</Width>
+	<Height>49</Height>
+	<Mask />
+	<Outlinks>603</Outlinks>
+</Node>
+<Node>
+	<Id>656</Id>
+	<ClassName>tie</ClassName>
+	<Top>816</Top>
+	<Left>4202</Left>
+	<Width>162</Width>
+	<Height>34</Height>
+	<Mask />
+	<Inlinks>666</Inlinks>
+</Node>
+<Node>
+	<Id>657</Id>
+	<ClassName>slur</ClassName>
+	<Top>864</Top>
+	<Left>4261</Left>
+	<Width>205</Width>
+	<Height>36</Height>
+	<Mask />
+	<Inlinks>595 598 602 605 610 628 633 664 668</Inlinks>
+</Node>
+<Node>
+	<Id>658</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>870</Top>
+	<Left>4559</Left>
+	<Width>50</Width>
+	<Height>73</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>659</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>838</Top>
+	<Left>4494</Left>
+	<Width>23</Width>
+	<Height>48</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>660</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>804</Top>
+	<Left>4350</Left>
+	<Width>27</Width>
+	<Height>45</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>661</Id>
+	<ClassName>beam</ClassName>
+	<Top>739</Top>
+	<Left>4409</Left>
+	<Width>117</Width>
+	<Height>31</Height>
+	<Mask />
+	<Inlinks>664</Inlinks>
+</Node>
+<Node>
+	<Id>662</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>965</Top>
+	<Left>4556</Left>
+	<Width>23</Width>
+	<Height>38</Height>
+	<Mask />
+	<Inlinks>617</Inlinks>
+</Node>
+<Node>
+	<Id>663</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>944</Top>
+	<Left>3999</Left>
+	<Width>24</Width>
+	<Height>29</Height>
+	<Mask />
+	<Outlinks>563 573 574 590 616</Outlinks>
+</Node>
+<Node>
+	<Id>664</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>798</Top>
+	<Left>4319</Left>
+	<Width>22</Width>
+	<Height>18</Height>
+	<Mask />
+	<Inlinks>608 642 646 649 654 666</Inlinks>
+	<Outlinks>577 580 582 591 624 642 646 654 657 661</Outlinks>
+</Node>
+<Node>
+	<Id>665</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>838</Top>
+	<Left>3996</Left>
+	<Width>16</Width>
+	<Height>48</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>666</Id>
+	<ClassName>noteheadFull</ClassName>
+	<Top>824</Top>
+	<Left>4172</Left>
+	<Width>22</Width>
+	<Height>25</Height>
+	<Mask />
+	<Outlinks>573 580 582 591 600 642 656 664 668</Outlinks>
+</Node>
+<Node>
+	<Id>667</Id>
+	<ClassName>stem</ClassName>
+	<Top>798</Top>
+	<Left>4184</Left>
+	<Width>11</Width>
+	<Height>40</Height>
+	<Mask />
+	<Outlinks>607 647 649</Outlinks>
+</Node>
+<Node>
+	<Id>668</Id>
+	<ClassName>noteheadFullSmall</ClassName>
+	<Top>852</Top>
+	<Left>4242</Left>
+	<Width>21</Width>
+	<Height>21</Height>
+	<Mask />
+	<Inlinks>598 603 620 626 642 646 654 666</Inlinks>
+	<Outlinks>573 577 582 590 591 620 626 642 646 654 657</Outlinks>
+</Node>
+<Node>
+	<Id>669</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>954</Top>
+	<Left>4411</Left>
+	<Width>24</Width>
+	<Height>49</Height>
+	<Mask />
+	<Inlinks>594 595</Inlinks>
+</Node>
+<Node>
+	<Id>670</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>835</Top>
+	<Left>4393</Left>
+	<Width>25</Width>
+	<Height>43</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>671</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>954</Top>
+	<Left>4411</Left>
+	<Width>24</Width>
+	<Height>48</Height>
+	<Mask />
+	<Inlinks>594</Inlinks>
+</Node>
+<Node>
+	<Id>672</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>821</Top>
+	<Left>4473</Left>
+	<Width>22</Width>
+	<Height>32</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>673</Id>
+	<ClassName>tie</ClassName>
+	<Top>749</Top>
+	<Left>4344</Left>
+	<Width>51</Width>
+	<Height>23</Height>
+	<Mask />
+	<Inlinks>602 607 608 628 647 649</Inlinks>
+</Node>
+<Node>
+	<Id>674</Id>
+	<ClassName>flag8thDown</ClassName>
+	<Top>1262</Top>
+	<Left>4005</Left>
+	<Width>44</Width>
+	<Height>76</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>675</Id>
+	<ClassName>stem</ClassName>
+	<Top>1046</Top>
+	<Left>4449</Left>
+	<Width>15</Width>
+	<Height>173</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>676</Id>
+	<ClassName>slur</ClassName>
+	<Top>1060</Top>
+	<Left>4457</Left>
+	<Width>132</Width>
+	<Height>34</Height>
+	<Mask />
+	<Inlinks>594 617</Inlinks>
+</Node>
+<Node>
+	<Id>677</Id>
+	<ClassName>tie</ClassName>
+	<Top>1090</Top>
+	<Left>4030</Left>
+	<Width>408</Width>
+	<Height>66</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>678</Id>
+	<ClassName>stem</ClassName>
+	<Top>1028</Top>
+	<Left>4772</Left>
+	<Width>15</Width>
+	<Height>168</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>679</Id>
+	<ClassName>stem</ClassName>
+	<Top>1055</Top>
+	<Left>4597</Left>
+	<Width>19</Width>
+	<Height>170</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>680</Id>
+	<ClassName>tie</ClassName>
+	<Top>1101</Top>
+	<Left>4621</Left>
+	<Width>139</Width>
+	<Height>45</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>681</Id>
+	<ClassName>slur</ClassName>
+	<Top>1186</Top>
+	<Left>4019</Left>
+	<Width>801</Width>
+	<Height>102</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>682</Id>
+	<ClassName>stem</ClassName>
+	<Top>1387</Top>
+	<Left>3994</Left>
+	<Width>14</Width>
+	<Height>34</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>683</Id>
+	<ClassName>stem</ClassName>
+	<Top>1067</Top>
+	<Left>4002</Left>
+	<Width>15</Width>
+	<Height>262</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>684</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>1401</Top>
+	<Left>4094</Left>
+	<Width>25</Width>
+	<Height>10</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>685</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>1418</Top>
+	<Left>3994</Left>
+	<Width>75</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>686</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>1419</Top>
+	<Left>3988</Left>
+	<Width>48</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>687</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>1379</Top>
+	<Left>3994</Left>
+	<Width>67</Width>
+	<Height>12</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>688</Id>
+	<ClassName>articulationStaccato</ClassName>
+	<Top>2642</Top>
+	<Left>4703</Left>
+	<Width>6</Width>
+	<Height>9</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>689</Id>
+	<ClassName>dynamicLetterP</ClassName>
+	<Top>3193</Top>
+	<Left>4820</Left>
+	<Width>28</Width>
+	<Height>56</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>690</Id>
+	<ClassName>augmentationDot</ClassName>
+	<Top>3231</Top>
+	<Left>4869</Left>
+	<Width>11</Width>
+	<Height>11</Height>
+	<Mask />
+</Node>
+<Node>
+	<Id>691</Id>
+	<ClassName>dynamicLetterF</ClassName>
+	<Top>3186</Top>
+	<Left>4903</Left>
+	<Width>35</Width>
+	<Height>54</Height>
+	<Mask />
+</Node>
+</Nodes>

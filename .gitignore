@@ -1,7 +1,11 @@
 data/
 weights/
 runs/
-outputs/
+outputs/*
+!outputs/preprocessed_v5/
+!outputs/preprocessed_bach_v3/
+!outputs/yolo11_v5/
+!outputs/rtdetr_v5/
 Schenkerian_Data/
 midi_output/
 
