@@ -7,8 +7,8 @@ midi_output/
 
 __pycache__/
 *.pyc
-*.pt
 *.npy
+!trained_models/*.pt
 *.out
 
 # Keep shell scripts but not log outputs
