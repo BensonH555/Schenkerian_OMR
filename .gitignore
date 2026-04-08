@@ -1,22 +1,43 @@
+# ─── Large data (not tracked in git) ───
 data/
-weights/
-runs/
-outputs/*
-!outputs/preprocessed_v5/
-!outputs/preprocessed_bach_v3/
-!outputs/yolo11_v5/
-!outputs/rtdetr_v5/
 Schenkerian_Data/
-midi_output/
 
-__pycache__/
-*.pyc
-*.npy
+# ─── Model weights ───
+*.pt
 !trained_models/*.pt
+
+# ─── Outputs (large, generated) ───
+outputs/raw_images/
+outputs/preprocessed/
+outputs/annotations/
+outputs/assembly_on_gen/
+outputs/assembly_schenkerian/
+outputs/assembly_schenkerian_v2/
+
+# ─── Training artifacts ───
+runs/
+weights/
+*.log
 *.out
 
-# Keep shell scripts but not log outputs
+# ─── Python cache ───
+__pycache__/
+*.pyc
+
+# ─── Binary data ───
+*.npy
+
+# ─── Temp/old results (already deleted but just in case) ───
 quick_results/
 quick_results_with_edges/
 results_500px_edges/
 mini_run_logs/
+midi_output/
+
+# ─── OS/IDE files ───
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

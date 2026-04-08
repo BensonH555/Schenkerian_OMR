@@ -337,7 +337,10 @@ def __load_mung(filename: str, exclude_classes: List[str]) -> NotationGraph:
     mung = NotationGraph(mungos)
     objects_to_exclude = [m for m in mungos if m.class_name in exclude_classes]
     for m in objects_to_exclude:
-        mung.remove_vertex(m.id)
+        try:
+            mung.remove_vertex(m.id)
+        except ValueError:
+            pass
     return mung
 
 

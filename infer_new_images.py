@@ -330,6 +330,15 @@ if __name__ == "__main__":
     class_list, class_dict = get_classlist_and_classdict('essential')
     id2clsname = {idx: clsname for clsname, idx in class_dict.items()}
 
+    # Map deprecated MUSCIMA++ class names to mung-studio-schenker names
+    CLASS_NAME_MAP = {
+        'tuple': 'tuplet',
+        'tupleBracket': 'tupletBracket',
+        'graceNoteAcciaccatura': 'graceNoteSlashStemUp',
+        'flag8thUp': 'flagStructuralUp',
+        'flag8thDown': 'flagStructuralDown',
+    }
+
     # Convert detections to nodes
     print(f"\nDetected symbols in {len(imgname2preds)} images:")
     imgname2nodes = {}
@@ -340,8 +349,10 @@ if __name__ == "__main__":
         for preds_list in preds_dict.values():
             for box, prob in preds_list:
                 idx = len(nodes)
+                raw_name = id2clsname[int(prob.top1)]
+                mapped_name = CLASS_NAME_MAP.get(raw_name, raw_name)
                 nodes.append(Node(idx,
-                    class_name=id2clsname[int(prob.top1)],
+                    class_name=mapped_name,
                     top=round(box[1].item()), left=round(box[0].item()),
                     height=round((box[3] - box[1]).item()),
                     width=round((box[2] - box[0]).item()),
