@@ -2,6 +2,8 @@
 """Script to test mung2midi conversion on ground truth and predicted MuNG files."""
 import os
 import sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
+import sys
 import logging
 import traceback
 

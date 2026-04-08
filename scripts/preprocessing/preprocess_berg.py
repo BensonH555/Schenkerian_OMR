@@ -14,8 +14,8 @@ from PIL import Image
 import cv2
 from scipy.ndimage import gaussian_filter1d
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from preprocess_new_images import detect_staff_rows
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..'))
+from scripts.preprocessing.preprocess_new_images import detect_staff_rows
 
 
 def remove_staff_gentle(img_gray, ink_threshold=140, strict_gap=20, vert_range=10):

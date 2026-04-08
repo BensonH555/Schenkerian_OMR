@@ -19,7 +19,7 @@ import torch
 from PIL import Image
 from mung.io import read_nodes_from_file, write_nodes_to_file
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..'))
 from utils.constants import get_classlist_and_classdict
 from utils.data_pool import load_munglinker_data
 from configs.assembler.default import get_cfg_defaults

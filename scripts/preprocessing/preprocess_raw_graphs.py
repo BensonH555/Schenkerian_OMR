@@ -13,7 +13,7 @@ import os
 import sys
 from argparse import ArgumentParser
 from pdf2image import convert_from_path
-from preprocess_new_images import preprocess_single
+from scripts.preprocessing.preprocess_new_images import preprocess_single
 
 RAW_DIR = "Schenkerian_Data/Analysis Dataset/Raw Graphs"
 OUTPUT_DIR = "outputs/preprocessed_raw_graphs"

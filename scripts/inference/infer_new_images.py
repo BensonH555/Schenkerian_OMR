@@ -21,7 +21,7 @@ from tqdm import tqdm
 from argparse import ArgumentParser
 
 # Add completeOMR to path
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..'))
 
 from model import YOLOSoft, MLP, MLPwithSoftClass
 from utils.constants import get_classlist_and_classdict

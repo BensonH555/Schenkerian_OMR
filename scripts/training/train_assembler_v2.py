@@ -20,7 +20,7 @@ from mung.node import Node as MungNode
 from mung.graph import NotationGraph
 import xml.etree.ElementTree as ET
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..'))
 from utils.constants import get_classlist_and_classdict
 from utils.data_pool import PairwiseMungoDataPool, load_config, config2data_pool_dict
 from configs.assembler.default import get_cfg_defaults
