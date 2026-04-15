@@ -330,13 +330,20 @@ if __name__ == "__main__":
     class_list, class_dict = get_classlist_and_classdict('essential')
     id2clsname = {idx: clsname for clsname, idx in class_dict.items()}
 
-    # Map deprecated MUSCIMA++ class names to mung-studio-schenker names
+    # Map MUSCIMA++ class names to mung-studio-schenker names
+    # Based on Stephen's CLASS_MAP
     CLASS_NAME_MAP = {
+        'stem': 'stemStructural',
+        'noteheadFull': 'noteheadBlack',
+        'augmentationDot': 'noteheadBlack',
+        'slur': 'slurStructuralUp',
+        'tie': 'slurStructuralUp',
+        'beam': 'beamStructural',
+        'flag8thUp': 'flagStructuralUp',
+        'flag8thDown': 'flagStructuralDown',
         'tuple': 'tuplet',
         'tupleBracket': 'tupletBracket',
         'graceNoteAcciaccatura': 'graceNoteSlashStemUp',
-        'flag8thUp': 'flagStructuralUp',
-        'flag8thDown': 'flagStructuralDown',
     }
 
     # Convert detections to nodes
