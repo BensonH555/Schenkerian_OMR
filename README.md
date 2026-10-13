@@ -12,7 +12,7 @@ Of the 41 recognition-complete pages, 25 have an explicit recognition-stage stat
 
 - [Current annotation index](Complete%20Annotations/current/README.md): the organized snapshot for inspection and schema review.
 - [MuNG extensions](docs/mung_extensions.md): representation details and examples.
-- [Annotation archive guide](Complete%20Annotations/README.md): how the current snapshot relates to the older folders.
+- [Annotation guide](Complete%20Annotations/README.md): collection contents and how to interpret workflow status.
 - [MuNGStudio](https://mung-studio-schenker.com/): the live annotation workspace. This repository snapshot is not automatically synchronized with later edits.
 
 ## Annotation workflow

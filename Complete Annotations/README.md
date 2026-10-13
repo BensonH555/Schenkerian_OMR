@@ -12,23 +12,9 @@ Only **Bach Fugue in Bb minor WTC 2 Overview001** has recognition, notation asse
 
 Use the image identified as the annotation canvas when interpreting pixel coordinates. Where an original scan is also supplied, it provides visual context; do not assume that every image file has the same dimensions or preprocessing history. The current index and manifest identify the supplied files and their provenance.
 
-## Historical folders
-
-These paths are retained from the older repository so existing links continue to work:
-
-| Folder | Contents |
-| --- | --- |
-| [rachmaninov_bells_mvt2_p2](rachmaninov_bells_mvt2_p2/) | Historical Rachmaninov page 2 annotation and image. |
-| [rachmaninov_bells_mvt2_p4](rachmaninov_bells_mvt2_p4/) | Historical Rachmaninov page 4 annotation and image. |
-| [rachmaninov_bells_mvt2_p5](rachmaninov_bells_mvt2_p5/) | Historical Rachmaninov page 5 annotation and image. |
-| [rachmaninov_bells_mvt2_p6](rachmaninov_bells_mvt2_p6/) | Historical Rachmaninov page 6 annotation and image. |
-| [rachmaninov_bells_mvt2_p7](rachmaninov_bells_mvt2_p7/) | Historical Rachmaninov page 7 annotation and image. |
-| [visualization](visualization/) | Historical rendered annotation images. |
-| [example](example/) | Historical example image with an empty MuNG XML; not a completed annotated page. |
-
-The directory name `Complete Annotations` is historical; the current collection now includes unfinished pages as well. The historical folders do not include those stage records, so their placement here is not evidence that all three stages were completed. Their backups and logs are historical artifacts, not the current page index. Prefer `current/` when checking the latest published annotation state.
-
 ## Interpreting completion
+
+The directory name `Complete Annotations` is historical; `current/` includes unfinished pages as well.
 
 Recognition, notation assembly, and temporal structure are independent. Missing historical status fields do not certify completion. Likewise, an annotated time position describes simultaneity and ordering, not a measured beat or duration. Annotation completion does not automatically validate pitches, voice assignments, or structural depths inferred later by a conversion algorithm.
 

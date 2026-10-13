@@ -4,6 +4,8 @@ This is the repository README preserved from commit `cdcc23933d2073a0a5c39ef5f38
 
 For the current annotation snapshot and format documentation, start with the [repository README](../README.md).
 
+The old annotation folders used by the historical training scripts are available in [the earlier repository snapshot](https://github.com/BensonH555/Schenkerian_OMR/tree/3087e655412ab22555273044ab7a5bde9e44a72a/Complete%20Annotations). The current branch keeps only the `current/` annotation collection.
+
 ---
 
 # Schenkerian OMR
