@@ -1,0 +1,4108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Nodes dataset="Schenkerian_OMR" document="Monteverdi Lamento della Ninfa002" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CVC-MUSCIMA_Schema.xsd">
+<Node>
+	<Id>0</Id>
+	<ClassName>otherText</ClassName>
+	<Top>184</Top>
+	<Left>261</Left>
+	<Width>1220</Width>
+	<Height>152</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.764193</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">14</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">otherText</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.764193</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">14</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">otherText</DataItem>
+		<DataItem key="text_transcription" type="str">Monterverdi - 8th Book - Lamento - Genclusion 6th stanza "Ne mai.....</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>1</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>626</Top>
+	<Left>396</Left>
+	<Width>17</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_72db7a0a-3e8d-4663-a8cd-acd573d489e6" type="str">{"version":1,"label":"Group 2","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:03.227Z","updatedAt":"2026-10-05T11:41:03.227Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">149</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">2</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>2</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>624</Top>
+	<Left>492</Left>
+	<Width>14</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_acf43184-ec21-49fd-904e-38db67abca8c" type="str">{"version":1,"label":"Group 3","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:05.777Z","updatedAt":"2026-10-05T11:41:05.777Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">1</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">11</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>3</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>612</Top>
+	<Left>421</Left>
+	<Width>68</Width>
+	<Height>21</Height>
+</Node>
+<Node>
+	<Id>4</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>596</Top>
+	<Left>536</Left>
+	<Width>13</Width>
+	<Height>22</Height>
+</Node>
+<Node>
+	<Id>5</Id>
+	<ClassName>scaleDegreeMark</ClassName>
+	<Top>349</Top>
+	<Left>565</Left>
+	<Width>26</Width>
+	<Height>22</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.952149</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">79</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">scaleDegreeMark</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.952149</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">79</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">scaleDegreeMark</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>6</Id>
+	<ClassName>scaleDegreeMark</ClassName>
+	<Top>351</Top>
+	<Left>342</Left>
+	<Width>23</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.857845</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">79</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">scaleDegreeMark</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.857845</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">79</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">scaleDegreeMark</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>7</Id>
+	<ClassName>scaleDegreeMark</ClassName>
+	<Top>356</Top>
+	<Left>1923</Left>
+	<Width>29</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.871592</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">79</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">scaleDegreeMark</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.871592</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">79</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">scaleDegreeMark</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>8</Id>
+	<ClassName>numeral3</ClassName>
+	<Top>372</Top>
+	<Left>343</Left>
+	<Width>20</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.963338</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">34</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">numeral3</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.963338</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">34</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">numeral3</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>9</Id>
+	<ClassName>numeral2</ClassName>
+	<Top>375</Top>
+	<Left>571</Left>
+	<Width>29</Width>
+	<Height>27</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.538778</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">32</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">numeral1</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.538778</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">32</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">numeral1</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>10</Id>
+	<ClassName>beamStructuralPartialLeft</ClassName>
+	<Top>407</Top>
+	<Left>348</Left>
+	<Width>283</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.634179</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">6</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">beamStructuralPartialMiddle</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.634179</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">6</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">beamStructuralPartialMiddle</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>11</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>633</Top>
+	<Left>525</Left>
+	<Width>15</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_a7d61d72-8381-4279-8fc3-e607c14ead27" type="str">{"version":1,"label":"Group 4","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:07.894Z","updatedAt":"2026-10-05T11:41:07.894Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">149 2</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">150</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>12</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>415</Top>
+	<Left>342</Left>
+	<Width>14</Width>
+	<Height>204</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.892348</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.892348</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>13</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>420</Top>
+	<Left>578</Left>
+	<Width>17</Width>
+	<Height>208</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.906354</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.906354</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>14</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>419</Top>
+	<Left>1943</Left>
+	<Width>26</Width>
+	<Height>217</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.941705</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.941705</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>15</Id>
+	<ClassName>beamStructural</ClassName>
+	<Top>472</Top>
+	<Left>591</Left>
+	<Width>1037</Width>
+	<Height>21</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.317401</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">87</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">beamStructuralPartialRight</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">true</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.317401</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">87</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">beamStructuralPartialRight</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>16</Id>
+	<ClassName>beamStructural</ClassName>
+	<Top>474</Top>
+	<Left>591</Left>
+	<Width>1025</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.797436</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">4</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">beamStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.797436</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">4</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">beamStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>17</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>474</Top>
+	<Left>1618</Left>
+	<Width>16</Width>
+	<Height>157</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.857291</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.857291</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>18</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>483</Top>
+	<Left>1116</Left>
+	<Width>11</Width>
+	<Height>150</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.778469</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.778469</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>19</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>485</Top>
+	<Left>1252</Left>
+	<Width>14</Width>
+	<Height>145</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.841686</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.841686</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>20</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>519</Top>
+	<Left>1642</Left>
+	<Width>311</Width>
+	<Height>51</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.963087</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.963087</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>21</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>551</Top>
+	<Left>847</Left>
+	<Width>606</Width>
+	<Height>45</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.945054</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">0</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.945054</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">0</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>22</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>554</Top>
+	<Left>597</Left>
+	<Width>213</Width>
+	<Height>46</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.924243</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">0</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.924243</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">0</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>23</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>559</Top>
+	<Left>1534</Left>
+	<Width>30</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.832886</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">67</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">measureNumber</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.832886</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">67</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">measureNumber</DataItem>
+		<DataItem key="text_transcription" type="str">66</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>24</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>559</Top>
+	<Left>1671</Left>
+	<Width>38</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.627324</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">67</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">measureNumber</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.627324</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">67</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">measureNumber</DataItem>
+		<DataItem key="text_transcription" type="str">67</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>25</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>577</Top>
+	<Left>199</Left>
+	<Width>38</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.589955</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">67</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">measureNumber</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.589955</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">67</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">measureNumber</DataItem>
+		<DataItem key="text_transcription" type="str">57</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>26</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>561</Top>
+	<Left>835</Left>
+	<Width>9</Width>
+	<Height>55</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.632158</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.632158</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>27</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>567</Top>
+	<Left>1776</Left>
+	<Width>40</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.858139</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">67</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">measureNumber</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.858139</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">67</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">measureNumber</DataItem>
+		<DataItem key="text_transcription" type="str">68</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>28</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>571</Top>
+	<Left>1322</Left>
+	<Width>9</Width>
+	<Height>49</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.889287</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.889287</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>29</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>571</Top>
+	<Left>1323</Left>
+	<Width>21</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.664031</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">43</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">flagStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.664031</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">43</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">flagStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>30</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>574</Top>
+	<Left>356</Left>
+	<Width>174</Width>
+	<Height>41</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.962838</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.962838</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>31</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>579</Top>
+	<Left>675</Left>
+	<Width>139</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.937133</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.937133</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>32</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>578</Top>
+	<Left>1887</Left>
+	<Width>33</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">69</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>33</Id>
+	<ClassName>barline</ClassName>
+	<Top>612</Top>
+	<Left>727</Left>
+	<Width>17</Width>
+	<Height>174</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.598807</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.598807</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>34</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>582</Top>
+	<Left>989</Left>
+	<Width>28</Width>
+	<Height>25</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.843303</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">3</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">accidentalSharp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.843303</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">3</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">accidentalSharp</DataItem>
+		<DataItem key="text_transcription" type="str">62</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>35</Id>
+	<ClassName>voiceExchangeDown</ClassName>
+	<Top>664</Top>
+	<Left>1456</Left>
+	<Width>15</Width>
+	<Height>55</Height>
+</Node>
+<Node>
+	<Id>36</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>584</Top>
+	<Left>442</Left>
+	<Width>36</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">58</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>37</Id>
+	<ClassName>fClef</ClassName>
+	<Top>723</Top>
+	<Left>242</Left>
+	<Width>45</Width>
+	<Height>43</Height>
+</Node>
+<Node>
+	<Id>38</Id>
+	<ClassName>parensImpliedLeft</ClassName>
+	<Top>611</Top>
+	<Left>322</Left>
+	<Width>15</Width>
+	<Height>32</Height>
+</Node>
+<Node>
+	<Id>39</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>587</Top>
+	<Left>1505</Left>
+	<Width>205</Width>
+	<Height>23</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.943163</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.943163</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>40</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>720</Top>
+	<Left>346</Left>
+	<Width>15</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_14432dda-9e91-4ba3-a25b-b56fb7d66cfe" type="str">{"version":1,"label":"Group 1","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:00.661Z","updatedAt":"2026-10-05T11:41:00.661Z"}</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">132 86</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>41</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>594</Top>
+	<Left>1265</Left>
+	<Width>50</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.471281</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.471281</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>42</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>592</Top>
+	<Left>1460</Left>
+	<Width>44</Width>
+	<Height>23</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.348810</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.348810</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>43</Id>
+	<ClassName>barlineStructuralDotted</ClassName>
+	<Top>607</Top>
+	<Left>789</Left>
+	<Width>17</Width>
+	<Height>172</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.500337</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.500337</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>44</Id>
+	<ClassName>barlineStructuralDotted</ClassName>
+	<Top>610</Top>
+	<Left>1351</Left>
+	<Width>11</Width>
+	<Height>181</Height>
+</Node>
+<Node>
+	<Id>45</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>597</Top>
+	<Left>534</Left>
+	<Width>9</Width>
+	<Height>42</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.894487</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.894487</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>46</Id>
+	<ClassName>barline</ClassName>
+	<Top>609</Top>
+	<Left>1537</Left>
+	<Width>18</Width>
+	<Height>178</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.666888</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">9</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.666888</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">9</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>47</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>585</Top>
+	<Left>1406</Left>
+	<Width>31</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">65</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>48</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>599</Top>
+	<Left>620</Left>
+	<Width>21</Width>
+	<Height>183</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.943219</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.943219</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>49</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>600</Top>
+	<Left>1519</Left>
+	<Width>50</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.831494</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.831494</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>50</Id>
+	<ClassName>barlineStructuralDotted</ClassName>
+	<Top>602</Top>
+	<Left>549</Left>
+	<Width>12</Width>
+	<Height>183</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.562749</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">3</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.562749</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">3</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>51</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>602</Top>
+	<Left>1052</Left>
+	<Width>20</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.278748</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">43</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">flagStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.278748</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">43</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">flagStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>52</Id>
+	<ClassName>barline</ClassName>
+	<Top>606</Top>
+	<Left>1897</Left>
+	<Width>26</Width>
+	<Height>180</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.668872</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">3</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.668872</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">3</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>53</Id>
+	<ClassName>barline</ClassName>
+	<Top>605</Top>
+	<Left>1290</Left>
+	<Width>15</Width>
+	<Height>168</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.960840</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">9</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.960840</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">9</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>54</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>615</Top>
+	<Left>962</Left>
+	<Width>39</Width>
+	<Height>21</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.826523</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.826523</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>55</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>768</Top>
+	<Left>1957</Left>
+	<Width>19</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_715325ba-e24d-478b-9fd8-815fc2d2e7b3" type="str">{"version":1,"label":"Group 28","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:20.561Z","updatedAt":"2026-10-05T11:42:20.561Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">200</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>56</Id>
+	<ClassName>barline</ClassName>
+	<Top>607</Top>
+	<Left>866</Left>
+	<Width>16</Width>
+	<Height>174</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.879474</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">9</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.879474</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">9</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>57</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>608</Top>
+	<Left>1188</Left>
+	<Width>12</Width>
+	<Height>170</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.900911</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.900911</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>58</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>608</Top>
+	<Left>1337</Left>
+	<Width>42</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.876395</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.876395</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>59</Id>
+	<ClassName>DoubleBarline</ClassName>
+	<Top>606</Top>
+	<Left>2004</Left>
+	<Width>29</Width>
+	<Height>186</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.970679</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">9</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.970679</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">9</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>60</Id>
+	<ClassName>barline</ClassName>
+	<Top>609</Top>
+	<Left>1780</Left>
+	<Width>20</Width>
+	<Height>178</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.783804</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">9</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.783804</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">9</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>61</Id>
+	<ClassName>barlineHeavy</ClassName>
+	<Top>608</Top>
+	<Left>216</Left>
+	<Width>22</Width>
+	<Height>167</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.454350</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">9</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.454350</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">9</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>62</Id>
+	<ClassName>gClef</ClassName>
+	<Top>563</Top>
+	<Left>234</Left>
+	<Width>47</Width>
+	<Height>139</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.358646</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">13</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">gClef</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.358646</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">13</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">gClef</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>63</Id>
+	<ClassName>barlineHeavy</ClassName>
+	<Top>610</Top>
+	<Left>447</Left>
+	<Width>18</Width>
+	<Height>167</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.821245</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">10</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barlineHeavy</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.821245</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">10</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barlineHeavy</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>64</Id>
+	<ClassName>barline</ClassName>
+	<Top>610</Top>
+	<Left>1412</Left>
+	<Width>20</Width>
+	<Height>178</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.784766</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.784766</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>65</Id>
+	<ClassName>barline</ClassName>
+	<Top>606</Top>
+	<Left>983</Left>
+	<Width>13</Width>
+	<Height>181</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.832874</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.832874</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>66</Id>
+	<ClassName>barline</ClassName>
+	<Top>611</Top>
+	<Left>1671</Left>
+	<Width>15</Width>
+	<Height>173</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.896019</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">9</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">barline</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.896019</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">9</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">barline</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>67</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>633</Top>
+	<Left>1830</Left>
+	<Width>22</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.902429</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">3</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">accidentalSharp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.902429</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">3</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">accidentalSharp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>68</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>635</Top>
+	<Left>1365</Left>
+	<Width>17</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.900683</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">5</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">accidentalNatural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.900683</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">5</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">accidentalNatural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>69</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>644</Top>
+	<Left>1475</Left>
+	<Width>7</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.910400</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.910400</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>70</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>628</Top>
+	<Left>1248</Left>
+	<Width>14</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_21fb8b25-d200-4efd-af39-0bae76521bac" type="str">{"version":1,"label":"Group 16","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:42.110Z","updatedAt":"2026-10-05T11:41:42.110Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">176</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">183</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>71</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>647</Top>
+	<Left>1855</Left>
+	<Width>11</Width>
+	<Height>37</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.913664</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.913664</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>72</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>647</Top>
+	<Left>1586</Left>
+	<Width>222</Width>
+	<Height>22</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.610680</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.610680</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>73</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>642</Top>
+	<Left>1385</Left>
+	<Width>12</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.271098</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">0</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">noteheadBlack</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.271098</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">0</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">noteheadBlack</DataItem>
+		<DataItem key="schenker_time_group_v1_4e7c3e58-8b07-4c77-9b1f-876073f3ab74" type="str">{"version":1,"label":"Group 18","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:47.694Z","updatedAt":"2026-10-05T11:41:47.694Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">183</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">130 133</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>74</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>649</Top>
+	<Left>1400</Left>
+	<Width>67</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.714663</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.714663</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>75</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>654</Top>
+	<Left>1384</Left>
+	<Width>8</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.900803</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.900803</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>76</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>652</Top>
+	<Left>1488</Left>
+	<Width>81</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.815637</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.815637</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>77</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>654</Top>
+	<Left>1812</Left>
+	<Width>42</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.578484</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.578484</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>78</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>658</Top>
+	<Left>1877</Left>
+	<Width>66</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.301331</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.301331</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>79</Id>
+	<ClassName>voiceExchangeDown</ClassName>
+	<Top>661</Top>
+	<Left>1274</Left>
+	<Width>91</Width>
+	<Height>69</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.432803</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">84</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">voiceExchangeUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.432803</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">84</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">voiceExchangeUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>80</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>665</Top>
+	<Left>1910</Left>
+	<Width>13</Width>
+	<Height>116</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.260089</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.260089</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>81</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>669</Top>
+	<Left>1477</Left>
+	<Width>14</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.955794</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">44</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">flagStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.955794</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">44</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">flagStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>82</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>560</Top>
+	<Left>1455</Left>
+	<Width>15</Width>
+	<Height>54</Height>
+</Node>
+<Node>
+	<Id>83</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>669</Top>
+	<Left>1403</Left>
+	<Width>431</Width>
+	<Height>28</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.860411</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.860411</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>84</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>690</Top>
+	<Left>846</Left>
+	<Width>100</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.968596</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.968596</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>85</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>704</Top>
+	<Left>1530</Left>
+	<Width>83</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.854421</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">11</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralUp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.854421</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">11</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralUp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>86</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>728</Top>
+	<Left>414</Left>
+	<Width>17</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_72db7a0a-3e8d-4663-a8cd-acd573d489e6" type="str">{"version":1,"label":"Group 2","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:03.227Z","updatedAt":"2026-10-05T11:41:03.227Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">222 40</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">132</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>87</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>720</Top>
+	<Left>1735</Left>
+	<Width>15</Width>
+	<Height>50</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.954662</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">5</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">accidentalNatural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.954662</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">5</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">accidentalNatural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>88</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>722</Top>
+	<Left>1596</Left>
+	<Width>20</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.939378</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">3</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">accidentalSharp</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.939378</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">3</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">accidentalSharp</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>89</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>579</Top>
+	<Left>1184</Left>
+	<Width>30</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">63</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>90</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>725</Top>
+	<Left>659</Left>
+	<Width>8</Width>
+	<Height>36</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.456347</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.456347</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>91</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>731</Top>
+	<Left>1210</Left>
+	<Width>9</Width>
+	<Height>37</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.736928</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.736928</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>92</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>782</Top>
+	<Left>350</Left>
+	<Width>18</Width>
+	<Height>191</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.888408</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.888408</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>93</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>736</Top>
+	<Left>1458</Left>
+	<Width>8</Width>
+	<Height>32</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.779704</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">4</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">accidentalFlat</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.779704</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">4</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">accidentalFlat</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>94</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>730</Top>
+	<Left>1619</Left>
+	<Width>21</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_6d5fa0a0-3c5f-4758-9c04-98c6fe2e5ddc" type="str">{"version":1,"label":"Group 23","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:06.910Z","updatedAt":"2026-10-05T11:42:06.910Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">190</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">201</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>95</Id>
+	<ClassName>parensImpliedLeft</ClassName>
+	<Top>614</Top>
+	<Left>1604</Left>
+	<Width>18</Width>
+	<Height>41</Height>
+</Node>
+<Node>
+	<Id>96</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>739</Top>
+	<Left>954</Left>
+	<Width>10</Width>
+	<Height>40</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.940656</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.940656</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>97</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>739</Top>
+	<Left>1474</Left>
+	<Width>32</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.431510</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.431510</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>98</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>755</Top>
+	<Left>1626</Left>
+	<Width>14</Width>
+	<Height>173</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.896905</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.896905</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>99</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>747</Top>
+	<Left>1756</Left>
+	<Width>96</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.964347</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.964347</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>100</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>743</Top>
+	<Left>1753</Left>
+	<Width>14</Width>
+	<Height>65</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.935428</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.935428</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>101</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>741</Top>
+	<Left>365</Left>
+	<Width>133</Width>
+	<Height>34</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.946500</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.946500</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>102</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>741</Top>
+	<Left>1226</Left>
+	<Width>31</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.424044</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.424044</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>103</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>741</Top>
+	<Left>1511</Left>
+	<Width>10</Width>
+	<Height>52</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.898561</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.898561</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>104</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>742</Top>
+	<Left>1262</Left>
+	<Width>8</Width>
+	<Height>41</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.877008</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.877008</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>105</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>743</Top>
+	<Left>1617</Left>
+	<Width>9</Width>
+	<Height>48</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.699839</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.699839</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>106</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>746</Top>
+	<Left>498</Left>
+	<Width>9</Width>
+	<Height>40</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.916900</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.916900</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>107</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>747</Top>
+	<Left>605</Left>
+	<Width>50</Width>
+	<Height>25</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.837907</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.837907</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>108</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>747</Top>
+	<Left>779</Left>
+	<Width>44</Width>
+	<Height>22</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.761167</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.761167</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>109</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>747</Top>
+	<Left>853</Left>
+	<Width>93</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.879409</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.879409</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>110</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>754</Top>
+	<Left>591</Left>
+	<Width>20</Width>
+	<Height>217</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.898225</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.898225</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>111</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>758</Top>
+	<Left>1117</Left>
+	<Width>21</Width>
+	<Height>175</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.951006</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.951006</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>112</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>752</Top>
+	<Left>511</Left>
+	<Width>74</Width>
+	<Height>20</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.631092</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.631092</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>113</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>752</Top>
+	<Left>1715</Left>
+	<Width>17</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.477352</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">44</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">flagStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.477352</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">44</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">flagStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>114</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>757</Top>
+	<Left>1388</Left>
+	<Width>18</Width>
+	<Height>177</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.832026</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.832026</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>115</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>754</Top>
+	<Left>836</Left>
+	<Width>21</Width>
+	<Height>187</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.818653</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.818653</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>116</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>756</Top>
+	<Left>966</Left>
+	<Width>138</Width>
+	<Height>34</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.976261</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">true</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.976261</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>117</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>756</Top>
+	<Left>1861</Left>
+	<Width>23</Width>
+	<Height>176</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.972497</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.972497</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>118</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>757</Top>
+	<Left>1275</Left>
+	<Width>105</Width>
+	<Height>35</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.943080</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.943080</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>119</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>758</Top>
+	<Left>1134</Left>
+	<Width>121</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.356518</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.356518</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>120</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>761</Top>
+	<Left>1527</Left>
+	<Width>92</Width>
+	<Height>25</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.952508</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.952508</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>121</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>763</Top>
+	<Left>1405</Left>
+	<Width>99</Width>
+	<Height>35</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.809765</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.809765</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>122</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>764</Top>
+	<Left>766</Left>
+	<Width>13</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.741957</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">44</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">flagStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.741957</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">44</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">flagStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>123</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>767</Top>
+	<Left>500</Left>
+	<Width>16</Width>
+	<Height>20</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.951818</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">44</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">flagStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.951818</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">44</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">flagStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>124</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>767</Top>
+	<Left>1638</Left>
+	<Width>103</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.864128</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.864128</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>125</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>785</Top>
+	<Left>1957</Left>
+	<Width>17</Width>
+	<Height>187</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.916245</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">2</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.916245</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">2</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>126</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>694</Top>
+	<Left>1394</Left>
+	<Width>11</Width>
+	<Height>31</Height>
+</Node>
+<Node>
+	<Id>127</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>729</Top>
+	<Left>1510</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_fefe4eb5-0ec4-48da-98c4-aa8a6512b216" type="str">{"version":1,"label":"Group 21","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:55.044Z","updatedAt":"2026-10-05T11:41:55.044Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">134 184</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">190 191 192 195</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>128</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>760</Top>
+	<Left>1731</Left>
+	<Width>21</Width>
+	<Height>12</Height>
+</Node>
+<Node>
+	<Id>129</Id>
+	<ClassName>voiceExchangeDown</ClassName>
+	<Top>668</Top>
+	<Left>1768</Left>
+	<Width>80</Width>
+	<Height>63</Height>
+</Node>
+<Node>
+	<Id>130</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>635</Top>
+	<Left>1478</Left>
+	<Width>13</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_fc3305a0-531f-4037-a061-c832db906aa0" type="str">{"version":1,"label":"Group 20","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:52.344Z","updatedAt":"2026-10-05T11:41:52.344Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">133 73</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">187 189</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>131</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>717</Top>
+	<Left>1385</Left>
+	<Width>13</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_4e7c3e58-8b07-4c77-9b1f-876073f3ab74" type="str">{"version":1,"label":"Group 18","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:47.694Z","updatedAt":"2026-10-05T11:41:47.694Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">182</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">184</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>132</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>735</Top>
+	<Left>496</Left>
+	<Width>14</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_acf43184-ec21-49fd-904e-38db67abca8c" type="str">{"version":1,"label":"Group 3","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:05.777Z","updatedAt":"2026-10-05T11:41:05.777Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">40 86</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">207</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>133</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>608</Top>
+	<Left>1452</Left>
+	<Width>12</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_30d511cd-8f9f-4142-94c1-a74dd4ab0e80" type="str">{"version":1,"label":"Group 19","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:50.327Z","updatedAt":"2026-10-05T11:41:50.327Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">254 73</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">130</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>134</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>744</Top>
+	<Left>1386</Left>
+	<Width>20</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_4e7c3e58-8b07-4c77-9b1f-876073f3ab74" type="str">{"version":1,"label":"Group 18","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:47.694Z","updatedAt":"2026-10-05T11:41:47.694Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">181 182</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">127 184</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>135</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>861</Top>
+	<Left>1882</Left>
+	<Width>69</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.908215</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">93</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">slurStructuralDown</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.908215</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">93</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">slurStructuralDown</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>136</Id>
+	<ClassName>numeral1</ClassName>
+	<Top>375</Top>
+	<Left>1928</Left>
+	<Width>21</Width>
+	<Height>32</Height>
+</Node>
+<Node>
+	<Id>137</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>735</Top>
+	<Left>348</Left>
+	<Width>10</Width>
+	<Height>28</Height>
+</Node>
+<Node>
+	<Id>138</Id>
+	<ClassName>numeralRomanV</ClassName>
+	<Top>995</Top>
+	<Left>595</Left>
+	<Width>34</Width>
+	<Height>29</Height>
+</Node>
+<Node>
+	<Id>139</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>617</Top>
+	<Left>546</Left>
+	<Width>32</Width>
+	<Height>13</Height>
+</Node>
+<Node>
+	<Id>140</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>634</Top>
+	<Left>1950</Left>
+	<Width>20</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_715325ba-e24d-478b-9fd8-815fc2d2e7b3" type="str">{"version":1,"label":"Group 28","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:20.561Z","updatedAt":"2026-10-05T11:42:20.561Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">143 197</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>141</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>905</Top>
+	<Left>847</Left>
+	<Width>12</Width>
+	<Height>50</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.780776</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">1</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">stemStructural</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.780776</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">1</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">stemStructural</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>142</Id>
+	<ClassName>beamStructural</ClassName>
+	<Top>924</Top>
+	<Left>608</Left>
+	<Width>1277</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.480112</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">7</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">beamStructuralPartialRight</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.480112</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">7</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">beamStructuralPartialRight</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>143</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>629</Top>
+	<Left>1620</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_6d5fa0a0-3c5f-4758-9c04-98c6fe2e5ddc" type="str">{"version":1,"label":"Group 23","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:06.910Z","updatedAt":"2026-10-05T11:42:06.910Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">188</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">140 196</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>144</Id>
+	<ClassName>beamStructuralPartialLeft</ClassName>
+	<Top>962</Top>
+	<Left>361</Left>
+	<Width>305</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">large</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">rfdetr_symbol22_native19_ep120</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">RF-DETR Medium @1536, 22 pages, native 19 classes, fixed epoch 120</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">rfdetr</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.777499</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">6</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">beamStructuralPartialMiddle</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.777499</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">6</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">beamStructuralPartialMiddle</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>145</Id>
+	<ClassName>beamStructuralPartialRight</ClassName>
+	<Top>972</Top>
+	<Left>1897</Left>
+	<Width>74</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.311011</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">86</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">beamStructuralPartialMiddle</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.311011</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">86</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">beamStructuralPartialMiddle</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>146</Id>
+	<ClassName>numeralRomanI</ClassName>
+	<Top>998</Top>
+	<Left>354</Left>
+	<Width>18</Width>
+	<Height>28</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.883193</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">70</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">numeralRomanI</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.883193</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">70</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">numeralRomanI</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>147</Id>
+	<ClassName>numeralRomanI</ClassName>
+	<Top>1003</Top>
+	<Left>1962</Left>
+	<Width>19</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="symbol_detector_source" type="str">small</DataItem>
+		<DataItem key="symbol_detector_model_key" type="str">yolo26l_symbol22_visible_ep200</DataItem>
+		<DataItem key="symbol_detector_model_label" type="str">YOLO26L, 22 pages, native 95 classes, fixed epoch 200</DataItem>
+		<DataItem key="symbol_detector_backend" type="str">yolo</DataItem>
+		<DataItem key="symbol_detector_confidence" type="float">0.858184</DataItem>
+		<DataItem key="symbol_detector_class_id" type="int">70</DataItem>
+		<DataItem key="symbol_detector_raw_class" type="str">numeralRomanI</DataItem>
+		<DataItem key="symbol_detector_touches_interior_tile_edge" type="str">false</DataItem>
+		<DataItem key="yolo26_combined" type="str">true</DataItem>
+		<DataItem key="yolo26_combined_confidence" type="float">0.858184</DataItem>
+		<DataItem key="yolo26_combined_class_id" type="int">70</DataItem>
+		<DataItem key="yolo26_combined_raw_class" type="str">numeralRomanI</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>148</Id>
+	<ClassName>parensImpliedRight</ClassName>
+	<Top>611</Top>
+	<Left>361</Left>
+	<Width>17</Width>
+	<Height>31</Height>
+</Node>
+<Node>
+	<Id>149</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>618</Top>
+	<Left>338</Left>
+	<Width>14</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_14432dda-9e91-4ba3-a25b-b56fb7d66cfe" type="str">{"version":1,"label":"Group 1","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:00.661Z","updatedAt":"2026-10-05T11:41:00.661Z"}</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">1 11</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>150</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>626</Top>
+	<Left>579</Left>
+	<Width>15</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_071f9f4b-07ef-47f1-a323-96562e1c2c3c" type="str">{"version":1,"label":"Group 5","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:10.127Z","updatedAt":"2026-10-05T11:41:10.127Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">11</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">153 254</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>151</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>575</Top>
+	<Left>621</Left>
+	<Width>31</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">59</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>152</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>600</Top>
+	<Left>598</Left>
+	<Width>53</Width>
+	<Height>16</Height>
+</Node>
+<Node>
+	<Id>153</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>619</Top>
+	<Left>651</Left>
+	<Width>17</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_b2b076d5-25af-4ced-9774-ac0e8cb0d1e2" type="str">{"version":1,"label":"Group 6","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:13.377Z","updatedAt":"2026-10-05T11:41:13.377Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">150</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">154 254</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>154</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>611</Top>
+	<Left>685</Left>
+	<Width>16</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_116d1618-5848-42ef-99d2-0b0673d6fae1" type="str">{"version":1,"label":"Group 7","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:16.943Z","updatedAt":"2026-10-05T11:41:16.943Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">153</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">157</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>155</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>590</Top>
+	<Left>657</Left>
+	<Width>10</Width>
+	<Height>30</Height>
+</Node>
+<Node>
+	<Id>156</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>605</Top>
+	<Left>709</Left>
+	<Width>44</Width>
+	<Height>15</Height>
+</Node>
+<Node>
+	<Id>157</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>613</Top>
+	<Left>756</Left>
+	<Width>14</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_232a0ad3-dc23-4468-9783-c880aad415db" type="str">{"version":1,"label":"Group 8","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:20.177Z","updatedAt":"2026-10-05T11:41:20.177Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">154</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">254</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>158</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>587</Top>
+	<Left>729</Left>
+	<Width>30</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">60</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>159</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>483</Top>
+	<Left>947</Left>
+	<Width>13</Width>
+	<Height>144</Height>
+</Node>
+<Node>
+	<Id>160</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>626</Top>
+	<Left>943</Left>
+	<Width>17</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_5f762c4d-c94f-452e-ac10-00302d21dc15" type="str">{"version":1,"label":"Group 11","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:29.027Z","updatedAt":"2026-10-05T11:41:29.027Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">254</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">162 171</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>161</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>582</Top>
+	<Left>881</Left>
+	<Width>26</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">61</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>162</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>626</Top>
+	<Left>1014</Left>
+	<Width>13</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_6f1025a5-6028-4692-966d-3ac3f42e778b" type="str">{"version":1,"label":"Group 12","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:31.960Z","updatedAt":"2026-10-05T11:41:31.960Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">160</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">171</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>163</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>605</Top>
+	<Left>945</Left>
+	<Width>107</Width>
+	<Height>19</Height>
+</Node>
+<Node>
+	<Id>164</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>688</Top>
+	<Left>838</Left>
+	<Width>9</Width>
+	<Height>29</Height>
+</Node>
+<Node>
+	<Id>165</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>715</Top>
+	<Left>834</Left>
+	<Width>15</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_9cf4356f-4a2d-47ae-a59c-4f32117374a3" type="str">{"version":1,"label":"Group 9","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:24.127Z","updatedAt":"2026-10-05T11:41:24.127Z"}</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">167</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>166</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>723</Top>
+	<Left>910</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_fdda5002-4d9c-4f63-af00-217d96974c08" type="str">{"version":1,"label":"Group 10","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:26.577Z","updatedAt":"2026-10-05T11:41:26.577Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">168</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">167</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>167</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>731</Top>
+	<Left>952</Left>
+	<Width>16</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_5f762c4d-c94f-452e-ac10-00302d21dc15" type="str">{"version":1,"label":"Group 11","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:29.027Z","updatedAt":"2026-10-05T11:41:29.027Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">165 166 168</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">169 178</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>168</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>741</Top>
+	<Left>835</Left>
+	<Width>19</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_9cf4356f-4a2d-47ae-a59c-4f32117374a3" type="str">{"version":1,"label":"Group 9","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:24.127Z","updatedAt":"2026-10-05T11:41:24.127Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">211</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">166 167</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>169</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>736</Top>
+	<Left>1015</Left>
+	<Width>14</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_6f1025a5-6028-4692-966d-3ac3f42e778b" type="str">{"version":1,"label":"Group 12","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:31.960Z","updatedAt":"2026-10-05T11:41:31.960Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">167</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">177 178</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>170</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>603</Top>
+	<Left>1053</Left>
+	<Width>9</Width>
+	<Height>32</Height>
+</Node>
+<Node>
+	<Id>171</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>634</Top>
+	<Left>1048</Left>
+	<Width>13</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_6d19f2f0-f9bf-4c4c-9f6b-a486707295b3" type="str">{"version":1,"label":"Group 13","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:34.244Z","updatedAt":"2026-10-05T11:41:34.244Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">160 162</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">176</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>172</Id>
+	<ClassName>motiveBracket</ClassName>
+	<Top>514</Top>
+	<Left>1310</Left>
+	<Width>84</Width>
+	<Height>42</Height>
+</Node>
+<Node>
+	<Id>173</Id>
+	<ClassName>barlineStructuralDotted</ClassName>
+	<Top>605</Top>
+	<Left>1079</Left>
+	<Width>14</Width>
+	<Height>181</Height>
+</Node>
+<Node>
+	<Id>174</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>614</Top>
+	<Left>1066</Left>
+	<Width>36</Width>
+	<Height>20</Height>
+</Node>
+<Node>
+	<Id>175</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>686</Top>
+	<Left>1122</Left>
+	<Width>9</Width>
+	<Height>34</Height>
+</Node>
+<Node>
+	<Id>176</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>626</Top>
+	<Left>1108</Left>
+	<Width>18</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_fce25b5c-cc06-4ba1-8174-5ee682dd99ac" type="str">{"version":1,"label":"Group 14","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:36.877Z","updatedAt":"2026-10-05T11:41:36.877Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">171</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">70</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>177</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>716</Top>
+	<Left>1113</Left>
+	<Width>18</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_fce25b5c-cc06-4ba1-8174-5ee682dd99ac" type="str">{"version":1,"label":"Group 14","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:36.877Z","updatedAt":"2026-10-05T11:41:36.877Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">169</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">180</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>178</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>744</Top>
+	<Left>1116</Left>
+	<Width>17</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_fce25b5c-cc06-4ba1-8174-5ee682dd99ac" type="str">{"version":1,"label":"Group 14","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:36.877Z","updatedAt":"2026-10-05T11:41:36.877Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">167 169</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">180 181</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>179</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>572</Top>
+	<Left>1274</Left>
+	<Width>33</Width>
+	<Height>25</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">64</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>180</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>723</Top>
+	<Left>1208</Left>
+	<Width>16</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_27ac980b-3774-4e2d-9d9f-b382d06abc29" type="str">{"version":1,"label":"Group 15","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:39.710Z","updatedAt":"2026-10-05T11:41:39.710Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">177 178</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">181</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>181</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>731</Top>
+	<Left>1259</Left>
+	<Width>16</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_21fb8b25-d200-4efd-af39-0bae76521bac" type="str">{"version":1,"label":"Group 16","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:42.110Z","updatedAt":"2026-10-05T11:41:42.110Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">178 180</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">134 182</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>182</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>736</Top>
+	<Left>1322</Left>
+	<Width>15</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_5ec9d8f5-c932-4f6e-8469-a0b1e5d2ce3d" type="str">{"version":1,"label":"Group 17","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:44.477Z","updatedAt":"2026-10-05T11:41:44.477Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">181</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">131 134</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>183</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>615</Top>
+	<Left>1315</Left>
+	<Width>16</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_5ec9d8f5-c932-4f6e-8469-a0b1e5d2ce3d" type="str">{"version":1,"label":"Group 17","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:44.477Z","updatedAt":"2026-10-05T11:41:44.477Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">70</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">73</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>184</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>724</Top>
+	<Left>1456</Left>
+	<Width>13</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_30d511cd-8f9f-4142-94c1-a74dd4ab0e80" type="str">{"version":1,"label":"Group 19","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:50.327Z","updatedAt":"2026-10-05T11:41:50.327Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">131 134</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">127</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>185</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>750</Top>
+	<Left>1462</Left>
+	<Width>13</Width>
+	<Height>19</Height>
+</Node>
+<Node>
+	<Id>186</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>721</Top>
+	<Left>1489</Left>
+	<Width>16</Width>
+	<Height>29</Height>
+</Node>
+<Node>
+	<Id>187</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>610</Top>
+	<Left>1502</Left>
+	<Width>12</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_fefe4eb5-0ec4-48da-98c4-aa8a6512b216" type="str">{"version":1,"label":"Group 21","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:55.044Z","updatedAt":"2026-10-05T11:41:55.044Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">130</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">188 196</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>188</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>636</Top>
+	<Left>1569</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_d3f72c75-7935-43be-878e-b9c0eec053cb" type="str">{"version":1,"label":"Group 22","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:04.060Z","updatedAt":"2026-10-05T11:42:04.060Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">187</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">143</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>189</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>663</Top>
+	<Left>1569</Left>
+	<Width>13</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_d3f72c75-7935-43be-878e-b9c0eec053cb" type="str">{"version":1,"label":"Group 22","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:04.060Z","updatedAt":"2026-10-05T11:42:04.060Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">130</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>190</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>725</Top>
+	<Left>1577</Left>
+	<Width>13</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_d3f72c75-7935-43be-878e-b9c0eec053cb" type="str">{"version":1,"label":"Group 22","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:04.060Z","updatedAt":"2026-10-05T11:42:04.060Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">127</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">94</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>191</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>739</Top>
+	<Left>1577</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_d3f72c75-7935-43be-878e-b9c0eec053cb" type="str">{"version":1,"label":"Group 22","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:04.060Z","updatedAt":"2026-10-05T11:42:04.060Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">127</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">195</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>192</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>714</Top>
+	<Left>1621</Left>
+	<Width>16</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_6d5fa0a0-3c5f-4758-9c04-98c6fe2e5ddc" type="str">{"version":1,"label":"Group 23","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:06.910Z","updatedAt":"2026-10-05T11:42:06.910Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">127</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">201</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>193</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>692</Top>
+	<Left>1626</Left>
+	<Width>12</Width>
+	<Height>24</Height>
+</Node>
+<Node>
+	<Id>194</Id>
+	<ClassName>parensImpliedRight</ClassName>
+	<Top>617</Top>
+	<Left>1636</Left>
+	<Width>16</Width>
+	<Height>35</Height>
+</Node>
+<Node>
+	<Id>195</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>744</Top>
+	<Left>1626</Left>
+	<Width>14</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_6d5fa0a0-3c5f-4758-9c04-98c6fe2e5ddc" type="str">{"version":1,"label":"Group 23","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:06.910Z","updatedAt":"2026-10-05T11:42:06.910Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">127 191</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">201 204</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>196</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>610</Top>
+	<Left>1706</Left>
+	<Width>11</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_a98b3ce3-0d8f-4b39-a239-6cfa5ec50f3f" type="str">{"version":1,"label":"Group 24","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:09.861Z","updatedAt":"2026-10-05T11:42:09.861Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">143 187</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">198</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>197</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>643</Top>
+	<Left>1855</Left>
+	<Width>14</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_69487495-044d-4e18-b696-8737108406af" type="str">{"version":1,"label":"Group 27","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:17.010Z","updatedAt":"2026-10-05T11:42:17.010Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">198</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">140</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>198</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>636</Top>
+	<Left>1812</Left>
+	<Width>13</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_5c254244-6cd4-42be-b42b-f9d6a3706c34" type="str">{"version":1,"label":"Group 26","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:14.344Z","updatedAt":"2026-10-05T11:42:14.344Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">196</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">197</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>199</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>737</Top>
+	<Left>1818</Left>
+	<Width>14</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_5c254244-6cd4-42be-b42b-f9d6a3706c34" type="str">{"version":1,"label":"Group 26","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:14.344Z","updatedAt":"2026-10-05T11:42:14.344Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">204</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">200</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>200</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>745</Top>
+	<Left>1859</Left>
+	<Width>14</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_69487495-044d-4e18-b696-8737108406af" type="str">{"version":1,"label":"Group 27","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:17.010Z","updatedAt":"2026-10-05T11:42:17.010Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">199 204</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">55</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>201</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>725</Top>
+	<Left>1711</Left>
+	<Width>17</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_a98b3ce3-0d8f-4b39-a239-6cfa5ec50f3f" type="str">{"version":1,"label":"Group 24","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:09.861Z","updatedAt":"2026-10-05T11:42:09.861Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">192 195 94</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">204</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>202</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>737</Top>
+	<Left>1713</Left>
+	<Width>8</Width>
+	<Height>34</Height>
+</Node>
+<Node>
+	<Id>203</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>750</Top>
+	<Left>1719</Left>
+	<Width>13</Width>
+	<Height>19</Height>
+</Node>
+<Node>
+	<Id>204</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>732</Top>
+	<Left>1754</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_96bfcb93-ee77-488e-964c-186e9abcf3a6" type="str">{"version":1,"label":"Group 25","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:42:11.894Z","updatedAt":"2026-10-05T11:42:11.894Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">195 201</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">199 200</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>205</Id>
+	<ClassName>beamStructuralPartialRight</ClassName>
+	<Top>414</Top>
+	<Left>1886</Left>
+	<Width>65</Width>
+	<Height>12</Height>
+</Node>
+<Node>
+	<Id>206</Id>
+	<ClassName>otherText</ClassName>
+	<Top>290</Top>
+	<Left>1706</Left>
+	<Width>280</Width>
+	<Height>54</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">toopp il sa. "</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>207</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>741</Top>
+	<Left>590</Left>
+	<Width>18</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_071f9f4b-07ef-47f1-a323-96562e1c2c3c" type="str">{"version":1,"label":"Group 5","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:10.127Z","updatedAt":"2026-10-05T11:41:10.127Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">132</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">208</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>208</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>723</Top>
+	<Left>658</Left>
+	<Width>17</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_b2b076d5-25af-4ced-9774-ac0e8cb0d1e2" type="str">{"version":1,"label":"Group 6","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:13.377Z","updatedAt":"2026-10-05T11:41:13.377Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">207</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">209 211</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>209</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>728</Top>
+	<Left>695</Left>
+	<Width>13</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_116d1618-5848-42ef-99d2-0b0673d6fae1" type="str">{"version":1,"label":"Group 7","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:16.943Z","updatedAt":"2026-10-05T11:41:16.943Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">208</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">211</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>210</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>715</Top>
+	<Left>770</Left>
+	<Width>8</Width>
+	<Height>31</Height>
+</Node>
+<Node>
+	<Id>211</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>737</Top>
+	<Left>762</Left>
+	<Width>14</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_232a0ad3-dc23-4468-9783-c880aad415db" type="str">{"version":1,"label":"Group 8","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:20.177Z","updatedAt":"2026-10-05T11:41:20.177Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">208 209</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">168</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>212</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>747</Top>
+	<Left>764</Left>
+	<Width>6</Width>
+	<Height>38</Height>
+</Node>
+<Node>
+	<Id>213</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>736</Top>
+	<Left>669</Left>
+	<Width>82</Width>
+	<Height>27</Height>
+</Node>
+<Node>
+	<Id>214</Id>
+	<ClassName>beamStructuralUnfoldingDown</ClassName>
+	<Top>713</Top>
+	<Left>663</Left>
+	<Width>113</Width>
+	<Height>50</Height>
+</Node>
+<Node>
+	<Id>215</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>927</Top>
+	<Left>309</Left>
+	<Width>35</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">28</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>216</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>788</Top>
+	<Left>651</Left>
+	<Width>35</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">29</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>217</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>788</Top>
+	<Left>901</Left>
+	<Width>35</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">30</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>218</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>792</Top>
+	<Left>1200</Left>
+	<Width>29</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">31</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>219</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>802</Top>
+	<Left>1447</Left>
+	<Width>39</Width>
+	<Height>23</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">32</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>220</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>799</Top>
+	<Left>1704</Left>
+	<Width>34</Width>
+	<Height>27</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">33</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>221</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>913</Top>
+	<Left>297</Left>
+	<Width>58</Width>
+	<Height>51</Height>
+</Node>
+<Node>
+	<Id>222</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>767</Top>
+	<Left>348</Left>
+	<Width>17</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_14432dda-9e91-4ba3-a25b-b56fb7d66cfe" type="str">{"version":1,"label":"Group 1","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:00.661Z","updatedAt":"2026-10-05T11:41:00.661Z"}</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">86</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>223</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>776</Top>
+	<Left>641</Left>
+	<Width>56</Width>
+	<Height>49</Height>
+</Node>
+<Node>
+	<Id>224</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>779</Top>
+	<Left>889</Left>
+	<Width>60</Width>
+	<Height>44</Height>
+</Node>
+<Node>
+	<Id>225</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>778</Top>
+	<Left>1183</Left>
+	<Width>57</Width>
+	<Height>49</Height>
+</Node>
+<Node>
+	<Id>226</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>789</Top>
+	<Left>1434</Left>
+	<Width>64</Width>
+	<Height>44</Height>
+</Node>
+<Node>
+	<Id>227</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>792</Top>
+	<Left>1695</Left>
+	<Width>59</Width>
+	<Height>41</Height>
+</Node>
+<Node>
+	<Id>228</Id>
+	<ClassName>otherText</ClassName>
+	<Top>894</Top>
+	<Left>667</Left>
+	<Width>52</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>229</Id>
+	<ClassName>characterExclamation</ClassName>
+	<Top>889</Top>
+	<Left>756</Left>
+	<Width>13</Width>
+	<Height>40</Height>
+</Node>
+<Node>
+	<Id>230</Id>
+	<ClassName>numeralRomanI</ClassName>
+	<Top>901</Top>
+	<Left>733</Left>
+	<Width>19</Width>
+	<Height>30</Height>
+</Node>
+<Node>
+	<Id>231</Id>
+	<ClassName>characterExclamation</ClassName>
+	<Top>890</Top>
+	<Left>1001</Left>
+	<Width>13</Width>
+	<Height>40</Height>
+</Node>
+<Node>
+	<Id>232</Id>
+	<ClassName>otherText</ClassName>
+	<Top>894</Top>
+	<Left>909</Left>
+	<Width>52</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>233</Id>
+	<ClassName>numeralRomanI</ClassName>
+	<Top>894</Top>
+	<Left>972</Left>
+	<Width>21</Width>
+	<Height>30</Height>
+</Node>
+<Node>
+	<Id>234</Id>
+	<ClassName>otherText</ClassName>
+	<Top>893</Top>
+	<Left>1217</Left>
+	<Width>52</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>235</Id>
+	<ClassName>numeralRomanI</ClassName>
+	<Top>893</Top>
+	<Left>1289</Left>
+	<Width>21</Width>
+	<Height>32</Height>
+</Node>
+<Node>
+	<Id>236</Id>
+	<ClassName>characterExclamation</ClassName>
+	<Top>888</Top>
+	<Left>1311</Left>
+	<Width>13</Width>
+	<Height>37</Height>
+</Node>
+<Node>
+	<Id>237</Id>
+	<ClassName>otherText</ClassName>
+	<Top>889</Top>
+	<Left>1466</Left>
+	<Width>55</Width>
+	<Height>35</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>238</Id>
+	<ClassName>numeralRomanI</ClassName>
+	<Top>890</Top>
+	<Left>1537</Left>
+	<Width>21</Width>
+	<Height>32</Height>
+</Node>
+<Node>
+	<Id>239</Id>
+	<ClassName>characterExclamation</ClassName>
+	<Top>887</Top>
+	<Left>1559</Left>
+	<Width>15</Width>
+	<Height>37</Height>
+</Node>
+<Node>
+	<Id>240</Id>
+	<ClassName>otherText</ClassName>
+	<Top>887</Top>
+	<Left>1715</Left>
+	<Width>55</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>241</Id>
+	<ClassName>numeralRomanI</ClassName>
+	<Top>887</Top>
+	<Left>1780</Left>
+	<Width>19</Width>
+	<Height>30</Height>
+</Node>
+<Node>
+	<Id>242</Id>
+	<ClassName>characterExclamation</ClassName>
+	<Top>878</Top>
+	<Left>1810</Left>
+	<Width>11</Width>
+	<Height>37</Height>
+</Node>
+<Node>
+	<Id>243</Id>
+	<ClassName>unclassified</ClassName>
+	<Top>826</Top>
+	<Left>658</Left>
+	<Width>20</Width>
+	<Height>62</Height>
+</Node>
+<Node>
+	<Id>244</Id>
+	<ClassName>unclassified</ClassName>
+	<Top>827</Top>
+	<Left>909</Left>
+	<Width>20</Width>
+	<Height>62</Height>
+</Node>
+<Node>
+	<Id>245</Id>
+	<ClassName>unclassified</ClassName>
+	<Top>824</Top>
+	<Left>1218</Left>
+	<Width>20</Width>
+	<Height>57</Height>
+</Node>
+<Node>
+	<Id>246</Id>
+	<ClassName>unclassified</ClassName>
+	<Top>823</Top>
+	<Left>1459</Left>
+	<Width>23</Width>
+	<Height>57</Height>
+</Node>
+<Node>
+	<Id>247</Id>
+	<ClassName>unclassified</ClassName>
+	<Top>825</Top>
+	<Left>1706</Left>
+	<Width>25</Width>
+	<Height>53</Height>
+</Node>
+<Node>
+	<Id>248</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>747</Top>
+	<Left>1214</Left>
+	<Width>16</Width>
+	<Height>22</Height>
+</Node>
+<Node>
+	<Id>249</Id>
+	<ClassName>otherAnalytical</ClassName>
+	<Top>826</Top>
+	<Left>656</Left>
+	<Width>117</Width>
+	<Height>103</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>250</Id>
+	<ClassName>otherAnalytical</ClassName>
+	<Top>823</Top>
+	<Left>906</Left>
+	<Width>118</Width>
+	<Height>107</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>251</Id>
+	<ClassName>otherAnalytical</ClassName>
+	<Top>822</Top>
+	<Left>1216</Left>
+	<Width>118</Width>
+	<Height>107</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>252</Id>
+	<ClassName>otherAnalytical</ClassName>
+	<Top>821</Top>
+	<Left>1457</Left>
+	<Width>118</Width>
+	<Height>107</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>253</Id>
+	<ClassName>otherAnalytical</ClassName>
+	<Top>822</Top>
+	<Left>1705</Left>
+	<Width>118</Width>
+	<Height>107</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">Not</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>254</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>605</Top>
+	<Left>826</Left>
+	<Width>14</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="schenker_time_group_v1_9cf4356f-4a2d-47ae-a59c-4f32117374a3" type="str">{"version":1,"label":"Group 9","kind":"shared-time","provenance":"manual","createdAt":"2026-10-05T11:41:24.127Z","updatedAt":"2026-10-05T11:41:24.127Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">150 153 157</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">133 160</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>255</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>748</Top>
+	<Left>1135</Left>
+	<Width>93</Width>
+	<Height>34</Height>
+</Node>
+</Nodes>

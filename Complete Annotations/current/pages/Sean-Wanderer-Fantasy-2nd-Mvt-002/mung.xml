@@ -1,0 +1,3770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Nodes dataset="None" document="Sean Wanderer Fantasy 2nd Mvt 002" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CVC-MUSCIMA_Schema.xsd">
+<Node>
+	<Id>0</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>76</Top>
+	<Left>1008</Left>
+	<Width>54</Width>
+	<Height>39</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">233</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>1</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>60</Top>
+	<Left>1481</Left>
+	<Width>65</Width>
+	<Height>48</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">234</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>2</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>58</Top>
+	<Left>1679</Left>
+	<Width>70</Width>
+	<Height>46</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">235</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>3</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>97</Top>
+	<Left>581</Left>
+	<Width>57</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="text_transcription" type="str">232</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>4</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>86</Top>
+	<Left>371</Left>
+	<Width>57</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="text_transcription" type="str">230</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>5</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>317</Top>
+	<Left>317</Left>
+	<Width>41</Width>
+	<Height>47</Height>
+</Node>
+<Node>
+	<Id>6</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>127</Top>
+	<Left>479</Left>
+	<Width>1339</Width>
+	<Height>111</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>7</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>179</Top>
+	<Left>1855</Left>
+	<Width>6</Width>
+	<Height>82</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>8</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>193</Top>
+	<Left>449</Left>
+	<Width>8</Width>
+	<Height>183</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>9</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>145</Top>
+	<Left>531</Left>
+	<Width>1148</Width>
+	<Height>147</Height>
+</Node>
+<Node>
+	<Id>10</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>210</Top>
+	<Left>1729</Left>
+	<Width>22</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>11</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>211</Top>
+	<Left>1729</Left>
+	<Width>6</Width>
+	<Height>49</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>12</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>222</Top>
+	<Left>512</Left>
+	<Width>4</Width>
+	<Height>146</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>13</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>230</Top>
+	<Left>1779</Left>
+	<Width>54</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>14</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>231</Top>
+	<Left>1613</Left>
+	<Width>95</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>15</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>237</Top>
+	<Left>406</Left>
+	<Width>4</Width>
+	<Height>87</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>16</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>246</Top>
+	<Left>1691</Left>
+	<Width>18</Width>
+	<Height>32</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>17</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>248</Top>
+	<Left>1592</Left>
+	<Width>4</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>18</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>251</Top>
+	<Left>1236</Left>
+	<Width>10</Width>
+	<Height>65</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>19</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>254</Top>
+	<Left>1719</Left>
+	<Width>13</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>20</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>258</Top>
+	<Left>1848</Left>
+	<Width>14</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>21</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>262</Top>
+	<Left>1555</Left>
+	<Width>15</Width>
+	<Height>52</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>22</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>264</Top>
+	<Left>1707</Left>
+	<Width>37</Width>
+	<Height>6</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>23</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>264</Top>
+	<Left>1839</Left>
+	<Width>34</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>24</Id>
+	<ClassName>gClef</ClassName>
+	<Top>267</Top>
+	<Left>197</Left>
+	<Width>52</Width>
+	<Height>179</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>25</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>269</Top>
+	<Left>1577</Left>
+	<Width>17</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>26</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>272</Top>
+	<Left>1777</Left>
+	<Width>8</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>27</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>273</Top>
+	<Left>1725</Left>
+	<Width>9</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>28</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>262</Top>
+	<Left>1702</Left>
+	<Width>15</Width>
+	<Height>32</Height>
+</Node>
+<Node>
+	<Id>29</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>276</Top>
+	<Left>1522</Left>
+	<Width>12</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>30</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>276</Top>
+	<Left>1843</Left>
+	<Width>25</Width>
+	<Height>6</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>31</Id>
+	<ClassName>keySignature</ClassName>
+	<Top>283</Top>
+	<Left>249</Left>
+	<Width>109</Width>
+	<Height>93</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>32</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>277</Top>
+	<Left>1706</Left>
+	<Width>43</Width>
+	<Height>8</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>33</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>279</Top>
+	<Left>1507</Left>
+	<Width>43</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>34</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>281</Top>
+	<Left>1850</Left>
+	<Width>10</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>35</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>283</Top>
+	<Left>295</Left>
+	<Width>26</Width>
+	<Height>50</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>36</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>283</Top>
+	<Left>1113</Left>
+	<Width>100</Width>
+	<Height>22</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>37</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>284</Top>
+	<Left>1571</Left>
+	<Width>30</Width>
+	<Height>8</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>38</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>284</Top>
+	<Left>1638</Left>
+	<Width>28</Width>
+	<Height>6</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>39</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>282</Top>
+	<Left>1650</Left>
+	<Width>11</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>40</Id>
+	<ClassName>parensImpliedRight</ClassName>
+	<Top>283</Top>
+	<Left>1660</Left>
+	<Width>36</Width>
+	<Height>323</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>41</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>286</Top>
+	<Left>1845</Left>
+	<Width>23</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>42</Id>
+	<ClassName>keySignature</ClassName>
+	<Top>288</Top>
+	<Left>248</Left>
+	<Width>50</Width>
+	<Height>89</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>43</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>290</Top>
+	<Left>1437</Left>
+	<Width>7</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>44</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>292</Top>
+	<Left>249</Left>
+	<Width>33</Width>
+	<Height>50</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>45</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>294</Top>
+	<Left>1507</Left>
+	<Width>43</Width>
+	<Height>8</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>46</Id>
+	<ClassName>parensImpliedLeft</ClassName>
+	<Top>269</Top>
+	<Left>1599</Left>
+	<Width>37</Width>
+	<Height>342</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>47</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>294</Top>
+	<Left>1710</Left>
+	<Width>31</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>48</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>295</Top>
+	<Left>1763</Left>
+	<Width>34</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>49</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>296</Top>
+	<Left>1361</Left>
+	<Width>36</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>50</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>296</Top>
+	<Left>1573</Left>
+	<Width>30</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>51</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>297</Top>
+	<Left>1640</Left>
+	<Width>26</Width>
+	<Height>5</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>52</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>297</Top>
+	<Left>1841</Left>
+	<Width>26</Width>
+	<Height>8</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>53</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>300</Top>
+	<Left>1419</Left>
+	<Width>39</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>54</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>302</Top>
+	<Left>921</Left>
+	<Width>5</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>55</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>302</Top>
+	<Left>949</Left>
+	<Width>85</Width>
+	<Height>28</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>56</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>302</Top>
+	<Left>1257</Left>
+	<Width>13</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>57</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>303</Top>
+	<Left>1318</Left>
+	<Width>12</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>58</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>303</Top>
+	<Left>778</Left>
+	<Width>5</Width>
+	<Height>57</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>59</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>304</Top>
+	<Left>807</Left>
+	<Width>102</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>60</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>306</Top>
+	<Left>1526</Left>
+	<Width>10</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>61</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>306</Top>
+	<Left>1584</Left>
+	<Width>9</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>62</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>309</Top>
+	<Left>1187</Left>
+	<Width>17</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>63</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>312</Top>
+	<Left>1232</Left>
+	<Width>15</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>64</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>313</Top>
+	<Left>626</Left>
+	<Width>9</Width>
+	<Height>56</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>65</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>313</Top>
+	<Left>1065</Left>
+	<Width>11</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>66</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>313</Top>
+	<Left>1364</Left>
+	<Width>15</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>67</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>313</Top>
+	<Left>1436</Left>
+	<Width>11</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>68</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>315</Top>
+	<Left>1299</Left>
+	<Width>16</Width>
+	<Height>45</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>69</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>322</Top>
+	<Left>649</Left>
+	<Width>106</Width>
+	<Height>35</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>70</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>323</Top>
+	<Left>393</Left>
+	<Width>17</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>71</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>323</Top>
+	<Left>1113</Left>
+	<Width>13</Width>
+	<Height>25</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>72</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>323</Top>
+	<Left>1206</Left>
+	<Width>8</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>73</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>324</Top>
+	<Left>1379</Left>
+	<Width>9</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>74</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>325</Top>
+	<Left>561</Left>
+	<Width>8</Width>
+	<Height>41</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>75</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>329</Top>
+	<Left>282</Left>
+	<Width>15</Width>
+	<Height>45</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>76</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>332</Top>
+	<Left>1318</Left>
+	<Width>12</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>77</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>333</Top>
+	<Left>1127</Left>
+	<Width>8</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>78</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>341</Top>
+	<Left>932</Left>
+	<Width>13</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>79</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>329</Top>
+	<Left>1152</Left>
+	<Width>16</Width>
+	<Height>46</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>80</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>344</Top>
+	<Left>860</Left>
+	<Width>21</Width>
+	<Height>27</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>81</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>344</Top>
+	<Left>914</Left>
+	<Width>12</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>82</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>344</Top>
+	<Left>1031</Left>
+	<Width>6</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>83</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>277</Top>
+	<Left>1762</Left>
+	<Width>34</Width>
+	<Height>10</Height>
+</Node>
+<Node>
+	<Id>84</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>347</Top>
+	<Left>1174</Left>
+	<Width>7</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>85</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>348</Top>
+	<Left>788</Left>
+	<Width>12</Width>
+	<Height>48</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>86</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>322</Top>
+	<Left>1274</Left>
+	<Width>11</Width>
+	<Height>12</Height>
+</Node>
+<Node>
+	<Id>87</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>349</Top>
+	<Left>1096</Left>
+	<Width>63</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>88</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>347</Top>
+	<Left>883</Left>
+	<Width>11</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>89</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>350</Top>
+	<Left>971</Left>
+	<Width>17</Width>
+	<Height>39</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>90</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>351</Top>
+	<Left>949</Left>
+	<Width>11</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>91</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>354</Top>
+	<Left>690</Left>
+	<Width>24</Width>
+	<Height>35</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>92</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>354</Top>
+	<Left>766</Left>
+	<Width>13</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>93</Id>
+	<ClassName>beamStructural</ClassName>
+	<Top>357</Top>
+	<Left>1309</Left>
+	<Width>70</Width>
+	<Height>4</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>94</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>364</Top>
+	<Left>494</Left>
+	<Width>18</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>95</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>364</Top>
+	<Left>554</Left>
+	<Width>12</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>96</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>364</Top>
+	<Left>619</Left>
+	<Width>12</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>97</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>364</Top>
+	<Left>989</Left>
+	<Width>9</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>98</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>365</Top>
+	<Left>720</Left>
+	<Width>13</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>99</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>367</Top>
+	<Left>802</Left>
+	<Width>8</Width>
+	<Height>8</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>100</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>368</Top>
+	<Left>532</Left>
+	<Width>13</Width>
+	<Height>34</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>101</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>372</Top>
+	<Left>829</Left>
+	<Width>15</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>102</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>373</Top>
+	<Left>398</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>103</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>373</Top>
+	<Left>926</Left>
+	<Width>52</Width>
+	<Height>22</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>104</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>374</Top>
+	<Left>443</Left>
+	<Width>11</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>105</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>374</Top>
+	<Left>556</Left>
+	<Width>17</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>106</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>375</Top>
+	<Left>640</Left>
+	<Width>12</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>107</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>384</Top>
+	<Left>504</Left>
+	<Width>14</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>108</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>384</Top>
+	<Left>560</Left>
+	<Width>7</Width>
+	<Height>61</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>109</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>385</Top>
+	<Left>662</Left>
+	<Width>12</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>110</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>392</Top>
+	<Left>504</Left>
+	<Width>4</Width>
+	<Height>58</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>111</Id>
+	<ClassName>otherAnalytical</ClassName>
+	<Top>415</Top>
+	<Left>1660</Left>
+	<Width>121</Width>
+	<Height>68</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>112</Id>
+	<ClassName>parensImpliedLeft</ClassName>
+	<Top>584</Top>
+	<Left>1678</Left>
+	<Width>21</Width>
+	<Height>55</Height>
+</Node>
+<Node>
+	<Id>113</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>520</Top>
+	<Left>1733</Left>
+	<Width>10</Width>
+	<Height>39</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>114</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>524</Top>
+	<Left>1855</Left>
+	<Width>9</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>115</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>527</Top>
+	<Left>1771</Left>
+	<Width>7</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>116</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>528</Top>
+	<Left>1771</Left>
+	<Width>20</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>117</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>533</Top>
+	<Left>404</Left>
+	<Width>4</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>118</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>533</Top>
+	<Left>1158</Left>
+	<Width>6</Width>
+	<Height>50</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>119</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>540</Top>
+	<Left>1014</Left>
+	<Width>113</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>120</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>554</Top>
+	<Left>989</Left>
+	<Width>9</Width>
+	<Height>51</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>121</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>554</Top>
+	<Left>1501</Left>
+	<Width>14</Width>
+	<Height>42</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>122</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>554</Top>
+	<Left>1697</Left>
+	<Width>22</Width>
+	<Height>37</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>123</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>553</Top>
+	<Left>1821</Left>
+	<Width>25</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>124</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>556</Top>
+	<Left>858</Left>
+	<Width>118</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>125</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>557</Top>
+	<Left>568</Left>
+	<Width>5</Width>
+	<Height>39</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>126</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>1212</Top>
+	<Left>1689</Left>
+	<Width>50</Width>
+	<Height>4</Height>
+</Node>
+<Node>
+	<Id>127</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>560</Top>
+	<Left>1762</Left>
+	<Width>13</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>128</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1074</Top>
+	<Left>309</Left>
+	<Width>25</Width>
+	<Height>51</Height>
+</Node>
+<Node>
+	<Id>129</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>563</Top>
+	<Left>316</Left>
+	<Width>19</Width>
+	<Height>54</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>130</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>562</Top>
+	<Left>1721</Left>
+	<Width>7</Width>
+	<Height>5</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>131</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>564</Top>
+	<Left>825</Left>
+	<Width>8</Width>
+	<Height>36</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>132</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>558</Top>
+	<Left>1727</Left>
+	<Width>12</Width>
+	<Height>20</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>133</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>565</Top>
+	<Left>1136</Left>
+	<Width>9</Width>
+	<Height>27</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>134</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>565</Top>
+	<Left>1435</Left>
+	<Width>17</Width>
+	<Height>45</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>135</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>566</Top>
+	<Left>502</Left>
+	<Width>7</Width>
+	<Height>57</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>136</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>567</Top>
+	<Left>393</Left>
+	<Width>15</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>137</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>567</Top>
+	<Left>1753</Left>
+	<Width>33</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>138</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>567</Top>
+	<Left>1852</Left>
+	<Width>9</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>139</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>568</Top>
+	<Left>1361</Left>
+	<Width>17</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>140</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>568</Top>
+	<Left>1525</Left>
+	<Width>11</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>141</Id>
+	<ClassName>keySignature</ClassName>
+	<Top>563</Top>
+	<Left>262</Left>
+	<Width>96</Width>
+	<Height>94</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>142</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1085</Top>
+	<Left>263</Left>
+	<Width>30</Width>
+	<Height>56</Height>
+</Node>
+<Node>
+	<Id>143</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>573</Top>
+	<Left>754</Left>
+	<Width>6</Width>
+	<Height>46</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>144</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>577</Top>
+	<Left>920</Left>
+	<Width>7</Width>
+	<Height>32</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>145</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>577</Top>
+	<Left>1456</Left>
+	<Width>12</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>146</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>578</Top>
+	<Left>1150</Left>
+	<Width>12</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>147</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>566</Top>
+	<Left>1171</Left>
+	<Width>11</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>148</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>685</Top>
+	<Left>379</Left>
+	<Width>50</Width>
+	<Height>6</Height>
+</Node>
+<Node>
+	<Id>149</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>581</Top>
+	<Left>657</Left>
+	<Width>54</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>150</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>582</Top>
+	<Left>771</Left>
+	<Width>40</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>151</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>582</Top>
+	<Left>1172</Left>
+	<Width>45</Width>
+	<Height>2</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>152</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>582</Top>
+	<Left>1212</Left>
+	<Width>15</Width>
+	<Height>41</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>153</Id>
+	<ClassName>fClef</ClassName>
+	<Top>585</Top>
+	<Left>194</Left>
+	<Width>58</Width>
+	<Height>61</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>154</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>588</Top>
+	<Left>1187</Left>
+	<Width>14</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>155</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>589</Top>
+	<Left>1078</Left>
+	<Width>9</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>156</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>589</Top>
+	<Left>1387</Left>
+	<Width>9</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>157</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>590</Top>
+	<Left>628</Left>
+	<Width>5</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>158</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>590</Top>
+	<Left>1685</Left>
+	<Width>31</Width>
+	<Height>32</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>159</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>591</Top>
+	<Left>1059</Left>
+	<Width>11</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>160</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>593</Top>
+	<Left>890</Left>
+	<Width>20</Width>
+	<Height>32</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>161</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>596</Top>
+	<Left>1639</Left>
+	<Width>13</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>162</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>597</Top>
+	<Left>1250</Left>
+	<Width>9</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>163</Id>
+	<ClassName>keySignature</ClassName>
+	<Top>1073</Top>
+	<Left>264</Left>
+	<Width>104</Width>
+	<Height>90</Height>
+</Node>
+<Node>
+	<Id>164</Id>
+	<ClassName>parensImpliedRight</ClassName>
+	<Top>595</Top>
+	<Left>1749</Left>
+	<Width>12</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>165</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>598</Top>
+	<Left>1725</Left>
+	<Width>12</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>166</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>599</Top>
+	<Left>981</Left>
+	<Width>9</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>167</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>602</Top>
+	<Left>286</Left>
+	<Width>24</Width>
+	<Height>55</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>168</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>602</Top>
+	<Left>1495</Left>
+	<Width>23</Width>
+	<Height>34</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>169</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>604</Top>
+	<Left>1723</Left>
+	<Width>6</Width>
+	<Height>117</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>170</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>605</Top>
+	<Left>847</Left>
+	<Width>14</Width>
+	<Height>40</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>171</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>606</Top>
+	<Left>1525</Left>
+	<Width>19</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>172</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>607</Top>
+	<Left>914</Left>
+	<Width>9</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>173</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>608</Top>
+	<Left>561</Left>
+	<Width>10</Width>
+	<Height>11</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>174</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>609</Top>
+	<Left>1019</Left>
+	<Width>13</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>175</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>609</Top>
+	<Left>1423</Left>
+	<Width>29</Width>
+	<Height>37</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>176</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>610</Top>
+	<Left>815</Left>
+	<Width>11</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>177</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>611</Top>
+	<Left>1075</Left>
+	<Width>10</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>178</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>612</Top>
+	<Left>496</Left>
+	<Width>11</Width>
+	<Height>22</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>179</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>618</Top>
+	<Left>618</Left>
+	<Width>15</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>180</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>617</Top>
+	<Left>1456</Left>
+	<Width>15</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>181</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>619</Top>
+	<Left>867</Left>
+	<Width>9</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>182</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>620</Top>
+	<Left>746</Left>
+	<Width>10</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>183</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>620</Top>
+	<Left>1523</Left>
+	<Width>8</Width>
+	<Height>235</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>184</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>614</Top>
+	<Left>690</Left>
+	<Width>20</Width>
+	<Height>42</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>185</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>620</Top>
+	<Left>1355</Left>
+	<Width>22</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>186</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>624</Top>
+	<Left>1285</Left>
+	<Width>19</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>187</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>629</Top>
+	<Left>1387</Left>
+	<Width>14</Width>
+	<Height>9</Height>
+</Node>
+<Node>
+	<Id>188</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>630</Top>
+	<Left>709</Left>
+	<Width>8</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>189</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>630</Top>
+	<Left>907</Left>
+	<Width>11</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>190</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>635</Top>
+	<Left>1126</Left>
+	<Width>14</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>191</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>636</Top>
+	<Left>1317</Left>
+	<Width>13</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>192</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>638</Top>
+	<Left>647</Left>
+	<Width>85</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>193</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>639</Top>
+	<Left>746</Left>
+	<Width>11</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>194</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>648</Top>
+	<Left>1145</Left>
+	<Width>16</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>195</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>649</Top>
+	<Left>1315</Left>
+	<Width>9</Width>
+	<Height>101</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>196</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>654</Top>
+	<Left>1204</Left>
+	<Width>15</Width>
+	<Height>51</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>197</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>660</Top>
+	<Left>1147</Left>
+	<Width>4</Width>
+	<Height>105</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>198</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>658</Top>
+	<Left>1861</Left>
+	<Width>16</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>199</Id>
+	<ClassName>accidentalFlat</ClassName>
+	<Top>662</Top>
+	<Left>1060</Left>
+	<Width>11</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>200</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>667</Top>
+	<Left>982</Left>
+	<Width>13</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>201</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>669</Top>
+	<Left>1228</Left>
+	<Width>15</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>202</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>669</Top>
+	<Left>1856</Left>
+	<Width>4</Width>
+	<Height>169</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>203</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>675</Top>
+	<Left>1075</Left>
+	<Width>13</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>204</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>677</Top>
+	<Left>982</Left>
+	<Width>3</Width>
+	<Height>113</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>205</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>680</Top>
+	<Left>400</Left>
+	<Width>13</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>206</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>682</Top>
+	<Left>822</Left>
+	<Width>9</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>207</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>684</Top>
+	<Left>1074</Left>
+	<Width>5</Width>
+	<Height>66</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>208</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>686</Top>
+	<Left>803</Left>
+	<Width>42</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>209</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>688</Top>
+	<Left>728</Left>
+	<Width>33</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>210</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>689</Top>
+	<Left>400</Left>
+	<Width>4</Width>
+	<Height>229</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>211</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>694</Top>
+	<Left>619</Left>
+	<Width>13</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>212</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>695</Top>
+	<Left>820</Left>
+	<Width>4</Width>
+	<Height>99</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>213</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>996</Top>
+	<Left>401</Left>
+	<Width>3</Width>
+	<Height>174</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>214</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>696</Top>
+	<Left>462</Left>
+	<Width>28</Width>
+	<Height>41</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>215</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>697</Top>
+	<Left>904</Left>
+	<Width>11</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>216</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>700</Top>
+	<Left>559</Left>
+	<Width>15</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>217</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>701</Top>
+	<Left>892</Left>
+	<Width>32</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>218</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>703</Top>
+	<Left>549</Left>
+	<Width>32</Width>
+	<Height>6</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>219</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>703</Top>
+	<Left>731</Left>
+	<Width>32</Width>
+	<Height>4</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>220</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>708</Top>
+	<Left>499</Left>
+	<Width>12</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>221</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>709</Top>
+	<Left>903</Left>
+	<Width>8</Width>
+	<Height>36</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>222</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>711</Top>
+	<Left>742</Left>
+	<Width>12</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>223</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>713</Top>
+	<Left>557</Left>
+	<Width>4</Width>
+	<Height>67</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>224</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>716</Top>
+	<Left>925</Left>
+	<Width>35</Width>
+	<Height>9</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>225</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>717</Top>
+	<Left>742</Left>
+	<Width>4</Width>
+	<Height>52</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>226</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>721</Top>
+	<Left>499</Left>
+	<Width>6</Width>
+	<Height>151</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>227</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>721</Top>
+	<Left>1232</Left>
+	<Width>17</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>228</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>725</Top>
+	<Left>910</Left>
+	<Width>14</Width>
+	<Height>20</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>229</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>734</Top>
+	<Left>761</Left>
+	<Width>43</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>230</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>742</Top>
+	<Left>746</Left>
+	<Width>14</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>231</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>744</Top>
+	<Left>572</Left>
+	<Width>33</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>232</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>755</Top>
+	<Left>1535</Left>
+	<Width>302</Width>
+	<Height>64</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>233</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>842</Top>
+	<Left>430</Left>
+	<Width>1043</Width>
+	<Height>77</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>234</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>1057</Top>
+	<Left>564</Left>
+	<Width>1007</Width>
+	<Height>107</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>235</Id>
+	<ClassName>gClef</ClassName>
+	<Top>1064</Top>
+	<Left>209</Left>
+	<Width>45</Width>
+	<Height>175</Height>
+</Node>
+<Node>
+	<Id>236</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>1094</Top>
+	<Left>1596</Left>
+	<Width>26</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>237</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1095</Top>
+	<Left>1595</Left>
+	<Width>4</Width>
+	<Height>88</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>238</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1108</Top>
+	<Left>332</Left>
+	<Width>35</Width>
+	<Height>48</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>239</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>1111</Top>
+	<Left>425</Left>
+	<Width>64</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>240</Id>
+	<ClassName>barline</ClassName>
+	<Top>1111</Top>
+	<Left>178</Left>
+	<Width>7</Width>
+	<Height>343</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>241</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>1119</Top>
+	<Left>1645</Left>
+	<Width>242</Width>
+	<Height>42</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>242</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1217</Top>
+	<Left>1909</Left>
+	<Width>4</Width>
+	<Height>75</Height>
+</Node>
+<Node>
+	<Id>243</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1121</Top>
+	<Left>1515</Left>
+	<Width>5</Width>
+	<Height>47</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>244</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1116</Top>
+	<Left>287</Left>
+	<Width>34</Width>
+	<Height>47</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>245</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1159</Top>
+	<Left>503</Left>
+	<Width>21</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>246</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1162</Top>
+	<Left>385</Left>
+	<Width>19</Width>
+	<Height>27</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>247</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1164</Top>
+	<Left>1501</Left>
+	<Width>15</Width>
+	<Height>21</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>248</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1166</Top>
+	<Left>1898</Left>
+	<Width>21</Width>
+	<Height>20</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>249</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1178</Top>
+	<Left>1584</Left>
+	<Width>18</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>250</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1183</Top>
+	<Left>510</Left>
+	<Width>18</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>251</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>1186</Top>
+	<Left>1485</Left>
+	<Width>15</Width>
+	<Height>46</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>252</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1190</Top>
+	<Left>385</Left>
+	<Width>15</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>253</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1194</Top>
+	<Left>1553</Left>
+	<Width>25</Width>
+	<Height>42</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>254</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1198</Top>
+	<Left>1907</Left>
+	<Width>17</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>255</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1200</Top>
+	<Left>1506</Left>
+	<Width>11</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>256</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1201</Top>
+	<Left>1822</Left>
+	<Width>15</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>257</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1203</Top>
+	<Left>1588</Left>
+	<Width>18</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>258</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1204</Top>
+	<Left>514</Left>
+	<Width>17</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>259</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1205</Top>
+	<Left>386</Left>
+	<Width>3</Width>
+	<Height>69</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>260</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1207</Top>
+	<Left>1711</Left>
+	<Width>11</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>261</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1212</Top>
+	<Left>514</Left>
+	<Width>3</Width>
+	<Height>51</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>262</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1212</Top>
+	<Left>1505</Left>
+	<Width>5</Width>
+	<Height>41</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>263</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1213</Top>
+	<Left>1824</Left>
+	<Width>3</Width>
+	<Height>48</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>264</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1216</Top>
+	<Left>1586</Left>
+	<Width>3</Width>
+	<Height>48</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>265</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1223</Top>
+	<Left>548</Left>
+	<Width>1018</Width>
+	<Height>73</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>266</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1220</Top>
+	<Left>1711</Left>
+	<Width>7</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>267</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1222</Top>
+	<Left>408</Left>
+	<Width>67</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>268</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1228</Top>
+	<Left>1842</Left>
+	<Width>54</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>269</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>1230</Top>
+	<Left>1505</Left>
+	<Width>18</Width>
+	<Height>22</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>270</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>1231</Top>
+	<Left>1711</Left>
+	<Width>17</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>271</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1241</Top>
+	<Left>1628</Left>
+	<Width>172</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>272</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1348</Top>
+	<Left>1620</Left>
+	<Width>4</Width>
+	<Height>86</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>273</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1349</Top>
+	<Left>1833</Left>
+	<Width>3</Width>
+	<Height>86</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>274</Id>
+	<ClassName>keySignature</ClassName>
+	<Top>1354</Top>
+	<Left>268</Left>
+	<Width>97</Width>
+	<Height>103</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>275</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1363</Top>
+	<Left>1918</Left>
+	<Width>4</Width>
+	<Height>75</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>276</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1366</Top>
+	<Left>1716</Left>
+	<Width>7</Width>
+	<Height>60</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>277</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>1367</Top>
+	<Left>1716</Left>
+	<Width>35</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>278</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1374</Top>
+	<Left>254</Left>
+	<Width>35</Width>
+	<Height>49</Height>
+</Node>
+<Node>
+	<Id>279</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1358</Top>
+	<Left>308</Left>
+	<Width>24</Width>
+	<Height>55</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>280</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1371</Top>
+	<Left>400</Left>
+	<Width>3</Width>
+	<Height>63</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>281</Id>
+	<ClassName>fClef</ClassName>
+	<Top>1374</Top>
+	<Left>192</Left>
+	<Width>58</Width>
+	<Height>59</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>282</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1374</Top>
+	<Left>524</Left>
+	<Width>4</Width>
+	<Height>64</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>283</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1383</Top>
+	<Left>1499</Left>
+	<Width>4</Width>
+	<Height>45</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>284</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>1384</Top>
+	<Left>1500</Left>
+	<Width>22</Width>
+	<Height>25</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>285</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>1386</Top>
+	<Left>1542</Left>
+	<Width>54</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>286</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1393</Top>
+	<Left>331</Left>
+	<Width>30</Width>
+	<Height>49</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>287</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>1393</Top>
+	<Left>424</Left>
+	<Width>80</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>288</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1405</Top>
+	<Left>281</Left>
+	<Width>25</Width>
+	<Height>47</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>289</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>1406</Top>
+	<Left>1857</Left>
+	<Width>57</Width>
+	<Height>14</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>290</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1415</Top>
+	<Left>331</Left>
+	<Width>6</Width>
+	<Height>10</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>291</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>1416</Top>
+	<Left>1446</Left>
+	<Width>18</Width>
+	<Height>45</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>292</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1420</Top>
+	<Left>465</Left>
+	<Width>27</Width>
+	<Height>43</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>293</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1423</Top>
+	<Left>1697</Left>
+	<Width>20</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>294</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1424</Top>
+	<Left>1539</Left>
+	<Width>37</Width>
+	<Height>36</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>295</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1416</Top>
+	<Left>1765</Left>
+	<Width>42</Width>
+	<Height>45</Height>
+</Node>
+<Node>
+	<Id>296</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1428</Top>
+	<Left>1907</Left>
+	<Width>15</Width>
+	<Height>21</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>297</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1429</Top>
+	<Left>1490</Left>
+	<Width>12</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>298</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1430</Top>
+	<Left>1602</Left>
+	<Width>17</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>299</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1431</Top>
+	<Left>386</Left>
+	<Width>16</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>300</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1431</Top>
+	<Left>1817</Left>
+	<Width>19</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>301</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1432</Top>
+	<Left>507</Left>
+	<Width>20</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>303</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1451</Top>
+	<Left>1906</Left>
+	<Width>18</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>304</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>1462</Top>
+	<Left>1455</Left>
+	<Width>37</Width>
+	<Height>63</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>305</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1462</Top>
+	<Left>1601</Left>
+	<Width>16</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>306</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1466</Top>
+	<Left>1704</Left>
+	<Width>15</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>307</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1466</Top>
+	<Left>1906</Left>
+	<Width>3</Width>
+	<Height>222</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>308</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1477</Top>
+	<Left>1496</Left>
+	<Width>18</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>309</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1478</Top>
+	<Left>1602</Left>
+	<Width>3</Width>
+	<Height>194</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>310</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>1481</Top>
+	<Left>387</Left>
+	<Width>18</Width>
+	<Height>25</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>311</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1491</Top>
+	<Left>1496</Left>
+	<Width>6</Width>
+	<Height>118</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>312</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1497</Top>
+	<Left>388</Left>
+	<Width>3</Width>
+	<Height>244</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>313</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1513</Top>
+	<Left>1625</Left>
+	<Width>82</Width>
+	<Height>12</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>314</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1537</Top>
+	<Left>1519</Left>
+	<Width>69</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>315</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1540</Top>
+	<Left>1635</Left>
+	<Width>240</Width>
+	<Height>34</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>316</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>1558</Top>
+	<Left>1502</Left>
+	<Width>21</Width>
+	<Height>48</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>317</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1575</Top>
+	<Left>451</Left>
+	<Width>1134</Width>
+	<Height>102</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>318</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>1590</Top>
+	<Left>430</Left>
+	<Width>1358</Width>
+	<Height>134</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>319</Id>
+	<ClassName>measureNumber</ClassName>
+	<Top>87</Top>
+	<Left>490</Left>
+	<Width>51</Width>
+	<Height>38</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">231</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>320</Id>
+	<ClassName>barline</ClassName>
+	<Top>326</Top>
+	<Left>175</Left>
+	<Width>5</Width>
+	<Height>334</Height>
+</Node>
+<Node>
+	<Id>321</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>602</Top>
+	<Left>335</Left>
+	<Width>23</Width>
+	<Height>46</Height>
+</Node>
+<Node>
+	<Id>322</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>580</Top>
+	<Left>262</Left>
+	<Width>27</Width>
+	<Height>52</Height>
+</Node>
+<Node>
+	<Id>323</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>379</Top>
+	<Left>398</Left>
+	<Width>3</Width>
+	<Height>71</Height>
+</Node>
+<Node>
+	<Id>324</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>308</Top>
+	<Left>417</Left>
+	<Width>23</Width>
+	<Height>15</Height>
+</Node>
+<Node>
+	<Id>325</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>335</Top>
+	<Left>457</Left>
+	<Width>41</Width>
+	<Height>17</Height>
+</Node>
+<Node>
+	<Id>326</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>222</Top>
+	<Left>516</Left>
+	<Width>22</Width>
+	<Height>26</Height>
+</Node>
+<Node>
+	<Id>327</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>383</Top>
+	<Left>615</Left>
+	<Width>28</Width>
+	<Height>21</Height>
+</Node>
+<Node>
+	<Id>328</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>379</Top>
+	<Left>775</Left>
+	<Width>28</Width>
+	<Height>20</Height>
+</Node>
+<Node>
+	<Id>329</Id>
+	<ClassName>accidentalDoubleSharp</ClassName>
+	<Top>345</Top>
+	<Left>1014</Left>
+	<Width>14</Width>
+	<Height>15</Height>
+</Node>
+<Node>
+	<Id>330</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>323</Top>
+	<Left>1081</Left>
+	<Width>11</Width>
+	<Height>15</Height>
+</Node>
+<Node>
+	<Id>331</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>275</Top>
+	<Left>1084</Left>
+	<Width>7</Width>
+	<Height>49</Height>
+</Node>
+<Node>
+	<Id>332</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>295</Top>
+	<Left>1378</Left>
+	<Width>9</Width>
+	<Height>11</Height>
+</Node>
+<Node>
+	<Id>334</Id>
+	<ClassName>otherAnalytical</ClassName>
+	<Top>474</Top>
+	<Left>490</Left>
+	<Width>30</Width>
+	<Height>48</Height>
+</Node>
+<Node>
+	<Id>335</Id>
+	<ClassName>voiceExchangeUp</ClassName>
+	<Top>595</Top>
+	<Left>427</Left>
+	<Width>34</Width>
+	<Height>83</Height>
+</Node>
+<Node>
+	<Id>336</Id>
+	<ClassName>voiceExchangeDown</ClassName>
+	<Top>620</Top>
+	<Left>423</Left>
+	<Width>49</Width>
+	<Height>55</Height>
+</Node>
+<Node>
+	<Id>337</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>726</Top>
+	<Left>1101</Left>
+	<Width>35</Width>
+	<Height>20</Height>
+</Node>
+<Node>
+	<Id>338</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>709</Top>
+	<Left>1077</Left>
+	<Width>19</Width>
+	<Height>37</Height>
+</Node>
+<Node>
+	<Id>339</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>702</Top>
+	<Left>485</Left>
+	<Width>39</Width>
+	<Height>6</Height>
+</Node>
+<Node>
+	<Id>340</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>686</Top>
+	<Left>485</Left>
+	<Width>39</Width>
+	<Height>6</Height>
+</Node>
+<Node>
+	<Id>341</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>687</Top>
+	<Left>544</Left>
+	<Width>36</Width>
+	<Height>6</Height>
+</Node>
+<Node>
+	<Id>342</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>686</Top>
+	<Left>605</Left>
+	<Width>41</Width>
+	<Height>6</Height>
+</Node>
+<Node>
+	<Id>343</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>707</Top>
+	<Left>621</Left>
+	<Width>3</Width>
+	<Height>99</Height>
+</Node>
+<Node>
+	<Id>344</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>684</Top>
+	<Left>895</Left>
+	<Width>29</Width>
+	<Height>7</Height>
+</Node>
+<Node>
+	<Id>345</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>680</Top>
+	<Left>1054</Left>
+	<Width>41</Width>
+	<Height>4</Height>
+</Node>
+<Node>
+	<Id>346</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>683</Top>
+	<Left>1229</Left>
+	<Width>4</Width>
+	<Height>64</Height>
+</Node>
+<Node>
+	<Id>347</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>589</Top>
+	<Left>1311</Left>
+	<Width>16</Width>
+	<Height>21</Height>
+</Node>
+<Node>
+	<Id>348</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>577</Top>
+	<Left>1638</Left>
+	<Width>9</Width>
+	<Height>10</Height>
+</Node>
+<Node>
+	<Id>349</Id>
+	<ClassName>otherAnalytical</ClassName>
+	<Top>462</Top>
+	<Left>1720</Left>
+	<Width>32</Width>
+	<Height>48</Height>
+</Node>
+<Node>
+	<Id>350</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>1073</Top>
+	<Left>523</Left>
+	<Width>3</Width>
+	<Height>94</Height>
+</Node>
+<Node>
+	<Id>351</Id>
+	<ClassName>flagStructuralUp</ClassName>
+	<Top>1063</Top>
+	<Left>523</Left>
+	<Width>21</Width>
+	<Height>33</Height>
+</Node>
+<Node>
+	<Id>352</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>1036</Top>
+	<Left>577</Left>
+	<Width>1205</Width>
+	<Height>84</Height>
+</Node>
+<Node>
+	<Id>353</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>999</Top>
+	<Left>1915</Left>
+	<Width>3</Width>
+	<Height>168</Height>
+</Node>
+<Node>
+	<Id>354</Id>
+	<ClassName>beamStructuralPartialMiddle</ClassName>
+	<Top>1734</Top>
+	<Left>358</Left>
+	<Width>77</Width>
+	<Height>4</Height>
+</Node>
+<Node>
+	<Id>355</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>1327</Top>
+	<Left>564</Left>
+	<Width>937</Width>
+	<Height>101</Height>
+</Node>
+<Node>
+	<Id>356</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>1485</Top>
+	<Left>1466</Left>
+	<Width>56</Width>
+	<Height>3</Height>
+</Node>
+<Node>
+	<Id>357</Id>
+	<ClassName>parensImpliedLeft</ClassName>
+	<Top>1459</Top>
+	<Left>1576</Left>
+	<Width>10</Width>
+	<Height>43</Height>
+</Node>
+<Node>
+	<Id>358</Id>
+	<ClassName>parensImpliedRight</ClassName>
+	<Top>1457</Top>
+	<Left>1729</Left>
+	<Width>10</Width>
+	<Height>40</Height>
+</Node>
+</Nodes>

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "document": "ContrapunctusVIII Foreground p1",
+  "captured_at": "2026-10-13T04:01:20.399361+00:00",
+  "stages": {
+    "recognition": "not-started",
+    "assembly": null,
+    "temporal": null
+  },
+  "status_origin": {
+    "recognition": "legacy_page_status",
+    "assembly": "not_recorded",
+    "temporal": "not_recorded"
+  },
+  "legacy_page_status": "not-started",
+  "all_three_explicitly_done": false
+}

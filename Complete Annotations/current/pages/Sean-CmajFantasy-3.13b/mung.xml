@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Nodes dataset="None" document="Sean CmajFantasy 3.13b" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CVC-MUSCIMA_Schema.xsd">
+<Node>
+	<Id>0</Id>
+	<ClassName>beamStructuralPartialMiddle</ClassName>
+	<Top>196</Top>
+	<Left>219</Left>
+	<Width>86</Width>
+	<Height>4</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>1</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>205</Top>
+	<Left>258</Left>
+	<Width>4</Width>
+	<Height>164</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">3</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>2</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>267</Top>
+	<Left>907</Left>
+	<Width>5</Width>
+	<Height>178</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">4</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>3</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>269</Top>
+	<Left>640</Left>
+	<Width>5</Width>
+	<Height>187</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">1</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">4</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>4</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>270</Top>
+	<Left>757</Left>
+	<Width>5</Width>
+	<Height>169</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">3</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">2</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>5</Id>
+	<ClassName>gClef</ClassName>
+	<Top>299</Top>
+	<Left>63</Left>
+	<Width>82</Width>
+	<Height>213</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>6</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>86</Top>
+	<Left>216</Left>
+	<Width>74</Width>
+	<Height>74</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">18</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>7</Id>
+	<ClassName>noteheadHalf</ClassName>
+	<Top>352</Top>
+	<Left>240</Left>
+	<Width>25</Width>
+	<Height>30</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_d07c8484-1c89-4ffa-9a46-6ab06899e811" type="str">{"version":1,"label":"Group 1","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:36.651Z","updatedAt":"2026-10-08T02:26:36.651Z"}</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">16</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>8</Id>
+	<ClassName>slurStructuralUp</ClassName>
+	<Top>398</Top>
+	<Left>826</Left>
+	<Width>69</Width>
+	<Height>26</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>9</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>407</Top>
+	<Left>797</Left>
+	<Width>14</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_67e65e1a-97dd-4b91-a3b9-4766ba895e9d" type="str">{"version":1,"label":"Group 5","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:55.781Z","updatedAt":"2026-10-08T02:26:55.781Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">14</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">10</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>10</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>420</Top>
+	<Left>828</Left>
+	<Width>14</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_c4bb6f16-e50b-403d-827a-ace7796cd785" type="str">{"version":1,"label":"Group 6","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:58.533Z","updatedAt":"2026-10-08T02:26:58.533Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">9</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">13</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>11</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>422</Top>
+	<Left>842</Left>
+	<Width>31</Width>
+	<Height>52</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>12</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>430</Top>
+	<Left>581</Left>
+	<Width>36</Width>
+	<Height>57</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>13</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>434</Top>
+	<Left>889</Left>
+	<Width>22</Width>
+	<Height>22</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_a347d117-0723-4f66-8eea-18e591c7c8fa" type="str">{"version":1,"label":"Group 7","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:05.048Z","updatedAt":"2026-10-08T02:27:05.048Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">10</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>14</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>435</Top>
+	<Left>738</Left>
+	<Width>23</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_3eec5cc7-a539-4113-8de1-1191754409fa" type="str">{"version":1,"label":"Group 4","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:51.098Z","updatedAt":"2026-10-08T02:26:51.098Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">16</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">9</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>15</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>60</Top>
+	<Left>368</Left>
+	<Width>71</Width>
+	<Height>71</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">32</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>16</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>451</Top>
+	<Left>622</Left>
+	<Width>21</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_e2ecbe64-43f1-41ef-b882-d85077b00fb1" type="str">{"version":1,"label":"Group 3","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:48.514Z","updatedAt":"2026-10-08T02:26:48.514Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">7</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">14</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>17</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>463</Top>
+	<Left>780</Left>
+	<Width>23</Width>
+	<Height>41</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>18</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>465</Top>
+	<Left>895</Left>
+	<Width>16</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_a347d117-0723-4f66-8eea-18e591c7c8fa" type="str">{"version":1,"label":"Group 7","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:05.048Z","updatedAt":"2026-10-08T02:27:05.048Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">22</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>19</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>472</Top>
+	<Left>375</Left>
+	<Width>22</Width>
+	<Height>33</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>20</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>475</Top>
+	<Left>633</Left>
+	<Width>14</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_e2ecbe64-43f1-41ef-b882-d85077b00fb1" type="str">{"version":1,"label":"Group 3","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:48.514Z","updatedAt":"2026-10-08T02:26:48.514Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">21</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">22</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>21</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>477</Top>
+	<Left>400</Left>
+	<Width>10</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_62100216-61a1-4a8d-878f-493e2664994e" type="str">{"version":1,"label":"Group 2","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:45.584Z","updatedAt":"2026-10-08T02:26:45.584Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">23</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">20</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>22</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>478</Top>
+	<Left>811</Left>
+	<Width>15</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_67e65e1a-97dd-4b91-a3b9-4766ba895e9d" type="str">{"version":1,"label":"Group 5","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:55.781Z","updatedAt":"2026-10-08T02:26:55.781Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">20</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">18</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>23</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>481</Top>
+	<Left>250</Left>
+	<Width>11</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_d07c8484-1c89-4ffa-9a46-6ab06899e811" type="str">{"version":1,"label":"Group 1","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:26:36.651Z","updatedAt":"2026-10-08T02:26:36.651Z"}</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">21</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>24</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>483</Top>
+	<Left>394</Left>
+	<Width>20</Width>
+	<Height>4</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>25</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>482</Top>
+	<Left>632</Left>
+	<Width>4</Width>
+	<Height>51</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">27</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">73</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>26</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>486</Top>
+	<Left>231</Left>
+	<Width>43</Width>
+	<Height>5</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>27</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>487</Top>
+	<Left>399</Left>
+	<Width>4</Width>
+	<Height>40</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">28</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">25</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>28</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>491</Top>
+	<Left>250</Left>
+	<Width>3</Width>
+	<Height>41</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">27</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>29</Id>
+	<ClassName>voiceExchangeUp</ClassName>
+	<Top>518</Top>
+	<Left>416</Left>
+	<Width>108</Width>
+	<Height>210</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>30</Id>
+	<ClassName>otherNumericSign</ClassName>
+	<Top>554</Top>
+	<Left>886</Left>
+	<Width>28</Width>
+	<Height>27</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">10</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>31</Id>
+	<ClassName>otherNumericSign</ClassName>
+	<Top>560</Top>
+	<Left>230</Left>
+	<Width>29</Width>
+	<Height>27</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="text_transcription" type="str">10</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>32</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>589</Top>
+	<Left>258</Left>
+	<Width>5</Width>
+	<Height>31</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>33</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>591</Top>
+	<Left>564</Left>
+	<Width>4</Width>
+	<Height>46</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>34</Id>
+	<ClassName>accidentalNatural</ClassName>
+	<Top>614</Top>
+	<Left>527</Left>
+	<Width>15</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>35</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>617</Top>
+	<Left>250</Left>
+	<Width>14</Width>
+	<Height>15</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_ceeef734-0c56-4eb7-b78e-c0cf42f6cf98" type="str">{"version":1,"label":"Group 8","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:10.749Z","updatedAt":"2026-10-08T02:27:10.749Z"}</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>36</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>622</Top>
+	<Left>230</Left>
+	<Width>43</Width>
+	<Height>6</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>37</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>629</Top>
+	<Left>549</Left>
+	<Width>14</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_ed1ae42b-a177-4c17-93ce-cc1ae208abe4" type="str">{"version":1,"label":"Group 12","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:20.464Z","updatedAt":"2026-10-08T02:27:20.464Z"}</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>38</Id>
+	<ClassName>legerLine</ClassName>
+	<Top>633</Top>
+	<Left>541</Left>
+	<Width>27</Width>
+	<Height>7</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>39</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>645</Top>
+	<Left>740</Left>
+	<Width>18</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_fdbf6124-f750-48af-9152-85126e895c7a" type="str">{"version":1,"label":"Group 14","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:26.114Z","updatedAt":"2026-10-08T02:27:26.114Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">47</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">42</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>40</Id>
+	<ClassName>fClef</ClassName>
+	<Top>650</Top>
+	<Left>59</Left>
+	<Width>82</Width>
+	<Height>81</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>41</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>656</Top>
+	<Left>740</Left>
+	<Width>4</Width>
+	<Height>152</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">50</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">48</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>42</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>674</Top>
+	<Left>884</Left>
+	<Width>27</Width>
+	<Height>28</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_4f3ee7f6-50be-40a2-94a3-44117976e20d" type="str">{"version":1,"label":"Group 15","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:28.333Z","updatedAt":"2026-10-08T02:27:28.333Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">39</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>43</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>680</Top>
+	<Left>362</Left>
+	<Width>17</Width>
+	<Height>19</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_4d1fcd64-4b2b-4211-8fbd-a8f6a58c02be" type="str">{"version":1,"label":"Group 9","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:14.099Z","updatedAt":"2026-10-08T02:27:14.099Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">49</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">57</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>44</Id>
+	<ClassName>beamStructuralUnfoldingDown</ClassName>
+	<Top>685</Top>
+	<Left>367</Left>
+	<Width>57</Width>
+	<Height>79</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>45</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>685</Top>
+	<Left>423</Left>
+	<Width>5</Width>
+	<Height>68</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">46</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>46</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>697</Top>
+	<Left>363</Left>
+	<Width>4</Width>
+	<Height>68</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">52</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">45</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>47</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>699</Top>
+	<Left>618</Left>
+	<Width>18</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_9d820662-ebc7-40c0-a6ba-ddff875dc05f" type="str">{"version":1,"label":"Group 13","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:22.749Z","updatedAt":"2026-10-08T02:27:22.749Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">51</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">39</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>48</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>699</Top>
+	<Left>884</Left>
+	<Width>4</Width>
+	<Height>185</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">41 50</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>49</Id>
+	<ClassName>noteheadHalf</ClassName>
+	<Top>706</Top>
+	<Left>242</Left>
+	<Width>29</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_ceeef734-0c56-4eb7-b78e-c0cf42f6cf98" type="str">{"version":1,"label":"Group 8","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:10.749Z","updatedAt":"2026-10-08T02:27:10.749Z"}</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">43</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>50</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>713</Top>
+	<Left>619</Left>
+	<Width>4</Width>
+	<Height>186</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">52 54</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">41 48</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>51</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>717</Top>
+	<Left>543</Left>
+	<Width>13</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_ed1ae42b-a177-4c17-93ce-cc1ae208abe4" type="str">{"version":1,"label":"Group 12","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:20.464Z","updatedAt":"2026-10-08T02:27:20.464Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">53</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">47</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>52</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>723</Top>
+	<Left>242</Left>
+	<Width>4</Width>
+	<Height>225</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">46 50</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>53</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>731</Top>
+	<Left>480</Left>
+	<Width>15</Width>
+	<Height>16</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_b051cb65-4eeb-4735-8690-58b28a60744a" type="str">{"version":1,"label":"Group 11","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:18.314Z","updatedAt":"2026-10-08T02:27:18.314Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">57</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">51</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>54</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>731</Top>
+	<Left>543</Left>
+	<Width>5</Width>
+	<Height>89</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">58</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">50</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>55</Id>
+	<ClassName>beamStructuralPartialLeft</ClassName>
+	<Top>947</Top>
+	<Left>242</Left>
+	<Width>63</Width>
+	<Height>4</Height>
+</Node>
+<Node>
+	<Id>56</Id>
+	<ClassName>accidentalSharp</ClassName>
+	<Top>733</Top>
+	<Left>378</Left>
+	<Width>25</Width>
+	<Height>44</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>57</Id>
+	<ClassName>noteheadBlack</ClassName>
+	<Top>746</Top>
+	<Left>403</Left>
+	<Width>22</Width>
+	<Height>18</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="schenker_time_group_v1_e77720d3-c01f-48d3-b85c-e04262a6eec1" type="str">{"version":1,"label":"Group 10","kind":"shared-time","provenance":"manual","createdAt":"2026-10-08T02:27:16.114Z","updatedAt":"2026-10-08T02:27:16.114Z"}</DataItem>
+		<DataItem key="precedence_inlinks" type="list[int]">43</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">53</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>58</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>760</Top>
+	<Left>402</Left>
+	<Width>5</Width>
+	<Height>75</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+		<DataItem key="precedence_outlinks" type="list[int]">54</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>59</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>777</Top>
+	<Left>426</Left>
+	<Width>102</Width>
+	<Height>25</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>60</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>778</Top>
+	<Left>773</Left>
+	<Width>94</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>61</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>779</Top>
+	<Left>559</Left>
+	<Width>48</Width>
+	<Height>13</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>62</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>790</Top>
+	<Left>636</Left>
+	<Width>88</Width>
+	<Height>17</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>63</Id>
+	<ClassName>flagStructuralDown</ClassName>
+	<Top>792</Top>
+	<Left>543</Left>
+	<Width>23</Width>
+	<Height>29</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>64</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>833</Top>
+	<Left>261</Left>
+	<Width>342</Width>
+	<Height>45</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>65</Id>
+	<ClassName>slurStructuralDown</ClassName>
+	<Top>843</Top>
+	<Left>645</Left>
+	<Width>204</Width>
+	<Height>24</Height>
+	<Data>
+		<DataItem key="symbol_detector_prediction" type="str">true</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>66</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>140</Top>
+	<Left>368</Left>
+	<Width>70</Width>
+	<Height>70</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">38</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>67</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>63</Top>
+	<Left>587</Left>
+	<Width>75</Width>
+	<Height>75</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">37</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>68</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>144</Top>
+	<Left>583</Left>
+	<Width>74</Width>
+	<Height>74</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">43</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>69</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>75</Top>
+	<Left>718</Left>
+	<Width>74</Width>
+	<Height>74</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">45</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>70</Id>
+	<ClassName>circleMeasureNumber</ClassName>
+	<Top>80</Top>
+	<Left>864</Left>
+	<Width>72</Width>
+	<Height>73</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">47</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>71</Id>
+	<ClassName>parensImpliedLeft</ClassName>
+	<Top>483</Top>
+	<Left>768</Left>
+	<Width>13</Width>
+	<Height>26</Height>
+</Node>
+<Node>
+	<Id>72</Id>
+	<ClassName>parensImpliedRight</ClassName>
+	<Top>480</Top>
+	<Left>831</Left>
+	<Width>10</Width>
+	<Height>25</Height>
+</Node>
+<Node>
+	<Id>73</Id>
+	<ClassName>stemStructural</ClassName>
+	<Top>474</Top>
+	<Left>894</Left>
+	<Width>3</Width>
+	<Height>63</Height>
+	<Data>
+		<DataItem key="precedence_inlinks" type="list[int]">25</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>74</Id>
+	<ClassName>characterHyphen</ClassName>
+	<Top>565</Top>
+	<Left>736</Left>
+	<Width>27</Width>
+	<Height>5</Height>
+</Node>
+<Node>
+	<Id>75</Id>
+	<ClassName>characterHyphen</ClassName>
+	<Top>569</Top>
+	<Left>482</Left>
+	<Width>25</Width>
+	<Height>5</Height>
+</Node>
+<Node>
+	<Id>76</Id>
+	<ClassName>voiceExchangeDown</ClassName>
+	<Top>652</Top>
+	<Left>444</Left>
+	<Width>86</Width>
+	<Height>86</Height>
+</Node>
+<Node>
+	<Id>78</Id>
+	<ClassName>otherNumericSign</ClassName>
+	<Top>556</Top>
+	<Left>622</Left>
+	<Width>27</Width>
+	<Height>27</Height>
+	<Data>
+		<DataItem key="text_transcription" type="str">10</DataItem>
+	</Data>
+</Node>
+<Node>
+	<Id>79</Id>
+	<ClassName>characterCapitalX</ClassName>
+	<Top>882</Top>
+	<Left>517</Left>
+	<Width>36</Width>
+	<Height>42</Height>
+</Node>
+<Node>
+	<Id>80</Id>
+	<ClassName>beamStructural</ClassName>
+	<Top>894</Top>
+	<Left>248</Left>
+	<Width>647</Width>
+	<Height>16</Height>
+</Node>
+<Node>
+	<Id>81</Id>
+	<ClassName>beamStructural</ClassName>
+	<Top>531</Top>
+	<Left>249</Left>
+	<Width>647</Width>
+	<Height>6</Height>
+</Node>
+<Node>
+	<Id>82</Id>
+	<ClassName>characterCapitalX</ClassName>
+	<Top>514</Top>
+	<Left>315</Left>
+	<Width>32</Width>
+	<Height>43</Height>
+</Node>
+<Node>
+	<Id>83</Id>
+	<ClassName>beamStructural</ClassName>
+	<Top>264</Top>
+	<Left>256</Left>
+	<Width>655</Width>
+	<Height>8</Height>
+</Node>
+<Node>
+	<Id>84</Id>
+	<ClassName>characterCapitalX</ClassName>
+	<Top>234</Top>
+	<Left>473</Left>
+	<Width>40</Width>
+	<Height>55</Height>
+</Node>
+</Nodes>

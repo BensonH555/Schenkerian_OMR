@@ -1,0 +1,288 @@
+{
+  "valid": true,
+  "counts": {
+    "all_three_explicitly_done": 1,
+    "data_key_families": 17,
+    "files_checked": 348,
+    "grouped_noteheads": 1975,
+    "nodes": 56448,
+    "nodes_with_mask": 7135,
+    "noteheads": 13736,
+    "observed_classes": 136,
+    "pages": 87,
+    "precedence_edges": 2716,
+    "syntax_edges": 17501,
+    "time_group_members": 1976,
+    "time_groups": 855
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "time_group_non_notehead",
+      "document": "Bach St Matthew Passion Part II Sketches004",
+      "node": 540,
+      "class_name": "flagStructuralUp",
+      "group": "schenker_time_group_v1_95abe151-2039-4a51-9953-14a651d5bbb3"
+    },
+    {
+      "code": "bbox_outside_canvas",
+      "document": "Rachmaninov The Bells Second Mvmt 005",
+      "node": 583,
+      "class_name": "slurStructuralDown",
+      "bbox": [
+        -2,
+        1273,
+        843,
+        86
+      ],
+      "canvas": [
+        5100,
+        3509
+      ]
+    },
+    {
+      "code": "bbox_outside_canvas",
+      "document": "Schubert_Einsamkeit_Graphs001",
+      "node": 329,
+      "class_name": "otherText",
+      "bbox": [
+        53,
+        -19,
+        3601,
+        181
+      ],
+      "canvas": [
+        5100,
+        3509
+      ]
+    },
+    {
+      "code": "bbox_outside_canvas",
+      "document": "Schubert_Einsamkeit_Graphs003",
+      "node": 8,
+      "class_name": "otherText",
+      "bbox": [
+        33,
+        -1,
+        1164,
+        121
+      ],
+      "canvas": [
+        5100,
+        3509
+      ]
+    },
+    {
+      "code": "bbox_outside_canvas",
+      "document": "Schubert_Einsamkeit_Graphs003",
+      "node": 543,
+      "class_name": "characterCapitalB",
+      "bbox": [
+        -1,
+        2634,
+        27,
+        45
+      ],
+      "canvas": [
+        5100,
+        3509
+      ]
+    },
+    {
+      "code": "unassigned_class",
+      "document": "Schubert_Einsamkeit_Graphs006",
+      "node": 632
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 0
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 2
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 9
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 23
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 25
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 31
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 42
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 44
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 51
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 58
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 60
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 72
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 86
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 205
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 291
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 543
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 551
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 552
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 569
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 570
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 571
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 576
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 582
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 607
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 610
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 612
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 639
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 651
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 682
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 714
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 723
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 754
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 764
+    },
+    {
+      "code": "empty_mask_placeholder",
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "node": 775
+    },
+    {
+      "code": "unassigned_class",
+      "document": "WTCI C-sharp Fugue",
+      "node": 550
+    },
+    {
+      "code": "bbox_outside_canvas",
+      "document": "WTCII F-sharp Fugue p3",
+      "node": 337,
+      "class_name": "voiceExchangeDown",
+      "bbox": [
+        2378,
+        309,
+        321,
+        74
+      ],
+      "canvas": [
+        2698,
+        1730
+      ]
+    }
+  ]
+}

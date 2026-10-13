@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "document": "Sean Der Wanderer 001",
+  "captured_at": "2026-10-13T04:01:20.399361+00:00",
+  "stages": {
+    "recognition": "pending-review",
+    "assembly": null,
+    "temporal": null
+  },
+  "status_origin": {
+    "recognition": "legacy_page_status",
+    "assembly": "not_recorded",
+    "temporal": "not_recorded"
+  },
+  "legacy_page_status": "pending-review",
+  "all_three_explicitly_done": false
+}

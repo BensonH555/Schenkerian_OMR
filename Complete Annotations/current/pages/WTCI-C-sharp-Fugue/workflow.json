@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "document": "WTCI C-sharp Fugue",
+  "captured_at": "2026-10-13T04:01:20.399361+00:00",
+  "stages": {
+    "recognition": "in-progress",
+    "assembly": "not-started",
+    "temporal": "not-started"
+  },
+  "status_origin": {
+    "recognition": "explicit_stage",
+    "assembly": "explicit_stage",
+    "temporal": "explicit_stage"
+  },
+  "legacy_page_status": "in-progress",
+  "all_three_explicitly_done": false
+}

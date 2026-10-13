@@ -1,0 +1,4461 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-13T04:01:20.399361+00:00",
+  "source": "https://mung-studio-schenker.com/",
+  "selection": "All live pages with MuNG XML; workflow stages are reported without a completion filter.",
+  "missing_stage_semantics": "null means no explicit record; UI default not-started is not evidence of completion or absence of work.",
+  "source_fidelity": "mung.xml, annotation canvas, and original image are byte-identical to the captured source. workflow.json is a generated sanitized sidecar.",
+  "counts": {
+    "nodes": 56448,
+    "noteheads": 13736,
+    "syntax_edges": 17501,
+    "precedence_edges": 2716,
+    "time_groups": 855,
+    "grouped_noteheads": 1975,
+    "time_group_members": 1976,
+    "nodes_with_mask": 7135,
+    "pages": 87,
+    "all_three_explicitly_done": 1,
+    "observed_classes": 136,
+    "data_key_families": 17
+  },
+  "pages": [
+    {
+      "document": "Bach Fugue in Bb minor WTC 2 Overview001",
+      "directory": "pages/Bach-Fugue-in-Bb-minor-WTC-2-Overview001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Bach%20Fugue%20in%20Bb%20minor%20WTC%202%20Overview001",
+      "stages": {
+        "recognition": "done",
+        "assembly": "done",
+        "temporal": "done"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": true,
+      "counts": {
+        "nodes": 140,
+        "noteheads": 39,
+        "syntax_edges": 174,
+        "precedence_edges": 58,
+        "time_groups": 14,
+        "grouped_noteheads": 39,
+        "time_group_members": 39,
+        "nodes_with_mask": 0,
+        "observed_classes": 27
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "9063fef450fa6561b218f971fa9e51efa9846caffe81c798d8ff0ca087f9d644",
+          "bytes": 171237
+        },
+        "image.png": {
+          "sha256": "9413e45d649062ed7b6a21ae350e15cfc7b888d7e2b04aea5831da17dd4a5402",
+          "bytes": 17096,
+          "width": 1832,
+          "height": 937
+        },
+        "original.jpg": {
+          "sha256": "10757b5023f8339b3891951d8538d2d52dac1e7fba2d5a1e620e9ffbe63c9c9e",
+          "bytes": 279675,
+          "width": 1832,
+          "height": 937
+        },
+        "workflow.json": {
+          "sha256": "3aacd1910dc184f547e22d190c88d280fed39fbb34274e20fbb71a28da744545",
+          "bytes": 429
+        }
+      }
+    },
+    {
+      "document": "Bach St Matthew Passion Part II Sketches004",
+      "directory": "pages/Bach-St-Matthew-Passion-Part-II-Sketches004",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Bach%20St%20Matthew%20Passion%20Part%20II%20Sketches004",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1251,
+        "noteheads": 294,
+        "syntax_edges": 0,
+        "precedence_edges": 513,
+        "time_groups": 112,
+        "grouped_noteheads": 292,
+        "time_group_members": 293,
+        "nodes_with_mask": 0,
+        "observed_classes": 60
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "f9569a89aeb7dea8a2ebc0ba12e02bb63855d212578aebb08e4d3736484bfe39",
+          "bytes": 1273129
+        },
+        "image.png": {
+          "sha256": "6c9707edd5ddc27c5182e18284dc6cd841f966a4e06afe2fe28a14e6b9a54058",
+          "bytes": 90559,
+          "width": 3400,
+          "height": 2339
+        },
+        "original.jpg": {
+          "sha256": "9e2d5cea20e3ccfa5aeaf84c6d298b48e6b8f49a812b5aac7c18198cb8d7cbe5",
+          "bytes": 797872,
+          "width": 3400,
+          "height": 2339
+        },
+        "workflow.json": {
+          "sha256": "47ac4cd48fa494ac259262413d82c0185e5aa5f28a7d02b57231b24927dd161e",
+          "bytes": 453
+        }
+      }
+    },
+    {
+      "document": "Bach St Matthew Passion Part II Sketches005",
+      "directory": "pages/Bach-St-Matthew-Passion-Part-II-Sketches005",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Bach%20St%20Matthew%20Passion%20Part%20II%20Sketches005",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1411,
+        "noteheads": 352,
+        "syntax_edges": 0,
+        "precedence_edges": 632,
+        "time_groups": 129,
+        "grouped_noteheads": 318,
+        "time_group_members": 318,
+        "nodes_with_mask": 0,
+        "observed_classes": 51
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "4464ec95e749e28921e1937904b1d349706c9100bc39cf1132316ddd645f0264",
+          "bytes": 1402780
+        },
+        "image.png": {
+          "sha256": "bed94343ee8a3a31c1985dcc6829a1f2ae165f3dc42bde94096b5591b63021f9",
+          "bytes": 89421,
+          "width": 3400,
+          "height": 2339
+        },
+        "original.jpg": {
+          "sha256": "10f14319e6cd51113e5229df7ea4029546092d36cdd13f59b319f16c541e4242",
+          "bytes": 816790,
+          "width": 3400,
+          "height": 2339
+        },
+        "workflow.json": {
+          "sha256": "d0b0d7b23868a145ca025187d2f903058e63261ddb0dc6577bd055237640b0ed",
+          "bytes": 453
+        }
+      }
+    },
+    {
+      "document": "Berg Three Orchestral Pieces Praeludium No 1 graph001",
+      "directory": "pages/Berg-Three-Orchestral-Pieces-Praeludium-No-1-graph001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Berg%20Three%20Orchestral%20Pieces%20Praeludium%20No%201%20graph001",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 921,
+        "noteheads": 204,
+        "syntax_edges": 790,
+        "precedence_edges": 246,
+        "time_groups": 101,
+        "grouped_noteheads": 204,
+        "time_group_members": 204,
+        "nodes_with_mask": 49,
+        "observed_classes": 40
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "ffd93cf3e30cfd4e619b16d91c4683a646b0b8f14cc0bf1a2f6ff2efda738041",
+          "bytes": 998014
+        },
+        "image.png": {
+          "sha256": "2ba77e7245a173e0938e1709dd53ae1e4ec4cbaf3640015a0ebaaac690d182dd",
+          "bytes": 76556,
+          "width": 3400,
+          "height": 2339
+        },
+        "original.jpg": {
+          "sha256": "b90dc9c5d6de8eba03c89fe92756592694b05e8dbb64e2e4acbdf24af9757227",
+          "bytes": 737743,
+          "width": 3400,
+          "height": 2339
+        },
+        "workflow.json": {
+          "sha256": "595a832ba34c09e5f7b465d881e63ebc259035d98f7a0122df2470c96c4c8dfa",
+          "bytes": 463
+        }
+      }
+    },
+    {
+      "document": "Berg Three Orchestral Pieces Praeludium No 1 graph002",
+      "directory": "pages/Berg-Three-Orchestral-Pieces-Praeludium-No-1-graph002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Berg%20Three%20Orchestral%20Pieces%20Praeludium%20No%201%20graph002",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 908,
+        "noteheads": 218,
+        "syntax_edges": 765,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 50,
+        "observed_classes": 31
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "bf86a2bceef47476e0bb007cea52d72744e4b00ecdb4bff1d4576aabdc649178",
+          "bytes": 920611
+        },
+        "image.png": {
+          "sha256": "8487fbe187961baab3c85fa0cee08ba40f764ccc563d2b7805c0a1fac9a22954",
+          "bytes": 71109,
+          "width": 3400,
+          "height": 2339
+        },
+        "original.jpg": {
+          "sha256": "d212438dbdd2bf2eaf5d2e5ec618e24803d1daf746cfd997e96ff9b4571b36df",
+          "bytes": 735351,
+          "width": 3400,
+          "height": 2339
+        },
+        "workflow.json": {
+          "sha256": "9aadae296e120d3f0852ca915615cadbc118e8d41610f05c8cc763835b11b0f7",
+          "bytes": 439
+        }
+      }
+    },
+    {
+      "document": "Berg Three Orchestral Pieces Praeludium No 1 graph003",
+      "directory": "pages/Berg-Three-Orchestral-Pieces-Praeludium-No-1-graph003",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Berg%20Three%20Orchestral%20Pieces%20Praeludium%20No%201%20graph003",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 844,
+        "noteheads": 195,
+        "syntax_edges": 700,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 7,
+        "observed_classes": 28
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "48f1fb08c726d0a87f06e8a34d15954e9c33ce9452c9a59aab4118755e688a76",
+          "bytes": 781437
+        },
+        "image.png": {
+          "sha256": "7127cce5f33bd3e87d43a82ad4c5a45e6c55485c7784a26bf8b3e0c5718462f8",
+          "bytes": 65812,
+          "width": 3400,
+          "height": 2339
+        },
+        "original.jpg": {
+          "sha256": "37ea7239af453874456bb9473924cb6f4a17ab5366dac3a089d857eeb396b572",
+          "bytes": 711048,
+          "width": 3400,
+          "height": 2339
+        },
+        "workflow.json": {
+          "sha256": "780fb8f2c5d901137042c0f902e38dd507b37f777a357768130e51610d1d1d67",
+          "bytes": 439
+        }
+      }
+    },
+    {
+      "document": "Berg Three Orchestral Pieces Praeludium No 1 graph004",
+      "directory": "pages/Berg-Three-Orchestral-Pieces-Praeludium-No-1-graph004",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Berg%20Three%20Orchestral%20Pieces%20Praeludium%20No%201%20graph004",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 376,
+        "noteheads": 85,
+        "syntax_edges": 304,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 29
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "1681206c2f67f137d2d9e0e4dc4d4f490deaafde0c93e0430b427b9eb71a95e5",
+          "bytes": 375466
+        },
+        "image.png": {
+          "sha256": "dfe113fbc8fea6dc1d9336088fe7a8c30c1315acf77862378560908e722f3f31",
+          "bytes": 36159,
+          "width": 3400,
+          "height": 2339
+        },
+        "original.jpg": {
+          "sha256": "5bbacbd83248ed05059e6f507e65c7f6726e3f68eb290acb820de0c5c1704663",
+          "bytes": 620010,
+          "width": 3400,
+          "height": 2339
+        },
+        "workflow.json": {
+          "sha256": "cfdad44446cbce936aaa2487b46ac8ed311672bfdab1cf3ba5f0abcc8001eb6c",
+          "bytes": 439
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p01",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p01",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p01",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 720,
+        "noteheads": 175,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 56
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "7b3ebda7c46052fa2276abdd894240f4d08932717edc43a26c41406befbbae84",
+          "bytes": 852595
+        },
+        "image.png": {
+          "sha256": "f5b207b5e77e11c7ed946a093a5858cd95dcf7534a080015530acb9f57cc428a",
+          "bytes": 77397,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "f5b207b5e77e11c7ed946a093a5858cd95dcf7534a080015530acb9f57cc428a",
+          "bytes": 77397,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "79f113d5856fa0725cf49cd0713bb6335cbdf7ba1405a947c30674475f71aa7e",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p02",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p02",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p02",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 742,
+        "noteheads": 174,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 48
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "3fc5b0c6ede922d5a77d9fe706e4b98428607efaad55fa8ec0887f2d668e55b7",
+          "bytes": 938068
+        },
+        "image.png": {
+          "sha256": "a8cd367a466e0f504a86cb5bcc7b9780f2a2ed6c155eaa1e82713c9622fb56b1",
+          "bytes": 93350,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "a8cd367a466e0f504a86cb5bcc7b9780f2a2ed6c155eaa1e82713c9622fb56b1",
+          "bytes": 93350,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "a652ad935915a9bc4844e821cf4ed23bbde4d9a4df40d5d43a591ffffe8ff0eb",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p03",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p03",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p03",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 645,
+        "noteheads": 166,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 49
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "575cdf45a5e0b2fafe767fab6fb46310abf2c7a9b13bc947b353488ed6339b07",
+          "bytes": 815149
+        },
+        "image.png": {
+          "sha256": "53e18daf244ef83b1c7b1f5488d333d2925c41217ebaf6fcad181b3f2dbfb64e",
+          "bytes": 79871,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "53e18daf244ef83b1c7b1f5488d333d2925c41217ebaf6fcad181b3f2dbfb64e",
+          "bytes": 79871,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "424d7e91cc4f181e9c05b736287f0b4384e00c59a73da1a92efa5feaa0983865",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p04",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p04",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p04",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 624,
+        "noteheads": 160,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 48
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "b5223df870c7bc689065e8eb9bfb4914a1269ec01b184898c9add2111158f530",
+          "bytes": 788447
+        },
+        "image.png": {
+          "sha256": "4b6cb7d2bb6213bc365a99515a26e5a645a922f895af871a3041a4ea3bb1dcef",
+          "bytes": 69516,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "4b6cb7d2bb6213bc365a99515a26e5a645a922f895af871a3041a4ea3bb1dcef",
+          "bytes": 69516,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "722f0d06848bd7ff2b0e035616b301841ff80a1aa7aa5722e98b6aa82e4b13b4",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p05",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p05",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p05",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 460,
+        "noteheads": 153,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 33
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "aa7f39e1782e998f8cf553bd0504654f193ab92f1ac99e4d2f27992c2d713e12",
+          "bytes": 580361
+        },
+        "image.png": {
+          "sha256": "4de046defcd77e10cd5765dd8abee789c5b7bb620881a6a0be35489085e35b52",
+          "bytes": 54030,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "4de046defcd77e10cd5765dd8abee789c5b7bb620881a6a0be35489085e35b52",
+          "bytes": 54030,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "69289940e45edad13560d1b4de879b2e79f47664c05f389dd81c0260b45996a1",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p06",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p06",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p06",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 547,
+        "noteheads": 154,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 39
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "826bd1651b9363155aa2232829f483cf5b08f54d887c9afffdf5f0e3faced865",
+          "bytes": 690974
+        },
+        "image.png": {
+          "sha256": "d0f1626fc96360df0cd95d8a7feb6873821cd3f79c6871a8f110c1cab8865afd",
+          "bytes": 66707,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "d0f1626fc96360df0cd95d8a7feb6873821cd3f79c6871a8f110c1cab8865afd",
+          "bytes": 66707,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "8b823854792a6f508366832414f6ba7a478e5d39f3537314bc574517ed482dd6",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p07",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p07",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p07",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 547,
+        "noteheads": 160,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 43
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "6b77f8947cbe0765690ebf3e7d5e01bcb0682139428e55166884fb1f9d29c843",
+          "bytes": 691389
+        },
+        "image.png": {
+          "sha256": "9a6b5eb2d4217e63b529edf24f05ebbbb5de096e3b01f256ce530c57162f3501",
+          "bytes": 63836,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "9a6b5eb2d4217e63b529edf24f05ebbbb5de096e3b01f256ce530c57162f3501",
+          "bytes": 63836,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "c4d782c6d8ddd1f6a1bdd069e5162a074e96a5f2c05d9a6a8e5f606c447d1ac0",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p08",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p08",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p08",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 644,
+        "noteheads": 161,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 53
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "e5b5164c3d221afbe248d7a1f9ebe3a6ecf2da7ecc00438ab5bf068ad03aafbd",
+          "bytes": 813654
+        },
+        "image.png": {
+          "sha256": "6250d954fc9da6882ec1e3d5931a5b15dedebf49dc2ad9859239d7ad27ec653f",
+          "bytes": 81802,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "6250d954fc9da6882ec1e3d5931a5b15dedebf49dc2ad9859239d7ad27ec653f",
+          "bytes": 81802,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "1d3f79c9b97622048f920c49e4a95f3ece1a4062348ed2d933049ba84b15c63d",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p09",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p09",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p09",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 633,
+        "noteheads": 160,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 46
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "c97f00b61eb528aa199edfc20ad197eb4fa4d668bb7d5eb91e0f818f52dc5d92",
+          "bytes": 799760
+        },
+        "image.png": {
+          "sha256": "aa085450c06b7902c3a075f28a041435878ef8cd905056fab54db33a745061f8",
+          "bytes": 82017,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "aa085450c06b7902c3a075f28a041435878ef8cd905056fab54db33a745061f8",
+          "bytes": 82017,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "d618e79be1583fedd16b18780efe8011081b412bb30d6ffbbc3314b374d68a9d",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p10",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p10",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p10",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 556,
+        "noteheads": 156,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 44
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "b8d419b0330a908ee334139f6f4123ea1e29b0bfcbffc18ddd2189c86d0dfe35",
+          "bytes": 702039
+        },
+        "image.png": {
+          "sha256": "f2f61b785d242ee1db02e0f7e540f89d04e3f9c48878e8a163f5f9b2bfa38363",
+          "bytes": 59623,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "f2f61b785d242ee1db02e0f7e540f89d04e3f9c48878e8a163f5f9b2bfa38363",
+          "bytes": 59623,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "9f165075865273f155315c3db77800bc65bbebae1abf4a0080beaafa6756ad03",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p11",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p11",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p11",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 606,
+        "noteheads": 152,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 42
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "a8acf143dc9ccd79c8afb34ca03dff2f97fdcb896f597751f7a2feebe9ee979b",
+          "bytes": 764819
+        },
+        "image.png": {
+          "sha256": "b4dfb784bbeaf2c64428d135d017064f8f144571985ca6d2f6943666c668ada7",
+          "bytes": 72267,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "b4dfb784bbeaf2c64428d135d017064f8f144571985ca6d2f6943666c668ada7",
+          "bytes": 72267,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "2e237db4efeec6fd7ff3f2fdfb35e8bc6d34265329047b08673aad75d5c1a2f4",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 2 - Finale annotated score p12",
+      "directory": "pages/Chopin-Sonata-No.-2---Finale-annotated-score-p12",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%202%20-%20Finale%20annotated%20score%20p12",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 568,
+        "noteheads": 174,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 44
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "01e661de10c745131251b5fd6f3ef44a308c98aee7d4e186fb5dea2bf2ac859b",
+          "bytes": 716935
+        },
+        "image.png": {
+          "sha256": "22d79ba66a7372abdc63e9052d6fc8003f0b2dd39021a31a78cda8a87e818fb9",
+          "bytes": 64663,
+          "width": 3400,
+          "height": 2200
+        },
+        "original.png": {
+          "sha256": "22d79ba66a7372abdc63e9052d6fc8003f0b2dd39021a31a78cda8a87e818fb9",
+          "bytes": 64663,
+          "width": 3400,
+          "height": 2200
+        },
+        "workflow.json": {
+          "sha256": "6cec413c4571faa85513e0cd221aa83f57074d8e518acf0a93394bed0525afdc",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development annotated score 001",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-annotated-score-001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20annotated%20score%20001",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 674,
+        "noteheads": 178,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 33
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "97076696d9d284f878143f7c6c3674018ead3f5bf6c8d61e57b45b3f3652f338",
+          "bytes": 851732
+        },
+        "image.jpg": {
+          "sha256": "50f41f7bbacdfac3e10d9940e0ef49bf0793c5dc029f5fb5a754148da48c4852",
+          "bytes": 630254,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "50f41f7bbacdfac3e10d9940e0ef49bf0793c5dc029f5fb5a754148da48c4852",
+          "bytes": 630254,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "2478fa4a40f3f5f8a305646b188679fd90f9732f487b650d1e664b24475139e1",
+          "bytes": 455
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development annotated score 002",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-annotated-score-002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20annotated%20score%20002",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 596,
+        "noteheads": 151,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 41
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "53ad493624e2cf8d8d9dada244da1f96159b5ed443e2906b4a2995a617c8c98b",
+          "bytes": 754080
+        },
+        "image.jpg": {
+          "sha256": "eb1f9c7d7e1a8bb209c0850ff25055eb9c06de895b6bdfb7d3e168d702f22d68",
+          "bytes": 729452,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "eb1f9c7d7e1a8bb209c0850ff25055eb9c06de895b6bdfb7d3e168d702f22d68",
+          "bytes": 729452,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "cbcb2df1953011d8dffa6c81967e894bc3e305718644138c5b694a16903eca32",
+          "bytes": 455
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development annotated score 004",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-annotated-score-004",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20annotated%20score%20004",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 430,
+        "noteheads": 107,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 41
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "fe6095f0b8203d43e7af8ac15e334f605f5b3d2428c3f751ac3e606d02ab4f2d",
+          "bytes": 543755
+        },
+        "image.jpg": {
+          "sha256": "7567519c5beeb61effbc0ca7b6d031e7518f4cdad46ee26a82e67f27625130b2",
+          "bytes": 527170,
+          "width": 3551,
+          "height": 3467
+        },
+        "original.jpg": {
+          "sha256": "7567519c5beeb61effbc0ca7b6d031e7518f4cdad46ee26a82e67f27625130b2",
+          "bytes": 527170,
+          "width": 3551,
+          "height": 3467
+        },
+        "workflow.json": {
+          "sha256": "35ff9e21a30bc8ee2ea9a17cb973ae70fd40719f91f2592e69ba06fffc9e8737",
+          "bytes": 455
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development annotated score 005",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-annotated-score-005",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20annotated%20score%20005",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 437,
+        "noteheads": 108,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 30
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "3bdf91a7c6d5b89ec3180cd727958b2008020aaa24069a3b155f0fd96481197e",
+          "bytes": 552187
+        },
+        "image.jpg": {
+          "sha256": "09713c225de61789421f8e83dc96124df69d3cdde1234c6b3131b9f1580f6da1",
+          "bytes": 431914,
+          "width": 3385,
+          "height": 3262
+        },
+        "original.jpg": {
+          "sha256": "09713c225de61789421f8e83dc96124df69d3cdde1234c6b3131b9f1580f6da1",
+          "bytes": 431914,
+          "width": 3385,
+          "height": 3262
+        },
+        "workflow.json": {
+          "sha256": "2cceb1cf5d5036608fca26de845b1e7f193cc680b72ba558e2ccc880863fdc9e",
+          "bytes": 455
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development annotated score 006",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-annotated-score-006",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20annotated%20score%20006",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 625,
+        "noteheads": 161,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 38
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "d4eb4be084fd8b3189ec365e37371f7247962d4e59c33d2fda7190771e894034",
+          "bytes": 789078
+        },
+        "image.jpg": {
+          "sha256": "32fbe8ffba3760cea8b2a26f4f9c1fb428298121afd17e8216e657d382b80042",
+          "bytes": 585644,
+          "width": 4741,
+          "height": 3262
+        },
+        "original.jpg": {
+          "sha256": "32fbe8ffba3760cea8b2a26f4f9c1fb428298121afd17e8216e657d382b80042",
+          "bytes": 585644,
+          "width": 4741,
+          "height": 3262
+        },
+        "workflow.json": {
+          "sha256": "c25d1965c88a2f173e02bbf5caf78a566bcda4584e08c7b228cd59fa1dac79c4",
+          "bytes": 455
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development annotated score 007",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-annotated-score-007",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20annotated%20score%20007",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 729,
+        "noteheads": 192,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 40
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "57bae1102af170e01e534411766517a7daee6ea0d62b764c89e0a2b86779c659",
+          "bytes": 921298
+        },
+        "image.jpg": {
+          "sha256": "b07609779072f427f71237c46a244f0ec286126816af8ac0842b452f1dbe7486",
+          "bytes": 668741,
+          "width": 4741,
+          "height": 3262
+        },
+        "original.jpg": {
+          "sha256": "b07609779072f427f71237c46a244f0ec286126816af8ac0842b452f1dbe7486",
+          "bytes": 668741,
+          "width": 4741,
+          "height": 3262
+        },
+        "workflow.json": {
+          "sha256": "ad9e85e97c11d422900971ba23a5854654634e28ec7fc6075b41c7c78284745a",
+          "bytes": 455
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development annotated score 008",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-annotated-score-008",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20annotated%20score%20008",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 766,
+        "noteheads": 220,
+        "syntax_edges": 581,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 40
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "acaa018a3359b361bf36362611ac22941b101d2d3bdf5637094b1db95add6a2a",
+          "bytes": 924717
+        },
+        "image.jpg": {
+          "sha256": "c83393ab4fd9a9ed8e643af2f7ad2c135437fb5a16b7c9ae9ff2a7be1b944c2b",
+          "bytes": 641611,
+          "width": 4741,
+          "height": 3262
+        },
+        "original.jpg": {
+          "sha256": "c83393ab4fd9a9ed8e643af2f7ad2c135437fb5a16b7c9ae9ff2a7be1b944c2b",
+          "bytes": 641611,
+          "width": 4741,
+          "height": 3262
+        },
+        "workflow.json": {
+          "sha256": "d66f1059d07100a74ed696494debba9da3ff6b90a2d549e4b864136819fc00f5",
+          "bytes": 455
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development graph 001",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-graph-001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20graph%20001",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 458,
+        "noteheads": 89,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 38
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "633e62310e065d1a186d175a57db33a9ec66c8db36de7fbc758f3f4f2be34eb7",
+          "bytes": 580146
+        },
+        "image.jpg": {
+          "sha256": "98406f95a25a04d74ea52e913c93f1bf7753c7c34f9c38a82986c09d037252b9",
+          "bytes": 414738,
+          "width": 4923,
+          "height": 846
+        },
+        "original.jpg": {
+          "sha256": "98406f95a25a04d74ea52e913c93f1bf7753c7c34f9c38a82986c09d037252b9",
+          "bytes": 414738,
+          "width": 4923,
+          "height": 846
+        },
+        "workflow.json": {
+          "sha256": "1c7920f5ff9efd3dec4d67b64282f3eaad2b253fd34f1443a698036470d24193",
+          "bytes": 445
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development graph 002",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-graph-002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20graph%20002",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 390,
+        "noteheads": 100,
+        "syntax_edges": 337,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 34
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "7c0e5eebd459ee3fc2a2e2442107fb0f05b9802813112c28df3c1c92899042e9",
+          "bytes": 472229
+        },
+        "image.jpg": {
+          "sha256": "6f38d63d3a928f17e2a01e851e180171d12c2be92f5f60e964cb406904be305f",
+          "bytes": 546422,
+          "width": 4923,
+          "height": 1334
+        },
+        "original.jpg": {
+          "sha256": "6f38d63d3a928f17e2a01e851e180171d12c2be92f5f60e964cb406904be305f",
+          "bytes": 546422,
+          "width": 4923,
+          "height": 1334
+        },
+        "workflow.json": {
+          "sha256": "7271ac6e87c8938207c776c75affd9e65f13af5697e79a1e44f6bcf5b1f0032f",
+          "bytes": 445
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development graph 003",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-graph-003",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20graph%20003",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 577,
+        "noteheads": 130,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 36
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "fe190f50043cf8496037f5004f935a0e083c22b1e96a3a366c2c39f246624825",
+          "bytes": 729837
+        },
+        "image.jpg": {
+          "sha256": "2637a2473b29c1813ff0c2c1e3cf2b6f191e986e3ea49e279f5d70cfc515a23c",
+          "bytes": 870340,
+          "width": 4612,
+          "height": 2041
+        },
+        "original.jpg": {
+          "sha256": "2637a2473b29c1813ff0c2c1e3cf2b6f191e986e3ea49e279f5d70cfc515a23c",
+          "bytes": 870340,
+          "width": 4612,
+          "height": 2041
+        },
+        "workflow.json": {
+          "sha256": "ca626a5425ef40d57f5707c898b7d8cefd6280745f0e99d17959a23a6f32539e",
+          "bytes": 445
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development graph 005",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-graph-005",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20graph%20005",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 765,
+        "noteheads": 156,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 37
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "848f67b03b0f56c874b7d9efffabc7f5bfd55cba6b55aa98910fba0c4b69eb8f",
+          "bytes": 966976
+        },
+        "image.jpg": {
+          "sha256": "f3c3b4f76fcb402a36900a9f8b379450a92604e3f5c3a5f26cfdcbe0b464eaad",
+          "bytes": 1316303,
+          "width": 4912,
+          "height": 2941
+        },
+        "original.jpg": {
+          "sha256": "f3c3b4f76fcb402a36900a9f8b379450a92604e3f5c3a5f26cfdcbe0b464eaad",
+          "bytes": 1316303,
+          "width": 4912,
+          "height": 2941
+        },
+        "workflow.json": {
+          "sha256": "87b2b2265f460734687e10a2c7dd38bafa8e354437ec1c8a72c5059fd0b64cdb",
+          "bytes": 445
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development graph 006",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-graph-006",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20graph%20006",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 861,
+        "noteheads": 193,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 38
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "82310820a16a35271294e61b81e4a9ee905fdf16c2c40ef49e4547c943933757",
+          "bytes": 1089430
+        },
+        "image.jpg": {
+          "sha256": "e56f4ac7200c73527f572468a38138c4190a64dc27624d93cb1701d40c66f792",
+          "bytes": 1501059,
+          "width": 4660,
+          "height": 3424
+        },
+        "original.jpg": {
+          "sha256": "e56f4ac7200c73527f572468a38138c4190a64dc27624d93cb1701d40c66f792",
+          "bytes": 1501059,
+          "width": 4660,
+          "height": 3424
+        },
+        "workflow.json": {
+          "sha256": "4684ee71b406d43c382cc33eb77956b1e84ab11ec617eebf2bf9af1bef94944f",
+          "bytes": 445
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development graph 007",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-graph-007",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20graph%20007",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 616,
+        "noteheads": 137,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 28
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "e7976a86cf7be21f8ab9e7a0103e801d2015f21c6e3ffb026f4a4a2217fc3d37",
+          "bytes": 778933
+        },
+        "image.jpg": {
+          "sha256": "3b7d38c8862416287e705d44190a401970aaa134b48194a8d17da1757bac83fe",
+          "bytes": 1373818,
+          "width": 4660,
+          "height": 3424
+        },
+        "original.jpg": {
+          "sha256": "3b7d38c8862416287e705d44190a401970aaa134b48194a8d17da1757bac83fe",
+          "bytes": 1373818,
+          "width": 4660,
+          "height": 3424
+        },
+        "workflow.json": {
+          "sha256": "b84ad5cc87aaf3702e01ea083971289369200f6258a42e423cfe54d7bd93a898",
+          "bytes": 445
+        }
+      }
+    },
+    {
+      "document": "Chopin Sonata No. 3 I - Development graph 008",
+      "directory": "pages/Chopin-Sonata-No.-3-I---Development-graph-008",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Chopin%20Sonata%20No.%203%20I%20-%20Development%20graph%20008",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 539,
+        "noteheads": 121,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 33
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "d7ffdfa3df420c8a76594836be09fcf90937290144f40f39f96055dc65eef768",
+          "bytes": 682019
+        },
+        "image.jpg": {
+          "sha256": "de2366b6e7c4c13cca1e838aaebb4ed1b037be105eeeef32965462d63fd71e1c",
+          "bytes": 854742,
+          "width": 4660,
+          "height": 2217
+        },
+        "original.jpg": {
+          "sha256": "de2366b6e7c4c13cca1e838aaebb4ed1b037be105eeeef32965462d63fd71e1c",
+          "bytes": 854742,
+          "width": 4660,
+          "height": 2217
+        },
+        "workflow.json": {
+          "sha256": "7a28184214837a20f390112ad17c0ac7ac6a374d96d895f6114db5dfc9f77a08",
+          "bytes": 445
+        }
+      }
+    },
+    {
+      "document": "ContrapunctusVIII Foreground p1",
+      "directory": "pages/ContrapunctusVIII-Foreground-p1",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/ContrapunctusVIII%20Foreground%20p1",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 426,
+        "noteheads": 83,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 15
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "e672877d9f9bee865e6e818a74d09b488b54eb6cd8413d5bdeb5a9b0095eba7a",
+          "bytes": 538963
+        },
+        "image.png": {
+          "sha256": "eaed0a8ced8d83fa0bd6112bd0ac3f34aee20b946677c78b449e325be6cc1ccb",
+          "bytes": 1022468,
+          "width": 1531,
+          "height": 961
+        },
+        "original.png": {
+          "sha256": "eaed0a8ced8d83fa0bd6112bd0ac3f34aee20b946677c78b449e325be6cc1ccb",
+          "bytes": 1022468,
+          "width": 1531,
+          "height": 961
+        },
+        "workflow.json": {
+          "sha256": "ae74efc4ff4e4b24ec9b9ac4444534705d4385713873d51afad9d59d3ad282e4",
+          "bytes": 431
+        }
+      }
+    },
+    {
+      "document": "ContrapunctusVIII Foreground p2",
+      "directory": "pages/ContrapunctusVIII-Foreground-p2",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/ContrapunctusVIII%20Foreground%20p2",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 397,
+        "noteheads": 90,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 19
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "07ed7912d57cdd49ba9bef29d588ff0eadba34458f956db7d2a6ce82f29b23ca",
+          "bytes": 502040
+        },
+        "image.png": {
+          "sha256": "d81af82bb96617d92fe6e466d6f2146cc393bc12fffae9e1529497c3e32d14da",
+          "bytes": 1542629,
+          "width": 1506,
+          "height": 940
+        },
+        "original.png": {
+          "sha256": "d81af82bb96617d92fe6e466d6f2146cc393bc12fffae9e1529497c3e32d14da",
+          "bytes": 1542629,
+          "width": 1506,
+          "height": 940
+        },
+        "workflow.json": {
+          "sha256": "61a69db038e6204d3cec99fcd61d173277cfab3019210ce5dac01d2e14828d48",
+          "bytes": 431
+        }
+      }
+    },
+    {
+      "document": "ContrapunctusVIII Middleground",
+      "directory": "pages/ContrapunctusVIII-Middleground",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/ContrapunctusVIII%20Middleground",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 289,
+        "noteheads": 56,
+        "syntax_edges": 161,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 36
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "be9482fd85c90d8d63e1ee6c8b29075d4ed054ceb03bcc6077ef35bb5dcfa9f8",
+          "bytes": 267934
+        },
+        "image.png": {
+          "sha256": "1f676a61a38369205145f9723f59879ef9fcf983f32a37ce254cc633cf68c494",
+          "bytes": 12110,
+          "width": 1398,
+          "height": 337
+        },
+        "original.png": {
+          "sha256": "cbd0cf045d2f1bcf8bb58a4a05c88ec15ec606e20cd1ffada2a007c18805f343",
+          "bytes": 404971,
+          "width": 1398,
+          "height": 337
+        },
+        "workflow.json": {
+          "sha256": "eda79058c990d6059b999b9a63f5511be6274d43ee25d7dae409154d3736e788",
+          "bytes": 416
+        }
+      }
+    },
+    {
+      "document": "ContrapunctusXI Foreground",
+      "directory": "pages/ContrapunctusXI-Foreground",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/ContrapunctusXI%20Foreground",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 449,
+        "noteheads": 62,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 19
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "83df6e03a829540f9ded8b4126757ad7543b8b2614caeb7c13f3d535d160c2b0",
+          "bytes": 568068
+        },
+        "image.png": {
+          "sha256": "a331a184c51164d0be56b953ba6d51e829328dd3cff594c67800963f86d4e1a6",
+          "bytes": 1302081,
+          "width": 1498,
+          "height": 979
+        },
+        "original.png": {
+          "sha256": "a331a184c51164d0be56b953ba6d51e829328dd3cff594c67800963f86d4e1a6",
+          "bytes": 1302081,
+          "width": 1498,
+          "height": 979
+        },
+        "workflow.json": {
+          "sha256": "dd171b6f445bd35be1d525d36c231050581eba4dd9a24045289557f9994e0a4b",
+          "bytes": 426
+        }
+      }
+    },
+    {
+      "document": "ContrapunctusXI Middleground",
+      "directory": "pages/ContrapunctusXI-Middleground",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/ContrapunctusXI%20Middleground",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 181,
+        "noteheads": 35,
+        "syntax_edges": 108,
+        "precedence_edges": 0,
+        "time_groups": 1,
+        "grouped_noteheads": 2,
+        "time_group_members": 2,
+        "nodes_with_mask": 0,
+        "observed_classes": 37
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "c1d75c1af2a9562105b63980c31a811d988fef70c79ccf96755ec90e3b5af30f",
+          "bytes": 185730
+        },
+        "image.png": {
+          "sha256": "e9b2b32d559da1141faa122c0479a24ea03926d96eef7f7f9dd33725a15d6993",
+          "bytes": 10951,
+          "width": 832,
+          "height": 516
+        },
+        "original.png": {
+          "sha256": "2993c734f1dc599398a86aa24177bf24610b7a4841e2bc1b5dfbc8525daabfed",
+          "bytes": 232138,
+          "width": 832,
+          "height": 516
+        },
+        "workflow.json": {
+          "sha256": "010337f56e4a7a25f9ceaca9c264481111b35006403fbb558d498a2c2eedc225",
+          "bytes": 432
+        }
+      }
+    },
+    {
+      "document": "Monteverdi Lamento della Ninfa - Page 001",
+      "directory": "pages/Monteverdi-Lamento-della-Ninfa---Page-001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Monteverdi%20Lamento%20della%20Ninfa%20-%20Page%20001",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1072,
+        "noteheads": 315,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 34
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "a50f62dd73572122f07a7d4f3353c75d1ef6b636e9fff7163ca5d6d277a0a847",
+          "bytes": 1356611
+        },
+        "image.jpg": {
+          "sha256": "18d37dae1f5370b31d6d948609844bb4d6034ebde79fe7faf8c2a48c7a27faec",
+          "bytes": 785654,
+          "width": 3303,
+          "height": 2335
+        },
+        "original.jpg": {
+          "sha256": "18d37dae1f5370b31d6d948609844bb4d6034ebde79fe7faf8c2a48c7a27faec",
+          "bytes": 785654,
+          "width": 3303,
+          "height": 2335
+        },
+        "workflow.json": {
+          "sha256": "149f3f1d8ddcd893478771fbf7730cf077506d503d3d9b8667194a2647e9bfce",
+          "bytes": 441
+        }
+      }
+    },
+    {
+      "document": "Monteverdi Lamento della Ninfa002",
+      "directory": "pages/Monteverdi-Lamento-della-Ninfa002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Monteverdi%20Lamento%20della%20Ninfa002",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 256,
+        "noteheads": 58,
+        "syntax_edges": 0,
+        "precedence_edges": 78,
+        "time_groups": 28,
+        "grouped_noteheads": 58,
+        "time_group_members": 58,
+        "nodes_with_mask": 0,
+        "observed_classes": 34
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "24542434068b4c892987330c2a75b48c8b32ef28d88b58fdda72da5a20b1bead",
+          "bytes": 181777
+        },
+        "image.png": {
+          "sha256": "95f46202cf714c8584ab016fd3e369274760f1b34ab987b0c36ff03c71aebfd1",
+          "bytes": 23879,
+          "width": 3400,
+          "height": 2339
+        },
+        "original.jpg": {
+          "sha256": "1ba818546c971d357e180ea31ba4c66cd9e00f8a19f984c1d29e0933d1864a55",
+          "bytes": 592863,
+          "width": 3400,
+          "height": 2339
+        },
+        "workflow.json": {
+          "sha256": "99e2f18cbc53eab79df080ca740a72c6a50a1ee829a949bc19307fa9cf24a2e2",
+          "bytes": 440
+        }
+      }
+    },
+    {
+      "document": "Pachelbel F-sharp Minor Ricercar Middleground",
+      "directory": "pages/Pachelbel-F-sharp-Minor-Ricercar-Middleground",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Pachelbel%20F-sharp%20Minor%20Ricercar%20Middleground",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 293,
+        "noteheads": 62,
+        "syntax_edges": 185,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 36
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "0ed98cd98f615a268d2ee4cc01a69acb8ca165556214549b33652d10cfd8ae89",
+          "bytes": 321824
+        },
+        "image.png": {
+          "sha256": "d4f39558d94ce9277e28d96bfa9c7c91a182b71580143ce1fabeb28a54c80dda",
+          "bytes": 17645,
+          "width": 1758,
+          "height": 529
+        },
+        "original.png": {
+          "sha256": "0637b96dcbeb7e6cbe58cc399880e8a7767527d4fb4e7b1cc7dda96998f009b0",
+          "bytes": 747134,
+          "width": 1758,
+          "height": 529
+        },
+        "workflow.json": {
+          "sha256": "6738ed010b8b2bf792a8b5c10ba975395a675d0efdc6ac7551d2d2390def8d86",
+          "bytes": 449
+        }
+      }
+    },
+    {
+      "document": "Rachmaninov The Bells Second Mvmt 001",
+      "directory": "pages/Rachmaninov-The-Bells-Second-Mvmt-001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Rachmaninov%20The%20Bells%20Second%20Mvmt%20001",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 811,
+        "noteheads": 214,
+        "syntax_edges": 733,
+        "precedence_edges": 26,
+        "time_groups": 21,
+        "grouped_noteheads": 70,
+        "time_group_members": 70,
+        "nodes_with_mask": 21,
+        "observed_classes": 37
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "c9e1789e0e53bed816b86669992b15357f607114e2963e01a725ca220406c7d2",
+          "bytes": 818293
+        },
+        "image.png": {
+          "sha256": "c1ae9588b631bc472e6f3731ae42e8585085e942f559b9901ae12fea243918a6",
+          "bytes": 122485,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "b2b98a26a5a524b567aeefeb18863105af87f6018d9f5fe7916c08834605d266",
+          "bytes": 1402015,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "3217cbab543f36c3ec90ae5ea4ed974245e867196c1743bffcaca11685938855",
+          "bytes": 423
+        }
+      }
+    },
+    {
+      "document": "Rachmaninov The Bells Second Mvmt 002",
+      "directory": "pages/Rachmaninov-The-Bells-Second-Mvmt-002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Rachmaninov%20The%20Bells%20Second%20Mvmt%20002",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 527,
+        "noteheads": 169,
+        "syntax_edges": 448,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 527,
+        "observed_classes": 23
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "fd0474052ef700c7192fb2fdc09659fc2a308b23b7a1a77a4a0b8761fd8e74c2",
+          "bytes": 396110
+        },
+        "image.png": {
+          "sha256": "2234d83ddff5da983e67fca939527212383fe86bd51397233e9cc9562ecc1eb5",
+          "bytes": 69413,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "534189b6eedfaabba511f9bb42bee47d776adfe65cc9737a576114d63cd39dc8",
+          "bytes": 1217005,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "287cdd0d218a2d0d05ffef0f28fa39aed9b44b0a7fd6a4ced5725cd472457edc",
+          "bytes": 423
+        }
+      }
+    },
+    {
+      "document": "Rachmaninov The Bells Second Mvmt 003",
+      "directory": "pages/Rachmaninov-The-Bells-Second-Mvmt-003",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Rachmaninov%20The%20Bells%20Second%20Mvmt%20003",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 585,
+        "noteheads": 156,
+        "syntax_edges": 496,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 1,
+        "observed_classes": 28
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "5c0557500abba9c8727df24a474d8693b335fd054efb63672d0a2883330bd8fd",
+          "bytes": 626253
+        },
+        "image.png": {
+          "sha256": "b0f34d8f0ece8c723be1ef4df89d9723cc202af942cdde9c1461ac00402e932d",
+          "bytes": 80400,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "198574e698cb42388a785c5f1356926ff0e4c067bf0508eebf850c0d98453d55",
+          "bytes": 1274300,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "4648f078855c62d8d131b5bf2f241ca5d27da34882a6a72db58ee776fc6085b1",
+          "bytes": 423
+        }
+      }
+    },
+    {
+      "document": "Rachmaninov The Bells Second Mvmt 004",
+      "directory": "pages/Rachmaninov-The-Bells-Second-Mvmt-004",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Rachmaninov%20The%20Bells%20Second%20Mvmt%20004",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 649,
+        "noteheads": 171,
+        "syntax_edges": 567,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 649,
+        "observed_classes": 21
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "5635f027c9345b48a5e63bcda47c5931ded9236a9d52d93b1cc0ff56ab3f19a2",
+          "bytes": 465428
+        },
+        "image.png": {
+          "sha256": "3d054b69e8e00184f8f4c9f0678e91033fa5b7ed16e745980dc5b478a10b9ff5",
+          "bytes": 83103,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "0e49a9305e66f347f741b1dc30f9627fe23c91daa8300116b4272403fa28518c",
+          "bytes": 1316138,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "0a70da41f08926d24221146a846c5a990164242844702cfc37506f28195af3cd",
+          "bytes": 423
+        }
+      }
+    },
+    {
+      "document": "Rachmaninov The Bells Second Mvmt 005",
+      "directory": "pages/Rachmaninov-The-Bells-Second-Mvmt-005",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Rachmaninov%20The%20Bells%20Second%20Mvmt%20005",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 584,
+        "noteheads": 173,
+        "syntax_edges": 534,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 584,
+        "observed_classes": 28
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "02b64261eec2f6a4fb95a0d57804ca7c1893bbb0f57a949aab68285a918a1aab",
+          "bytes": 472029
+        },
+        "image.png": {
+          "sha256": "fc3c66f6fdc3ce1f055095763240117a63cb25fca5637563c74d1f95927c986f",
+          "bytes": 81690,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "6a5039a2f4f22daf1a403a779c1a37566b3f2c71c848efcab7060e0fc2525a54",
+          "bytes": 1269455,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "dda7da5fb4eec9658eebbf80151406f0e89edd90ccb660be7e59918a88b87f27",
+          "bytes": 423
+        }
+      }
+    },
+    {
+      "document": "Rachmaninov The Bells Second Mvmt 006",
+      "directory": "pages/Rachmaninov-The-Bells-Second-Mvmt-006",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Rachmaninov%20The%20Bells%20Second%20Mvmt%20006",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 596,
+        "noteheads": 206,
+        "syntax_edges": 478,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 596,
+        "observed_classes": 33
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "904ed5dd6322f0b010ea9a0e6012bd4ff19be0d1606f85a4057f38e26c753ac5",
+          "bytes": 468656
+        },
+        "image.png": {
+          "sha256": "392d6404d4704446c11009b39decb951c755520f0e092dad8229bc08f5565d1f",
+          "bytes": 85465,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "1989bb75b1bcb793fd44f130b238aaa05e86293f3e2c67a364493bd6de6f1475",
+          "bytes": 1350923,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "931aff01bc755d634c7fecdfed02277a94df7c86d6af055db4e8fe379e7bebe7",
+          "bytes": 423
+        }
+      }
+    },
+    {
+      "document": "Rachmaninov The Bells Second Mvmt 007",
+      "directory": "pages/Rachmaninov-The-Bells-Second-Mvmt-007",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Rachmaninov%20The%20Bells%20Second%20Mvmt%20007",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 221,
+        "noteheads": 64,
+        "syntax_edges": 196,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 221,
+        "observed_classes": 25
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "a4157ffb79fc6c609e7d265102ce7ec19b0aaa2cb7076f040032bbdce45f1c74",
+          "bytes": 224241
+        },
+        "image.png": {
+          "sha256": "07edb48dc312a1ad306e8ee1e9f870c62fc5472f6f8b33e33c0d1da101887cd7",
+          "bytes": 44080,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "e31c107c269250db164af70967b8cc626bd4d56133e2fdc89a7006021d38fb15",
+          "bytes": 1154040,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "d5685b7bc033d1b8ba9dd69aedb32aa27b5f622b28135d598821055205cf4ccd",
+          "bytes": 423
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs001",
+      "directory": "pages/Schubert_Einsamkeit_Graphs001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs001",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1302,
+        "noteheads": 313,
+        "syntax_edges": 1022,
+        "precedence_edges": 235,
+        "time_groups": 108,
+        "grouped_noteheads": 309,
+        "time_group_members": 309,
+        "nodes_with_mask": 1302,
+        "observed_classes": 52
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "9c519e7a8da842587011d1c2a42c62cba359eb66945c66572c73145918f326b2",
+          "bytes": 1285457
+        },
+        "image.png": {
+          "sha256": "5ce6cb512093dd54932ce0a76c607350cfa1f05fc8df08a424e5ec0d55641638",
+          "bytes": 176803,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "28d6dc97f999b0f2ff2fbac8c843cecdcd0d18bcf0619f021774b622d6d1dfe7",
+          "bytes": 1789458,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "f2e7882ec649edbd96effef87e6b773159e6926629b694acc6e91542f5ac7ca4",
+          "bytes": 439
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs002",
+      "directory": "pages/Schubert_Einsamkeit_Graphs002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs002",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 983,
+        "noteheads": 249,
+        "syntax_edges": 856,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 983,
+        "observed_classes": 48
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "e552a984df93b8009304d33de238a422e4441f5c5e2ff3425f6e4a1df1c7356c",
+          "bytes": 930811
+        },
+        "image.png": {
+          "sha256": "eb400a509d67601f3bb1a360e73b60a0717e4c17aa4ceeedb6b3c6babc4eeddb",
+          "bytes": 139255,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "c064cf64522c0be1c65c454c36c52a7eed3103df9d82e5dbf880a9a5695b857d",
+          "bytes": 1692975,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "f59e5ea1323ad95b3105a6509169130e9fdd96c25e4f3bbf59dadb2ca07835d8",
+          "bytes": 415
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs003",
+      "directory": "pages/Schubert_Einsamkeit_Graphs003",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs003",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1062,
+        "noteheads": 259,
+        "syntax_edges": 981,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 1062,
+        "observed_classes": 53
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "91be8c679faa6fddcc4b6eadfd0699e382d7f6c125cffbc2b2547a4ba3019a74",
+          "bytes": 1020577
+        },
+        "image.png": {
+          "sha256": "a24b605f788735a0a6143013c4b707b45e171c15a899176b3d66c193e1f8356c",
+          "bytes": 155358,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "0a379cb16f9a923f639f83da0709620a255e9c8d48d8703189d9872b8c4b894c",
+          "bytes": 1743288,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "318e034bd12ebeed02a3809e0768f290469e00fc5e189eae611cfd0259e1c35d",
+          "bytes": 415
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs004",
+      "directory": "pages/Schubert_Einsamkeit_Graphs004",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs004",
+      "stages": {
+        "recognition": "pending-review",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 946,
+        "noteheads": 184,
+        "syntax_edges": 0,
+        "precedence_edges": 237,
+        "time_groups": 85,
+        "grouped_noteheads": 178,
+        "time_group_members": 178,
+        "nodes_with_mask": 0,
+        "observed_classes": 61
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "467eb657ef1fc2ca04cb9d096283769ca91f6dc4f368316aa5f9b160dcbac5e1",
+          "bytes": 1048442
+        },
+        "image.png": {
+          "sha256": "05d42f0445ff5d78935bf94f9b9d495a635448e81523586dd283374f1d6b2271",
+          "bytes": 167986,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "d94b07243e898d78e60065393d2cbb715a29eec865c00435302114f666f7858b",
+          "bytes": 1741821,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "a74f9d0ad4d822fc2246fb067832aebe2557f9f61218c447019b59313a4d64ae",
+          "bytes": 459
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs005",
+      "directory": "pages/Schubert_Einsamkeit_Graphs005",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs005",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1027,
+        "noteheads": 254,
+        "syntax_edges": 947,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 1027,
+        "observed_classes": 43
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "d0ee425e5f216e3202738e146d129bdd9d8e289fe63d22e4d12e338f385eafe6",
+          "bytes": 839801
+        },
+        "image.png": {
+          "sha256": "d176458294b8f07039a0e090a89347be6c8f7800c57db69ddfef9a6c677d8751",
+          "bytes": 134927,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "a88bda188c1dd32340214d2346dc56686129e6cb23685670982ed2619ea70678",
+          "bytes": 1665582,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "d39bc40c5bf85b40e7cf6e31ba3aa60bd66bee14c2b38c7299c8b7d79b83923c",
+          "bytes": 415
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs006",
+      "directory": "pages/Schubert_Einsamkeit_Graphs006",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs006",
+      "stages": {
+        "recognition": "in-progress",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 763,
+        "noteheads": 171,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 22,
+        "observed_classes": 43
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "22a6de594bcdd54f83a2dd771ea4f062eb34fbf9aa15a63ecf36f614d8e078e5",
+          "bytes": 727222
+        },
+        "image.png": {
+          "sha256": "e9ef84d38e08f03c22760e8845cdcbbd71e7d93fa0bfa74b4d14c543d92bce82",
+          "bytes": 133265,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "769b650d5b56439035f8437c4e3c5fb205fd403259b72105d8e1ce698056c573",
+          "bytes": 1659035,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "1988f4544ee515f15e695d31acf1ae1c6803d4e28bd751414b8f18b3137446a6",
+          "bytes": 429
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs007",
+      "directory": "pages/Schubert_Einsamkeit_Graphs007",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs007",
+      "stages": {
+        "recognition": "in-progress",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 542,
+        "noteheads": 119,
+        "syntax_edges": 451,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 34
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "13d115a38e3627126b4a583115406124b25818f1ba11feaa18661a1b40ed3ce3",
+          "bytes": 505216
+        },
+        "image.png": {
+          "sha256": "426423da82a121692e9a85fb6630d62fc812b67f9e35716d7a7395f33f78df46",
+          "bytes": 108145,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "c278bc1da96d441bce309d63b0da79c8599eb143b2008f7071f0a7b25d3507ba",
+          "bytes": 1555162,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "7e356c8c89f5b6cb97020d7d43ab391bf8ab2a16689edd312fb42fbefe7e693c",
+          "bytes": 429
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs009",
+      "directory": "pages/Schubert_Einsamkeit_Graphs009",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs009",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1300,
+        "noteheads": 294,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 59
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "383eb7a903ae7ed4c3ff750ca7f71d82cf2bc53304750e4aad38b498af93537f",
+          "bytes": 1376640
+        },
+        "image.png": {
+          "sha256": "fbeae83bd91a0fca92afecf63f4f2ca05ee9ef1860a7941096a82e85fc136236",
+          "bytes": 202464,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "e5cf7011608bb38c46ffe35fac3dc8d392e462eee16abb494e8a0493a6054dd9",
+          "bytes": 1875612,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "9e7faba0d6c9465cb8b905ea905e26533bb80d6e82f62c5020acf6a7e75f47b9",
+          "bytes": 415
+        }
+      }
+    },
+    {
+      "document": "Schubert_Einsamkeit_Graphs011",
+      "directory": "pages/Schubert_Einsamkeit_Graphs011",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Schubert_Einsamkeit_Graphs011",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 918,
+        "noteheads": 194,
+        "syntax_edges": 17,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 34,
+        "observed_classes": 52
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "2ccac0d0f7337cfd45458391f39fb70767d7c851c4aadcf6344493525b80879f",
+          "bytes": 975774
+        },
+        "image.png": {
+          "sha256": "8b998e5ff0a45bb5606b188f5d09d3dce1895d81440c5f0ce68729f4a643cc8d",
+          "bytes": 129321,
+          "width": 5100,
+          "height": 3509
+        },
+        "original.jpg": {
+          "sha256": "9a53841e2e8203d7c1d7d8349f9111f0a22e78a0735d064e54cb24a0b845dc95",
+          "bytes": 1629759,
+          "width": 5100,
+          "height": 3509
+        },
+        "workflow.json": {
+          "sha256": "a34477bce32eab532a69227a6ee27043ab7b7d4c3d091c8a208111ce3fb3f857",
+          "bytes": 447
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.11",
+      "directory": "pages/Sean-CmajFantasy-3.11",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.11",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 228,
+        "noteheads": 61,
+        "syntax_edges": 142,
+        "precedence_edges": 74,
+        "time_groups": 32,
+        "grouped_noteheads": 61,
+        "time_group_members": 61,
+        "nodes_with_mask": 0,
+        "observed_classes": 25
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "b8c2aa77e419545378f5592207c31ea256e9cd2367dda83a85e049dedd4ab1a6",
+          "bytes": 245565
+        },
+        "image.png": {
+          "sha256": "cc1608651134dac8204f2d605c641dae095994ea411cc452ea2fa81e9dd74d54",
+          "bytes": 19409,
+          "width": 2100,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "6e4b7389ce5de138aed16b168084f76f9b45f0de28a281b519bea083f54349fe",
+          "bytes": 672103,
+          "width": 2100,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "cba5e90491d7cf12a655b05ad523ae62c2e3508a7585b7cf5bff0e80dc9255fe",
+          "bytes": 431
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.12",
+      "directory": "pages/Sean-CmajFantasy-3.12",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.12",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 371,
+        "noteheads": 88,
+        "syntax_edges": 0,
+        "precedence_edges": 101,
+        "time_groups": 36,
+        "grouped_noteheads": 88,
+        "time_group_members": 88,
+        "nodes_with_mask": 0,
+        "observed_classes": 29
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "7c0f837056b7a3c0035d51f58c8f434092b77710e27eb86176f6756e3cb38481",
+          "bytes": 114988
+        },
+        "image.png": {
+          "sha256": "f0814d7049879c92dee559f669d6736f956e4a533377aabfd6f54770746debde",
+          "bytes": 21602,
+          "width": 1922,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "85dd802312689c2d15903070277c5fdd85c7ae265d3103e92427840c7272d755",
+          "bytes": 734381,
+          "width": 1922,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "786acae90beba8487d5358ae7d63e189b3634eff2c6486b4088f691e6c137fac",
+          "bytes": 431
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.13a",
+      "directory": "pages/Sean-CmajFantasy-3.13a",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.13a",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 375,
+        "noteheads": 94,
+        "syntax_edges": 0,
+        "precedence_edges": 105,
+        "time_groups": 38,
+        "grouped_noteheads": 94,
+        "time_group_members": 94,
+        "nodes_with_mask": 0,
+        "observed_classes": 26
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "b5bf58a11669490cc36163b75790c818c5632adc201721eb1c95a0c1947d2964",
+          "bytes": 119275
+        },
+        "image.png": {
+          "sha256": "28b9113371a063d0eeb868841cb9b8f2c3a9e01a872460e669b1f2affe3ee5ea",
+          "bytes": 30814,
+          "width": 2453,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "f2a3ef654b1919ceec1c0540fbf96c3a00c156d4f033068375f2abbd31de988e",
+          "bytes": 1057282,
+          "width": 2453,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "e6a40d254445031edb8b2287f0974989927277878c993cd7aeb38e22bf75593e",
+          "bytes": 432
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.13b",
+      "directory": "pages/Sean-CmajFantasy-3.13b",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.13b",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 84,
+        "noteheads": 21,
+        "syntax_edges": 0,
+        "precedence_edges": 30,
+        "time_groups": 15,
+        "grouped_noteheads": 21,
+        "time_group_members": 21,
+        "nodes_with_mask": 0,
+        "observed_classes": 23
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "4c627078702d3b9975e09b7287d7e99210d6d212f791820be184601fe6d91b49",
+          "bytes": 27573
+        },
+        "image.png": {
+          "sha256": "15bc1ed13942c027bbcd55993891ea7dd93f2d44eb7ebac409bee07babb7003e",
+          "bytes": 10320,
+          "width": 1021,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "f445552d6be0a2faf89e3acaa0abdc677d2b152e83f9fad2ede55366d3032808",
+          "bytes": 336872,
+          "width": 1021,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "3b0c1034d085f1b7df8804e2015185c41fecf041d42d6de643c8a3bd9f38d528",
+          "bytes": 432
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.14b",
+      "directory": "pages/Sean-CmajFantasy-3.14b",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.14b",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 406,
+        "noteheads": 91,
+        "syntax_edges": 0,
+        "precedence_edges": 194,
+        "time_groups": 65,
+        "grouped_noteheads": 91,
+        "time_group_members": 91,
+        "nodes_with_mask": 0,
+        "observed_classes": 31
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "deddc9f6990b704d6cd72b58c051cc5d7b4ac98c8d904794d88c6be88f876524",
+          "bytes": 478336
+        },
+        "image.png": {
+          "sha256": "eb0c28507758d1ffc073ad774944db2dfd5cb61ab99c0adcd0d4b42dc3b6f356",
+          "bytes": 32195,
+          "width": 2565,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "30c4b4591689f9b77f6d5974f38031eb374ef145baf3658ca6934a3895be9866",
+          "bytes": 1151385,
+          "width": 2565,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "8b5e3f18f362191e9ecfd11090d8e2dcbba5556f8ce740261ea49469dc5bff9b",
+          "bytes": 432
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.15",
+      "directory": "pages/Sean-CmajFantasy-3.15",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.15",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 498,
+        "noteheads": 108,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 42
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "3da17fd06eb6ee7c08f2aeee6bf7114cd15abfc5f3fd6b744a80e5a8d9a68b06",
+          "bytes": 540097
+        },
+        "image.png": {
+          "sha256": "a7bbe88e28775763d0ca2805cfe105c44d1889020407a18ad13174051de2a2af",
+          "bytes": 33083,
+          "width": 2552,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "95b8b9882cb39241d48e80b4862940a0d669dddba8dab0b53a4cda59447e7e6d",
+          "bytes": 1194280,
+          "width": 2552,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "527799a7f53d74f6d684bc47a7ca60d1211b0e9cb311df7325ed70306470f52b",
+          "bytes": 425
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.16b",
+      "directory": "pages/Sean-CmajFantasy-3.16b",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.16b",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 363,
+        "noteheads": 83,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 28
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "5e8aec35a86b44c020b0fdaf1bc2df009de6ee182fcc5139a436af789d427b93",
+          "bytes": 80563
+        },
+        "image.png": {
+          "sha256": "308b563863bc3dd9fe25b9edcdbad0105cc32639da77bac8d8bafd8e9b316532",
+          "bytes": 25883,
+          "width": 2084,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "5db8cb19eefa74974d7ceb14bb99c1584e399f0e3944f3e756bb5c0289bbbd9a",
+          "bytes": 905206,
+          "width": 2084,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "38d91ac52dc3308b9f839db4d8abf707efc36f834d6ccc665238823650d03c69",
+          "bytes": 426
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.17",
+      "directory": "pages/Sean-CmajFantasy-3.17",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.17",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 338,
+        "noteheads": 90,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 32
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "2ff253c86aba05499f8deec8b826b9dc73e6e303e931ee2145efca2d62269e42",
+          "bytes": 74967
+        },
+        "image.png": {
+          "sha256": "175a947e0c2990b6b08f09041cee942aca215dc08d2d9bf8789fd49b21b76c29",
+          "bytes": 29615,
+          "width": 2568,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "dc04dfd960f7429cad74cb6c34e766dda5f2e1299e6261b8aac8a9a340dc4266",
+          "bytes": 1088386,
+          "width": 2568,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "292c99f2490e7a4704a7f658dd7cbefcf2e307852dddb1c553c562f876173957",
+          "bytes": 425
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.18b",
+      "directory": "pages/Sean-CmajFantasy-3.18b",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.18b",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 277,
+        "noteheads": 65,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 28
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "677b8ad75e4098ae388083ec5497df3df1fa7c9ae3bcf912a493a668e0b2a68a",
+          "bytes": 61182
+        },
+        "image.png": {
+          "sha256": "8277c217aa86df4be98f5d46332dfb284d190a2874294b2ec2d7861dcfba4d9b",
+          "bytes": 27088,
+          "width": 2664,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "3edb1533daa16493b68aedc70fae56cbafdbb6688ada9aba17eada9d368563a9",
+          "bytes": 959536,
+          "width": 2664,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "1ba577584ff4f8f3456e7cacbd0b5555c99cfa4669c42c4764326887cdb684ed",
+          "bytes": 426
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.18c",
+      "directory": "pages/Sean-CmajFantasy-3.18c",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.18c",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 203,
+        "noteheads": 47,
+        "syntax_edges": 0,
+        "precedence_edges": 67,
+        "time_groups": 34,
+        "grouped_noteheads": 47,
+        "time_group_members": 47,
+        "nodes_with_mask": 0,
+        "observed_classes": 22
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "9059fe47836aa5445da088f974904491744641ff73960d5b93cbc150fd3af2d0",
+          "bytes": 243698
+        },
+        "image.png": {
+          "sha256": "c865f245d5a3ca9e8d9ca1d3b115f3a83999bb5b4ffed65f6b73af3375ac89dc",
+          "bytes": 21479,
+          "width": 2410,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "9afc3c0f86306f951e0093c5e8a61e2f2cf695b2b4e80c4f8e909fcd7f7efb44",
+          "bytes": 777222,
+          "width": 2410,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "9a81ad7eea900a9ccc64d880fa104f75f8ff38b9f07c171b77699b5d69280d0e",
+          "bytes": 432
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.19b",
+      "directory": "pages/Sean-CmajFantasy-3.19b",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.19b",
+      "stages": {
+        "recognition": "done",
+        "assembly": "pending-review",
+        "temporal": "pending-review"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 408,
+        "noteheads": 103,
+        "syntax_edges": 0,
+        "precedence_edges": 120,
+        "time_groups": 36,
+        "grouped_noteheads": 103,
+        "time_group_members": 103,
+        "nodes_with_mask": 0,
+        "observed_classes": 28
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "048b20e25b948d26ee0d3a80b35193a185b3cb090db72c83f76df0bea9715e09",
+          "bytes": 129992
+        },
+        "image.png": {
+          "sha256": "38ae0e56ffa0b9cbcc61a786142b407b52b3eb87d26baed938912ee221385097",
+          "bytes": 33010,
+          "width": 3015,
+          "height": 999
+        },
+        "original.jpeg": {
+          "sha256": "c08dee37671bdb4a6a87919b98fb3c711df8775fcd7d5ec684f006acc109e3f1",
+          "bytes": 547196,
+          "width": 3015,
+          "height": 999
+        },
+        "workflow.json": {
+          "sha256": "7812a194e1da88fc057fa72998e9778ef11901e6af9b0470d0741bb5fddbdcc4",
+          "bytes": 432
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.20",
+      "directory": "pages/Sean-CmajFantasy-3.20",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.20",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 420,
+        "noteheads": 89,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 36
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "8cb7c4def7761ada6388404614765f84c3411b143d32c36e84c827dc7b1ee0de",
+          "bytes": 452928
+        },
+        "image.png": {
+          "sha256": "136c4fec1d9464f3f7b819be4193909b859c877ddf85baacb859eaf62abc224a",
+          "bytes": 24806,
+          "width": 1786,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "28353151861460046f69c561d6faadd852751446ec27a435627807382a59deec",
+          "bytes": 373816,
+          "width": 1786,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "1f62e905010a2f64d0ccc2cd08e6f943a594d27e56ae3c4595b274afc800d61f",
+          "bytes": 425
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.20a",
+      "directory": "pages/Sean-CmajFantasy-3.20a",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.20a",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 609,
+        "noteheads": 127,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 53
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "022c87f97c0b9f7965a1b5fc1f205b8250ec2d02ef3c618e87cc827cecbe5a27",
+          "bytes": 132359
+        },
+        "image.png": {
+          "sha256": "6f96ae1d4a514fbf0c78789f974ca26307f88e89652bb76f1b03646fdfcbbe6a",
+          "bytes": 28496,
+          "width": 2159,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "65c7f26f74fb44b526a3e11430a0faa2e4b78d31e3236c9b4639d771db3915a5",
+          "bytes": 1027771,
+          "width": 2159,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "124bbc15629a87482c6c8abb6b0caf81c15fcf1f229497f9f9a213946e78ed66",
+          "bytes": 426
+        }
+      }
+    },
+    {
+      "document": "Sean CmajFantasy 3.20b",
+      "directory": "pages/Sean-CmajFantasy-3.20b",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20CmajFantasy%203.20b",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 484,
+        "noteheads": 101,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 51
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.jpeg",
+      "files": {
+        "mung.xml": {
+          "sha256": "4c231ce6839a788b055486db6d08c2a99b2df6a3307761e35a7ea079de5f9b90",
+          "bytes": 525695
+        },
+        "image.png": {
+          "sha256": "61516258e51f74ac16bde1e75522e36799fbcecef13a49a4ea915d831422e60b",
+          "bytes": 22511,
+          "width": 1733,
+          "height": 1000
+        },
+        "original.jpeg": {
+          "sha256": "1ff12bbd930e1013ed48dab9bfb04203f51edc0a0053ba00114d5a7e9b9967e4",
+          "bytes": 791918,
+          "width": 1733,
+          "height": 1000
+        },
+        "workflow.json": {
+          "sha256": "54c0cd3b872acd9df24cba4b770215f96ce385b3558804827cf84fe11a5f78b2",
+          "bytes": 426
+        }
+      }
+    },
+    {
+      "document": "Sean Der Wanderer 001",
+      "directory": "pages/Sean-Der-Wanderer-001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20Der%20Wanderer%20001",
+      "stages": {
+        "recognition": "pending-review",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 930,
+        "noteheads": 215,
+        "syntax_edges": 808,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 51
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "221964f2c1e1148fe2ddbe1842c7e28d8c68c17fb9f4c7fa6c332bdb10e269ae",
+          "bytes": 226397
+        },
+        "image.png": {
+          "sha256": "3b4ebb653b34610516399643882f7aa715c9372832d0b42d291910b9147b1686",
+          "bytes": 64354,
+          "width": 3301,
+          "height": 2550
+        },
+        "original.png": {
+          "sha256": "3f1334b030559f92777539a6585a703afbe16cf2ad527a812d59ebbd174b2327",
+          "bytes": 978574,
+          "width": 3301,
+          "height": 2550
+        },
+        "workflow.json": {
+          "sha256": "fd51a6131bda9f475122cfa36eaccc3a8e4c733006bea43aa1883ff38c35ebdf",
+          "bytes": 427
+        }
+      }
+    },
+    {
+      "document": "Sean Der Wanderer 002",
+      "directory": "pages/Sean-Der-Wanderer-002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20Der%20Wanderer%20002",
+      "stages": {
+        "recognition": "done",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 686,
+        "noteheads": 159,
+        "syntax_edges": 522,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 48
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "81fe38fc2006a231cb7b850fe055ea4aac3589db3fba788e7959aea3ee92956c",
+          "bytes": 163626
+        },
+        "image.png": {
+          "sha256": "412b48ed7d4a82fb806b666631895658396a3505313de89a3fc35d72dff399ad",
+          "bytes": 50905,
+          "width": 3301,
+          "height": 2550
+        },
+        "original.png": {
+          "sha256": "c48274cffb6cbb65e049a9ccdf6ab13891e15e215c61fc89e0f58ee92a2a6539",
+          "bytes": 792403,
+          "width": 3301,
+          "height": 2550
+        },
+        "workflow.json": {
+          "sha256": "7edb1c4237cb797e0a11a54b4bbb65913c86366595fdafcfb05456475b26fb58",
+          "bytes": 407
+        }
+      }
+    },
+    {
+      "document": "Sean Der Wanderer 003",
+      "directory": "pages/Sean-Der-Wanderer-003",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20Der%20Wanderer%20003",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 787,
+        "noteheads": 186,
+        "syntax_edges": 641,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 45
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "083c7d7af409727dba49fe02a261a500a4561976bd568e6b3e6b03ed8c97e7f4",
+          "bytes": 715779
+        },
+        "image.png": {
+          "sha256": "eef36773e5b53cb15e4dee7d7b2d4e335ce5a22540f752cd056b6946245c3f39",
+          "bytes": 37671,
+          "width": 3301,
+          "height": 2550
+        },
+        "original.png": {
+          "sha256": "8d01532da78176bbd2ee348bca26d8b5397de2c312e0151feb1b5123001bb0be",
+          "bytes": 797267,
+          "width": 3301,
+          "height": 2550
+        },
+        "workflow.json": {
+          "sha256": "cfd88ae0e79771bb80977b158f039c2b90eb856f78739d565a1a4c8682e95760",
+          "bytes": 425
+        }
+      }
+    },
+    {
+      "document": "Sean Wanderer Fantasy 2nd Mvt 001",
+      "directory": "pages/Sean-Wanderer-Fantasy-2nd-Mvt-001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20Wanderer%20Fantasy%202nd%20Mvt%20001",
+      "stages": {
+        "recognition": "pending-review",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1393,
+        "noteheads": 339,
+        "syntax_edges": 1146,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 54
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "61183ba67d617301b1451f33f162aadc628df8aa7517cd6414380a488251d512",
+          "bytes": 341769
+        },
+        "image.png": {
+          "sha256": "7b5e0260e491ae03038686b595469e4205d9808e4f6924539bdc89957a6b5cd2",
+          "bytes": 81996,
+          "width": 3301,
+          "height": 2550
+        },
+        "original.png": {
+          "sha256": "30ba6afcfadb2b67065565134b9acc7359b1c7b2c97155b09b70920a5704c44b",
+          "bytes": 515114,
+          "width": 3301,
+          "height": 2550
+        },
+        "workflow.json": {
+          "sha256": "dfb4dfe23ef12598bce4e149c425877239017c08f1a8cee406de302773bc85d1",
+          "bytes": 439
+        }
+      }
+    },
+    {
+      "document": "Sean Wanderer Fantasy 2nd Mvt 002",
+      "directory": "pages/Sean-Wanderer-Fantasy-2nd-Mvt-002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Sean%20Wanderer%20Fantasy%202nd%20Mvt%20002",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 357,
+        "noteheads": 112,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 23
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "fc261e398f5e25c50278be7c87606ead123b34b6730931ee0ef52bf25f6d0c4a",
+          "bytes": 78024
+        },
+        "image.png": {
+          "sha256": "f90146f66187c1068dfe5a9b920a3e5563f21fded44aee43db00a38620187ef7",
+          "bytes": 32474,
+          "width": 3301,
+          "height": 2550
+        },
+        "original.png": {
+          "sha256": "f8e5032c61a66f75210f491ba949399db776b1a6032fd02a5bc658764bc5b833",
+          "bytes": 199332,
+          "width": 3301,
+          "height": 2550
+        },
+        "workflow.json": {
+          "sha256": "8d5a5c3a748d8aab36df7c9452543bd671ba423e2840066d5faa6f0401f0bbb3",
+          "bytes": 437
+        }
+      }
+    },
+    {
+      "document": "WTCI C-sharp Fugue",
+      "directory": "pages/WTCI-C-sharp-Fugue",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/WTCI%20C-sharp%20Fugue",
+      "stages": {
+        "recognition": "in-progress",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 551,
+        "noteheads": 142,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 25
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "15e9c0c9bb4b32e948deae6926cdd7423be0359ed23c4156f50f255e16136dbb",
+          "bytes": 456715
+        },
+        "image.png": {
+          "sha256": "8b76c1d6f50e1a7f082efcdd2afcef4634f2f07b154f05a03b3da127855231f2",
+          "bytes": 1254383,
+          "width": 1399,
+          "height": 898
+        },
+        "original.png": {
+          "sha256": "8b76c1d6f50e1a7f082efcdd2afcef4634f2f07b154f05a03b3da127855231f2",
+          "bytes": 1254383,
+          "width": 1399,
+          "height": 898
+        },
+        "workflow.json": {
+          "sha256": "605c6e698378854944689221bd9c76238866eb31446b4ef9da8b1e2a7dcc3acf",
+          "bytes": 436
+        }
+      }
+    },
+    {
+      "document": "WTCII F-sharp Fugue Middleground",
+      "directory": "pages/WTCII-F-sharp-Fugue-Middleground",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/WTCII%20F-sharp%20Fugue%20Middleground",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 233,
+        "noteheads": 50,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 31
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "b2c315a98f079876f78591484384ed3cf01ef740e565aa8a5b8f7526b01e320b",
+          "bytes": 294895
+        },
+        "image.png": {
+          "sha256": "ee4dae4b8150317db64518715059b1a6bb0a476df3ae36b06b6686e956f640b8",
+          "bytes": 1056732,
+          "width": 1300,
+          "height": 708
+        },
+        "original.png": {
+          "sha256": "ee4dae4b8150317db64518715059b1a6bb0a476df3ae36b06b6686e956f640b8",
+          "bytes": 1056732,
+          "width": 1300,
+          "height": 708
+        },
+        "workflow.json": {
+          "sha256": "5ff892a64e8e7eb3cf63eb742e5cec85bd79733c01d9795edbdd2bbb2a3db630",
+          "bytes": 432
+        }
+      }
+    },
+    {
+      "document": "WTCII F-sharp Fugue Subjects",
+      "directory": "pages/WTCII-F-sharp-Fugue-Subjects",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/WTCII%20F-sharp%20Fugue%20Subjects",
+      "stages": {
+        "recognition": "done",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 193,
+        "noteheads": 43,
+        "syntax_edges": 124,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 25
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "8c9d895b18314c692407a18a320e4add6ab5625c4bb056239c69ce11e38bc85a",
+          "bytes": 206618
+        },
+        "image.png": {
+          "sha256": "efd64e6470c95db84f6795e47824822d221b268fe3c70525c34a30e971e0319d",
+          "bytes": 12478,
+          "width": 1078,
+          "height": 865
+        },
+        "original.png": {
+          "sha256": "69e4c53d92b56291654b6990f519183d2f004771af5b7ad2163da124bd94974f",
+          "bytes": 568655,
+          "width": 1078,
+          "height": 865
+        },
+        "workflow.json": {
+          "sha256": "f770cb0dd0972142405ca324bd8f4035a0b0298e64bc6962cdaf652c765f55fc",
+          "bytes": 432
+        }
+      }
+    },
+    {
+      "document": "WTCII F-sharp Fugue p1",
+      "directory": "pages/WTCII-F-sharp-Fugue-p1",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/WTCII%20F-sharp%20Fugue%20p1",
+      "stages": {
+        "recognition": "pending-review",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1083,
+        "noteheads": 277,
+        "syntax_edges": 705,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 43
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "1c5ed27d4626d1638a2c3d1f8df2ad656e144df3fbc0863a3b20a85fe74b0ab9",
+          "bytes": 1108824
+        },
+        "image.png": {
+          "sha256": "bd5808498b07aa877da3f8075bf478d595891e275a1f99920f740f40c09f44ac",
+          "bytes": 62610,
+          "width": 2698,
+          "height": 1857
+        },
+        "original.png": {
+          "sha256": "49bdf3e93851b033f26b7a1d2d21b1e19eebb5ad6a66b2cf62fe9cf27b4fab77",
+          "bytes": 2411757,
+          "width": 2698,
+          "height": 1857
+        },
+        "workflow.json": {
+          "sha256": "d8c6a9d3def9f95cac5fd897fd91d3c4745e0c1076d9aab8d352b9d0e892dc4a",
+          "bytes": 428
+        }
+      }
+    },
+    {
+      "document": "WTCII F-sharp Fugue p2",
+      "directory": "pages/WTCII-F-sharp-Fugue-p2",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/WTCII%20F-sharp%20Fugue%20p2",
+      "stages": {
+        "recognition": "pending-review",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1358,
+        "noteheads": 364,
+        "syntax_edges": 849,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 38
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "0acaf3dc9cd879d1b5ffb5279c2524814a77629e35dba59f8a7cad1e584c66dd",
+          "bytes": 1325156
+        },
+        "image.png": {
+          "sha256": "56366dc2f9808b5482dc97c729fc59f6df6ba57e14fd1f3e20277a044ac8bb32",
+          "bytes": 69970,
+          "width": 2700,
+          "height": 1837
+        },
+        "original.png": {
+          "sha256": "a11a0fe60aa3fcdc4bcf55785147e3acccf7d0fadece5501481bed859c98832b",
+          "bytes": 2656542,
+          "width": 2700,
+          "height": 1837
+        },
+        "workflow.json": {
+          "sha256": "dbf4b80a01107fa2f29183f34f49c7d3ec67e07fd2a19e42a42ee19374fd1a51",
+          "bytes": 446
+        }
+      }
+    },
+    {
+      "document": "WTCII F-sharp Fugue p3",
+      "directory": "pages/WTCII-F-sharp-Fugue-p3",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/WTCII%20F-sharp%20Fugue%20p3",
+      "stages": {
+        "recognition": "pending-review",
+        "assembly": "not-started",
+        "temporal": "not-started"
+      },
+      "status_origin": {
+        "recognition": "explicit_stage",
+        "assembly": "explicit_stage",
+        "temporal": "explicit_stage"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1502,
+        "noteheads": 404,
+        "syntax_edges": 733,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 45
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "03d77ac0b41c2c735361c4369460219163e1431d646a5867ca8bc23da849cfd2",
+          "bytes": 1283553
+        },
+        "image.png": {
+          "sha256": "036c97c62afac3b2edc74993b5faf439fc1905522e9c39043272e9a83bfc4a0e",
+          "bytes": 68429,
+          "width": 2698,
+          "height": 1730
+        },
+        "original.png": {
+          "sha256": "7c6bbfa1adff8ea0e95b376f169e148e4786811f00375ce736215bb6b6462033",
+          "bytes": 2466358,
+          "width": 2698,
+          "height": 1730
+        },
+        "workflow.json": {
+          "sha256": "122fe83de67286569a03f9eb362b691ef42b0b3beca8dc8dfab32beacd5f2bc1",
+          "bytes": 446
+        }
+      }
+    },
+    {
+      "document": "WTCII F-sharp Fugue p4",
+      "directory": "pages/WTCII-F-sharp-Fugue-p4",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/WTCII%20F-sharp%20Fugue%20p4",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 1019,
+        "noteheads": 293,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 40
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "96a51bae29931fe3ea5b2ed253f24ea746bea58192a8102c1f764fd3eb028686",
+          "bytes": 1207774
+        },
+        "image.png": {
+          "sha256": "990d5b4f2b9d1b68926878af56e73eac2d012b39ee296c082896caa2e293119e",
+          "bytes": 67607,
+          "width": 2698,
+          "height": 1801
+        },
+        "original.png": {
+          "sha256": "318b9c11a088c94cacac95c5dec18ce36b26eb59c54c88486d0f514785ed7afa",
+          "bytes": 2533546,
+          "width": 2698,
+          "height": 1801
+        },
+        "workflow.json": {
+          "sha256": "83741f3669baaa41e1202ca4002a0ad1eb2e8838c803b9c4fd63c460d7e78697",
+          "bytes": 422
+        }
+      }
+    },
+    {
+      "document": "Webern Wie bin ich froh - Revised sketch 001",
+      "directory": "pages/Webern-Wie-bin-ich-froh---Revised-sketch-001",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Webern%20Wie%20bin%20ich%20froh%20-%20Revised%20sketch%20001",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 846,
+        "noteheads": 162,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 42
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "c55bd9a832cba2a8b5b8ecd2da259f5e2c304b1818f13c66ebc3faec9c8bcdec",
+          "bytes": 1070767
+        },
+        "image.png": {
+          "sha256": "46b719c29b3dd61cfc5302ee9eafec65dcd3e82184f7461c83792f25e00ea6d8",
+          "bytes": 26395833,
+          "width": 6800,
+          "height": 4679
+        },
+        "original.png": {
+          "sha256": "46b719c29b3dd61cfc5302ee9eafec65dcd3e82184f7461c83792f25e00ea6d8",
+          "bytes": 26395833,
+          "width": 6800,
+          "height": 4679
+        },
+        "workflow.json": {
+          "sha256": "b8d909d23266b3c306c7a5fcb0f02c20d7c04993d5d2122017892897076088ff",
+          "bytes": 444
+        }
+      }
+    },
+    {
+      "document": "Webern Wie bin ich froh - Revised sketch 002",
+      "directory": "pages/Webern-Wie-bin-ich-froh---Revised-sketch-002",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Webern%20Wie%20bin%20ich%20froh%20-%20Revised%20sketch%20002",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 886,
+        "noteheads": 181,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 37
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "38a6546d8cc81664a91a9e08a6c79ecc477c725e4858676d683f0add605c4e6f",
+          "bytes": 1121504
+        },
+        "image.jpg": {
+          "sha256": "600b3022b879ff0b7cd6c3012d5a41d3a1a36325e036d5d4b4d66fc93ce71705",
+          "bytes": 2642250,
+          "width": 6800,
+          "height": 4679
+        },
+        "original.jpg": {
+          "sha256": "600b3022b879ff0b7cd6c3012d5a41d3a1a36325e036d5d4b4d66fc93ce71705",
+          "bytes": 2642250,
+          "width": 6800,
+          "height": 4679
+        },
+        "workflow.json": {
+          "sha256": "f2e94087656b8b3c4722cd1d340a37273a5d81f0b2c43f99aec63ed872eff315",
+          "bytes": 444
+        }
+      }
+    },
+    {
+      "document": "Webern Wie bin ich froh Op. 25 No. 1 - Graph 009",
+      "directory": "pages/Webern-Wie-bin-ich-froh-Op.-25-No.-1---Graph-009",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Webern%20Wie%20bin%20ich%20froh%20Op.%2025%20No.%201%20-%20Graph%20009",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 943,
+        "noteheads": 168,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 47
+      },
+      "annotation_canvas": "image.png",
+      "original_image": "original.png",
+      "files": {
+        "mung.xml": {
+          "sha256": "ddd7532caff7c99c9727ea10f13abdd08a4ef9ffb65b9d96065e7b3d21d70ede",
+          "bytes": 1193207
+        },
+        "image.png": {
+          "sha256": "65b37fa75b08b50a743bcf41e458328987f21f7b8ea086558f0dd01e9cc7adde",
+          "bytes": 18236683,
+          "width": 6757,
+          "height": 3629
+        },
+        "original.png": {
+          "sha256": "65b37fa75b08b50a743bcf41e458328987f21f7b8ea086558f0dd01e9cc7adde",
+          "bytes": 18236683,
+          "width": 6757,
+          "height": 3629
+        },
+        "workflow.json": {
+          "sha256": "115122367ec9eed9fb71b87b2d11f752270846fd785753638fb608bc2e7bf1fa",
+          "bytes": 448
+        }
+      }
+    },
+    {
+      "document": "Webern Wie bin ich froh Op. 25 No. 1 - Graph 010",
+      "directory": "pages/Webern-Wie-bin-ich-froh-Op.-25-No.-1---Graph-010",
+      "live_url": "https://mung-studio-schenker.com/#/simple-backend/Webern%20Wie%20bin%20ich%20froh%20Op.%2025%20No.%201%20-%20Graph%20010",
+      "stages": {
+        "recognition": "not-started",
+        "assembly": null,
+        "temporal": null
+      },
+      "status_origin": {
+        "recognition": "legacy_page_status",
+        "assembly": "not_recorded",
+        "temporal": "not_recorded"
+      },
+      "all_three_explicitly_done": false,
+      "counts": {
+        "nodes": 832,
+        "noteheads": 147,
+        "syntax_edges": 0,
+        "precedence_edges": 0,
+        "time_groups": 0,
+        "grouped_noteheads": 0,
+        "time_group_members": 0,
+        "nodes_with_mask": 0,
+        "observed_classes": 44
+      },
+      "annotation_canvas": "image.jpg",
+      "original_image": "original.jpg",
+      "files": {
+        "mung.xml": {
+          "sha256": "feabe4fa49156f01ecbfa9b6b552c48bff03d474c6a0f3636f5a5c7e02c96af1",
+          "bytes": 1052790
+        },
+        "image.jpg": {
+          "sha256": "d0affb4aaf7185e5bb4caeb395d265f4b1a412009f069fe92e42bb1f0c81a082",
+          "bytes": 1789429,
+          "width": 6757,
+          "height": 3815
+        },
+        "original.jpg": {
+          "sha256": "d0affb4aaf7185e5bb4caeb395d265f4b1a412009f069fe92e42bb1f0c81a082",
+          "bytes": 1789429,
+          "width": 6757,
+          "height": 3815
+        },
+        "workflow.json": {
+          "sha256": "10b65c7af580b0cca30077a7996bf35f745575b127f4a9e182a8b76a699efca2",
+          "bytes": 448
+        }
+      }
+    }
+  ]
+}
